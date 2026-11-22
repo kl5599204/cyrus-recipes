@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "gyudon",
+    "title": {
+      "en": "Yoshinoya-style beef bowl",
+      "zh": "日式吉野家牛肉飯"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "rice",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Thinly sliced beef",
+          "zh": "薄切肥牛／牛肉片"
+        },
+        "amount": "475 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "1.5"
+      },
+      {
+        "name": {
+          "en": "Japanese or short-grain rice, uncooked",
+          "zh": "日本米或珍珠米（生米）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Ginger, grated",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Japanese soy sauce",
+          "zh": "日式醬油"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Mirin",
+          "zh": "味醂"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sake",
+          "zh": "清酒"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1.5 tbsp"
+      },
+      {
+        "name": {
+          "en": "Instant dashi",
+          "zh": "鰹魚粉"
+        },
+        "amount": "0.5 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare",
+          "zh": "備料"
+        },
+        "en": "Slice the onion thinly. Cut long beef slices into bite-sized pieces and grate the ginger.",
+        "zh": "洋蔥切幼條；牛肉片太長可剪成易入口大小，薑磨成蓉。"
+      },
+      {
+        "title": {
+          "en": "Simmer the onion",
+          "zh": "煮洋蔥"
+        },
+        "en": "Combine water, soy sauce, mirin, sake, sugar and dashi in a pan. Add onion and simmer over medium heat for 5–7 minutes until soft.",
+        "zh": "將水、醬油、味醂、清酒、糖及鰹魚粉放入鍋中，加入洋蔥，中火煮5–7分鐘至軟。"
+      },
+      {
+        "title": {
+          "en": "Cook the beef",
+          "zh": "煮牛肉"
+        },
+        "en": "Stir in ginger. Add beef a few slices at a time so it does not clump. Simmer 3–5 minutes until fully cooked.",
+        "zh": "加入薑蓉拌勻，再逐片加入牛肉避免黏成一團；煮3–5分鐘至熟透。"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上碗"
+        },
+        "en": "Serve over hot rice with some cooking liquid. Keep the sauce slightly loose so it can soak into the rice.",
+        "zh": "牛肉及洋蔥鋪在熱飯上，淋上少量湯汁；醬汁保留少許流動感，方便拌飯。"
+      }
+    ],
+    "notes": {
+      "en": "If you do not have sake, replace it with 2 tbsp extra water. Pickled ginger or spring onion makes a good topping.",
+      "zh": "沒有清酒可用額外2湯匙水代替。可配紅薑絲或蔥花。"
+    }
+  },
+  {
+    "id": "carbonara-guanciale-cheddar",
+    "title": {
+      "en": "Guanciale & cheddar carbonara",
+      "zh": "煙頰肉車打芝士卡邦尼"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-22",
+    "tags": [
+      "pasta",
+      "guanciale",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Spaghetti",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Guanciale",
+          "zh": "煙頰肉"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Whole eggs",
+          "zh": "全蛋"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Egg yolks",
+          "zh": "蛋黃"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Cheddar, finely grated",
+          "zh": "車打芝士（幼刨）"
+        },
+        "amount": "70 g"
+      },
+      {
+        "name": {
+          "en": "Double cream, optional",
+          "zh": "雙忌廉（可選）"
+        },
+        "amount": "40 ml"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt for pasta water",
+          "zh": "煮意粉用鹽"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix the cheese and eggs",
+          "zh": "混合芝士蛋液"
+        },
+        "en": "Finely grate the cheddar. Whisk with whole eggs, yolks, cream if using, and plenty of black pepper until smooth.",
+        "zh": "車打芝士幼刨，與全蛋、蛋黃、可選忌廉及黑椒拌勻至順滑。"
+      },
+      {
+        "title": {
+          "en": "Render the guanciale",
+          "zh": "煎出煙頰肉油"
+        },
+        "en": "Put diced guanciale in a cold pan. Cook over medium-low heat for 7–10 minutes until golden and crisp. Keep the rendered fat in the pan.",
+        "zh": "煙頰肉切粒，冷鍋下鍋，以中小火煎7–10分鐘至金黃香脆，保留鍋中的油。"
+      },
+      {
+        "title": {
+          "en": "Cook the pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Boil spaghetti in salted water until al dente. Reserve about 200 ml pasta water, then drain.",
+        "zh": "意粉以鹽水煮至彈牙，留起約200毫升意粉水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Make the sauce",
+          "zh": "拌成醬汁"
+        },
+        "en": "Turn off the heat. Toss pasta in the guanciale fat, wait 30–45 seconds, then add 2–3 tbsp pasta water. Slowly add the egg mixture while tossing. Loosen gradually with pasta water until glossy.",
+        "zh": "熄火後將意粉拌入煙頰肉油，等30–45秒，加入2–3湯匙意粉水。邊拌邊慢慢加入蛋液，再逐少加意粉水至醬汁光亮掛麵。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Fold in the crispy guanciale and more black pepper. Taste before adding salt; the meat and cheddar are salty.",
+        "zh": "拌入香脆煙頰肉及額外黑椒。先試味才加鹽，煙頰肉和芝士已有鹹味。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the pan off the heat when adding eggs so they form a creamy sauce rather than scrambled eggs.",
+      "zh": "加入蛋液時必須離火，令蛋液成為忌廉狀醬汁而不是炒蛋。"
+    }
+  },
+  {
+    "id": "creamy-mushroom-chicken-rice",
+    "title": {
+      "en": "Creamy mushroom & guanciale chicken rice",
+      "zh": "忌廉蘑菇煙頰肉雞飯"
+    },
+    "cuisine": {
+      "en": "French-inspired",
+      "zh": "法式風味"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken",
+      "mushroom",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken, half a chicken cut into pieces",
+          "zh": "半隻雞（斬件）"
+        },
+        "amount": "500–700 g"
+      },
+      {
+        "name": {
+          "en": "Brown shimeji mushrooms",
+          "zh": "啡色鴻喜菇"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Guanciale",
+          "zh": "煙頰肉"
+        },
+        "amount": "40–60 g"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "10 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "0.5"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard",
+          "zh": "第戎芥末"
+        },
+        "amount": "1.5 tsp"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "0.5 tsp"
+      },
+      {
+        "name": {
+          "en": "Rice, uncooked",
+          "zh": "白米（生米）"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "White wine, optional",
+          "zh": "白酒（可選）"
+        },
+        "amount": "50 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Render the guanciale",
+          "zh": "煎煙頰肉"
+        },
+        "en": "Cook guanciale in a pan over medium heat until golden. Lift it out and keep the fat in the pan.",
+        "zh": "煙頰肉以中火煎至金黃，先盛起並保留鍋中的油。"
+      },
+      {
+        "title": {
+          "en": "Brown the chicken",
+          "zh": "煎香雞件"
+        },
+        "en": "Pat chicken dry, season, and brown in the guanciale fat. Turn to colour the sides, then set aside; it will finish cooking in the sauce.",
+        "zh": "雞件印乾並調味，用煙頰肉油煎至表面上色後盛起，稍後在醬汁中煮熟。"
+      },
+      {
+        "title": {
+          "en": "Cook the aromatics",
+          "zh": "炒香配料"
+        },
+        "en": "Add butter, onion, garlic and mushrooms. Cook until the onion softens and the mushrooms begin to brown. Add wine if using and scrape up the browned bits.",
+        "zh": "鍋中加入牛油、洋蔥、蒜頭和蘑菇，炒至洋蔥軟、蘑菇略為金黃。可加白酒並刮起鍋底焦香。"
+      },
+      {
+        "title": {
+          "en": "Simmer the chicken",
+          "zh": "燜煮雞件"
+        },
+        "en": "Add stock and thyme, return chicken, cover and simmer gently until cooked through. Stir in cream and Dijon mustard; simmer uncovered for 5–8 minutes until the sauce lightly thickens.",
+        "zh": "加入雞湯和百里香，放回雞件，蓋上鍋蓋以小火煮至熟透。加入忌廉及第戎芥末，開蓋煮5–8分鐘至醬汁略稠。"
+      },
+      {
+        "title": {
+          "en": "Finish and serve",
+          "zh": "完成上碟"
+        },
+        "en": "Return guanciale for the final 1–2 minutes. Serve with cooked rice and keep the sauce slightly loose so it can coat the rice.",
+        "zh": "最後1–2分鐘放回煙頰肉。配白飯享用，醬汁不要收得太乾，方便拌飯。"
+      }
+    ],
+    "notes": {
+      "en": "Taste before salting because guanciale and stock both add salt. Check chicken at the thickest part.",
+      "zh": "煙頰肉和雞湯都有鹹味，最後試味才加鹽。雞肉要檢查最厚位置是否熟透。"
+    }
+  },
+  {
+    "id": "prawn-caesar-salad",
+    "title": {
+      "en": "Garlic Caesar-style prawn salad",
+      "zh": "蒜香芝士大蝦凱撒沙律"
+    },
+    "cuisine": {
+      "en": "Hong Kong café-style",
+      "zh": "港式西餐廳風"
+    },
+    "type": {
+      "en": "Salad",
+      "zh": "沙律"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-22",
+    "tags": [
+      "prawns",
+      "salad",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Peeled prawns",
+          "zh": "去殼大蝦"
+        },
+        "amount": "330 g"
+      },
+      {
+        "name": {
+          "en": "Romaine lettuce",
+          "zh": "羅馬生菜"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Cucumber",
+          "zh": "青瓜"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Croutons",
+          "zh": "麵包粒"
+        },
+        "amount": "45 g"
+      },
+      {
+        "name": {
+          "en": "Mayonnaise",
+          "zh": "蛋黃醬"
+        },
+        "amount": "5 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Lemon juice",
+          "zh": "檸檬汁"
+        },
+        "amount": "1.5 tbsp"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard",
+          "zh": "第戎芥末"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Worcestershire sauce",
+          "zh": "喼汁"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Parmesan, grated",
+          "zh": "巴馬臣芝士（刨碎）"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook the prawns",
+          "zh": "煎熟大蝦"
+        },
+        "en": "Pat prawns dry and season lightly. Pan-fry over medium heat for about 1–2 minutes per side, until opaque and cooked through. Cool slightly.",
+        "zh": "大蝦印乾並輕輕調味，以中火每面煎約1–2分鐘至不透明熟透，稍為放涼。"
+      },
+      {
+        "title": {
+          "en": "Mix the dressing",
+          "zh": "調沙律醬"
+        },
+        "en": "Stir mayonnaise, garlic, lemon juice, mustard, Worcestershire sauce, Parmesan and olive oil together. Add a little cold water if needed to loosen.",
+        "zh": "蛋黃醬、蒜蓉、檸檬汁、芥末、喼汁、巴馬臣芝士及橄欖油拌勻；太稠可加少量凍水。"
+      },
+      {
+        "title": {
+          "en": "Assemble",
+          "zh": "組合沙律"
+        },
+        "en": "Wash and thoroughly dry the lettuce. Toss with cucumber and about half the dressing. Top with prawns and croutons, then finish with the remaining dressing and black pepper.",
+        "zh": "生菜洗淨並徹底瀝乾，與青瓜及一半沙律醬拌勻。放上大蝦和麵包粒，再加餘下沙律醬及黑椒。"
+      }
+    ],
+    "notes": {
+      "en": "For a less rich dressing, add a little more lemon juice. Parmesan is closer to classic Caesar flavour than cheddar.",
+      "zh": "想清爽一點可加少許檸檬汁。巴馬臣芝士比車打芝士更接近經典凱撒醬味道。"
+    }
+  },
+  {
+    "id": "tuna-mushroom-pasta",
+    "title": {
+      "en": "Creamy tuna & mushroom pasta",
+      "zh": "忌廉吞拿魚蘑菇意粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-22",
+    "tags": [
+      "tuna",
+      "mushroom",
+      "pasta"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "285 g"
+      },
+      {
+        "name": {
+          "en": "Canned tuna, drained",
+          "zh": "罐頭吞拿魚（瀝乾）"
+        },
+        "amount": "2 cans"
+      },
+      {
+        "name": {
+          "en": "Mushrooms",
+          "zh": "蘑菇"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "15 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Mature cheddar, grated",
+          "zh": "熟成車打芝士（刨碎）"
+        },
+        "amount": "25–30 g"
+      },
+      {
+        "name": {
+          "en": "Spinach",
+          "zh": "菠菜"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Pasta water",
+          "zh": "意粉水"
+        },
+        "amount": "150–200 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook the pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Boil pasta in salted water until al dente. Reserve about 200 ml cooking water, then drain.",
+        "zh": "意粉以鹽水煮至彈牙，留起約200毫升意粉水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Brown the mushrooms",
+          "zh": "煎香蘑菇"
+        },
+        "en": "Slice mushrooms. Heat olive oil and butter in a pan; cook over medium-high heat for 5–7 minutes until golden.",
+        "zh": "蘑菇切片。平底鑊加橄欖油及牛油，中大火煎5–7分鐘至金黃。"
+      },
+      {
+        "title": {
+          "en": "Make the sauce",
+          "zh": "煮白汁"
+        },
+        "en": "Add garlic and cook for 30 seconds. Stir in cream and 100 ml pasta water; simmer gently for 1–2 minutes. Add cheddar and stir until melted.",
+        "zh": "加入蒜蓉炒30秒，加入忌廉及100毫升意粉水，小火煮1–2分鐘。加入車打芝士拌至融化。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Fold in drained tuna, pasta and spinach. Add more pasta water a little at a time until the sauce coats the pasta. Season with black pepper.",
+        "zh": "拌入瀝乾吞拿魚、意粉及菠菜。逐少加意粉水至醬汁掛麵，最後以黑椒調味。"
+      }
+    ],
+    "notes": {
+      "en": "Brown the mushrooms before adding cream. Add tuna near the end to keep it in pieces.",
+      "zh": "蘑菇先煎香才加忌廉；吞拿魚最後加入，可保留肉塊口感。"
+    }
+  },
+  {
+    "id": "mushroom-leek-potato-soup",
+    "title": {
+      "en": "Creamy mushroom, leek & potato soup",
+      "zh": "忌廉蘑菇韭蔥薯仔湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-22",
+    "tags": [
+      "mushroom",
+      "soup",
+      "vegetarian"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "590 g"
+      },
+      {
+        "name": {
+          "en": "Potatoes, peeled and diced",
+          "zh": "薯仔（去皮切粒）"
+        },
+        "amount": "275 g"
+      },
+      {
+        "name": {
+          "en": "Leek, sliced",
+          "zh": "韭蔥（切片）"
+        },
+        "amount": "190 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chicken or vegetable stock",
+          "zh": "雞湯或蔬菜湯"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "125 ml"
+      },
+      {
+        "name": {
+          "en": "Dried thyme",
+          "zh": "乾百里香"
+        },
+        "amount": "0.5 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown the mushrooms",
+          "zh": "煎香蘑菇"
+        },
+        "en": "Heat oil and half the butter. Cook mushrooms in batches over medium-high heat until deeply golden, 8–12 minutes. Reserve a handful for garnish.",
+        "zh": "加熱橄欖油及一半牛油，分批以中大火煎蘑菇8–12分鐘至深金黃色，留起少量作裝飾。"
+      },
+      {
+        "title": {
+          "en": "Soften the leek",
+          "zh": "炒軟韭蔥"
+        },
+        "en": "Add remaining butter and leek; cook 5–6 minutes until soft. Add garlic and thyme and cook for 30 seconds.",
+        "zh": "加入餘下牛油及韭蔥，炒5–6分鐘至軟。加入蒜蓉和百里香再炒30秒。"
+      },
+      {
+        "title": {
+          "en": "Simmer",
+          "zh": "煮至軟腍"
+        },
+        "en": "Add potatoes, mushrooms and stock. Bring to a boil, then simmer for 15–20 minutes until the potatoes are tender.",
+        "zh": "加入薯仔、蘑菇及湯底，煮滾後轉小火煮15–20分鐘至薯仔軟腍。"
+      },
+      {
+        "title": {
+          "en": "Blend and finish",
+          "zh": "打滑並完成"
+        },
+        "en": "Blend until smooth. Stir in cream over low heat; season with salt and black pepper. Add hot stock or water if the soup is too thick.",
+        "zh": "將湯打至滑身，以小火拌入忌廉，再用鹽和黑椒調味。太稠可加熱湯或水調整。"
+      }
+    ],
+    "notes": {
+      "en": "Reserve a few browned mushrooms for topping. Blend hot liquids carefully in batches.",
+      "zh": "留起少量煎香蘑菇作配料。用攪拌機處理熱湯時要分批並小心防止濺出。"
+    }
+  },
+  {
+    "id": "dan-dan-soup-noodles",
+    "title": {
+      "en": "Sichuan-style sesame soup dan dan noodles",
+      "zh": "四川麻醬湯擔擔麵"
+    },
+    "cuisine": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "麵"
+    },
+    "baseServings": 2,
+    "minutes": 35,
+    "added": "2026-11-22",
+    "tags": [
+      "pork",
+      "noodles",
+      "spicy"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Minced pork",
+          "zh": "豬肉碎"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Noodles",
+          "zh": "麵條"
+        },
+        "amount": "220 g"
+      },
+      {
+        "name": {
+          "en": "Preserved mustard greens",
+          "zh": "芽菜碎"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Spring onions",
+          "zh": "蔥花"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Ginger, grated",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Sesame paste",
+          "zh": "芝麻醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chinkiang vinegar",
+          "zh": "鎮江醋"
+        },
+        "amount": "2 tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sichuan chilli oil",
+          "zh": "四川辣椒油"
+        },
+        "amount": "1–2 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook the pork topping",
+          "zh": "炒肉臊"
+        },
+        "en": "Brown pork in a little oil. Add ginger and garlic; fry until fragrant. Add preserved mustard greens and cook for 2 minutes. Season lightly with soy sauce.",
+        "zh": "少油將豬肉碎炒至微金黃，加入薑蓉和蒜蓉炒香，再加入芽菜碎炒2分鐘，以少量生抽調味。"
+      },
+      {
+        "title": {
+          "en": "Make the sesame base",
+          "zh": "調芝麻醬"
+        },
+        "en": "Mix sesame paste with soy sauce, vinegar and sugar. Gradually whisk in a little warm stock until smooth.",
+        "zh": "芝麻醬與生抽、醋及糖拌勻，逐少加入暖雞湯攪至順滑。"
+      },
+      {
+        "title": {
+          "en": "Warm the broth",
+          "zh": "煮湯底"
+        },
+        "en": "Heat the remaining stock. Stir in the sesame mixture and Sichuan pepper if using. Keep at a gentle simmer; do not boil hard.",
+        "zh": "加熱餘下雞湯，拌入芝麻醬及可選花椒粉，以微滾方式加熱，不要大火滾煮。"
+      },
+      {
+        "title": {
+          "en": "Cook and serve",
+          "zh": "煮麵上碗"
+        },
+        "en": "Cook noodles separately and divide between bowls. Ladle in broth, add pork topping and spring onions. Add chilli oil to taste.",
+        "zh": "麵條另鍋煮熟後分入碗中，加入湯底、肉臊及蔥花，按口味加辣椒油。"
+      }
+    ],
+    "notes": {
+      "en": "For one spicy and one mild bowl, divide the broth before adding chilli oil.",
+      "zh": "想一碗辣、一碗不辣，可先分開湯底，再只在辣味那碗加入辣椒油。"
+    }
+  },
+  {
+    "id": "mayak-gyeran",
+    "title": {
+      "en": "Quick Korean soy-marinated eggs",
+      "zh": "快速韓式醬油溏心蛋"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-22",
+    "tags": [
+      "egg",
+      "make-ahead",
+      "side"
+    ],
+    "image": "https://images.unsplash.com/photo-1518569656558-1f25e69d93d7?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Eggs",
+          "zh": "雞蛋"
+        },
+        "amount": "6"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Sugar or honey",
+          "zh": "糖或蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Rice vinegar",
+          "zh": "米醋"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Spring onions, chopped",
+          "zh": "蔥花"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "白芝麻"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chilli, optional",
+          "zh": "辣椒（可選）"
+        },
+        "amount": "2"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Boil and peel the eggs",
+          "zh": "煮蛋及剝殼"
+        },
+        "en": "Lower eggs into boiling water and cook for 6–7 minutes for jammy yolks. Transfer to ice-cold water, cool, then peel carefully.",
+        "zh": "雞蛋放入滾水煮6–7分鐘做溏心蛋，立即放入冰水降溫，冷卻後小心剝殼。"
+      },
+      {
+        "title": {
+          "en": "Make the marinade",
+          "zh": "調醃汁"
+        },
+        "en": "Warm soy sauce, water and sugar until the sugar dissolves. Remove from heat; stir in vinegar, sesame oil, garlic, spring onion, sesame seeds and optional chilli.",
+        "zh": "生抽、水及糖加熱至糖溶化後離火，拌入醋、麻油、蒜蓉、蔥花、芝麻及可選辣椒。"
+      },
+      {
+        "title": {
+          "en": "Marinate",
+          "zh": "浸醃"
+        },
+        "en": "Place peeled eggs in a container and pour over the warm, not boiling, marinade. Chill for at least 30–40 minutes, turning once or twice.",
+        "zh": "剝殼蛋放入盒中，倒入暖而非滾燙的醃汁，冷藏至少30–40分鐘，中途翻動一至兩次。"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "享用"
+        },
+        "en": "Halve the eggs and spoon some marinade over. Serve with rice or noodles.",
+        "zh": "雞蛋切半，淋上少量醃汁，配飯或麵享用。"
+      }
+    ],
+    "notes": {
+      "en": "Keep marinating eggs refrigerated. For runny eggs, follow UK advice for egg assurance marks and vulnerable groups.",
+      "zh": "醃蛋須放雪櫃保存。食用溏心蛋時，請留意英國對蛋品認證及高風險人士的建議。"
+    }
+  },
+  {
+    "id": "burger-steak",
+    "title": {
+      "en": "Saucy burger steak",
+      "zh": "多汁漢堡扒"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "comfort food",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef mince",
+          "zh": "牛肉碎"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Onion, finely diced",
+          "zh": "洋蔥（切碎）"
+        },
+        "amount": "0.5"
+      },
+      {
+        "name": {
+          "en": "Egg",
+          "zh": "雞蛋"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Breadcrumbs",
+          "zh": "麵包糠"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Ketchup",
+          "zh": "茄汁"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Worcestershire sauce",
+          "zh": "喼汁"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛肉湯"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "粟粉"
+        },
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix and shape",
+          "zh": "拌餡及造型"
+        },
+        "en": "Soften the onion in a little oil and cool. Mix beef, onion, egg, breadcrumbs, milk, salt and pepper gently. Shape into three oval patties; press out air pockets.",
+        "zh": "少油炒軟洋蔥並放涼。牛肉碎、洋蔥、雞蛋、麵包糠、牛奶、鹽及黑椒輕輕拌勻，分成三份橢圓形漢堡扒並壓走空氣。"
+      },
+      {
+        "title": {
+          "en": "Brown the patties",
+          "zh": "煎香漢堡扒"
+        },
+        "en": "Heat a lightly oiled pan over medium heat. Brown patties for 3–4 minutes per side, then lower heat and cook through. Set aside to rest.",
+        "zh": "平底鑊加少量油以中火煎漢堡扒，每面3–4分鐘上色，再轉小火煮至熟透，盛起稍作休息。"
+      },
+      {
+        "title": {
+          "en": "Make the sauce",
+          "zh": "煮醬汁"
+        },
+        "en": "Add ketchup, Worcestershire sauce and stock to the pan. Simmer and scrape up browned bits. Stir cornflour with cold water, then add gradually until glossy and thickened.",
+        "zh": "鍋中加入茄汁、喼汁及牛肉湯，煮滾並刮起鍋底焦香。粟粉加凍水拌勻，逐少加入煮至醬汁光亮濃稠。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Return patties to the sauce briefly to coat. Serve with rice or mashed potato.",
+        "zh": "漢堡扒放回醬汁中略煮並裹上醬汁，配飯或薯蓉享用。"
+      }
+    ],
+    "notes": {
+      "en": "For home food safety, cook minced-meat patties thoroughly; do not serve burgers pink.",
+      "zh": "家中烹調肉碎漢堡扒須徹底煮熟，不應以粉紅色或半生狀態上桌。"
+    }
+  },
+  {
+    "id": "creamy-chicken-braise",
+    "title": {
+      "en": "Creamy chicken braise with vegetables",
+      "zh": "忌廉蔬菜燴雞"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 55,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken",
+      "one-pot",
+      "comfort food"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken thighs",
+          "zh": "雞髀肉"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Carrot",
+          "zh": "紅蘿蔔"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "300 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown the chicken",
+          "zh": "煎香雞肉"
+        },
+        "en": "Season chicken and brown in a heavy pan with a little oil. Remove and set aside.",
+        "zh": "雞肉調味後以少量油在厚底鍋煎至表面上色，盛起備用。"
+      },
+      {
+        "title": {
+          "en": "Cook the vegetables",
+          "zh": "炒蔬菜"
+        },
+        "en": "Add onion, carrot and potatoes. Cook for 5 minutes, then add garlic and thyme for 30 seconds.",
+        "zh": "加入洋蔥、紅蘿蔔及薯仔炒5分鐘，再加蒜頭和百里香炒30秒。"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "燴煮"
+        },
+        "en": "Pour in stock and return chicken. Cover and simmer gently for 25–30 minutes until the vegetables are tender and chicken is cooked through.",
+        "zh": "加入雞湯並放回雞肉，蓋上鍋蓋小火燴25–30分鐘，至蔬菜軟腍及雞肉熟透。"
+      },
+      {
+        "title": {
+          "en": "Add cream",
+          "zh": "加入忌廉"
+        },
+        "en": "Stir in cream and simmer uncovered for 4–5 minutes. Taste and adjust seasoning.",
+        "zh": "拌入忌廉，開蓋煮4–5分鐘，試味並調整調味。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the simmer gentle after adding cream. Check chicken at the thickest part.",
+      "zh": "加入忌廉後保持小火微滾；雞肉要檢查最厚位置是否熟透。"
+    }
+  }
+]
