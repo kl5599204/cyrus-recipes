@@ -1,0 +1,114 @@
+[
+  {
+    "title": {
+      "en": "Boiled egg timing",
+      "zh": "水煮蛋時間"
+    },
+    "body": [
+      {
+        "en": "For medium eggs starting from the fridge, lower into gently boiling water: about 6 minutes for a runny yolk, 7–8 minutes for a jammy yolk, and 10–11 minutes for a firm yolk. Cool in cold water to stop the cooking.",
+        "zh": "以雪櫃取出的中型雞蛋為準，放入微滾水中：流心約6分鐘、半熟濃心約7–8分鐘、全熟約10–11分鐘。煮好放入凍水降溫以停止加熱。"
+      },
+      {
+        "en": "Large eggs may need roughly 30–60 seconds longer. Times vary with egg size, starting temperature, pan and hob; adjust to your preference.",
+        "zh": "大蛋可加約30–60秒。雞蛋大小、起始溫度、鍋具及爐火都會影響時間，請按喜好微調。"
+      },
+      {
+        "en": "For runny or raw eggs, follow UK guidance for vulnerable groups: use eggs with a British Lion mark or Laid in Britain assurance scheme.",
+        "zh": "食用流心或生蛋時，高風險人士應按英國指引選用有 British Lion 標誌或 Laid in Britain 認證的雞蛋。"
+      }
+    ],
+    "source": {
+      "url": "https://www.food.gov.uk/food-safety-and-hygiene/eggs",
+      "label": "UK Food Standards Agency · Eggs"
+    }
+  },
+  {
+    "title": {
+      "en": "Thorough cooking: time and temperature",
+      "zh": "徹底煮熟：時間與溫度"
+    },
+    "body": [
+      {
+        "en": "The Food Standards Agency’s standard advice is to reach 70°C at the centre for 2 minutes. Equivalent combinations are 60°C for 45 minutes, 65°C for 10 minutes, 75°C for 30 seconds, or 80°C for 6 seconds.",
+        "zh": "英國食品標準局的標準建議為中心溫度達70°C並維持2分鐘。相等組合包括60°C維持45分鐘、65°C維持10分鐘、75°C維持30秒，或80°C維持6秒。"
+      },
+      {
+        "en": "Use a clean probe in the thickest part. Chicken, minced meat, burgers, sausages, kebabs and rolled joints need thorough cooking throughout; do not use steak doneness temperatures for them.",
+        "zh": "用清潔探針量度最厚位置。雞肉、免治肉、漢堡扒、香腸、肉串及捲起的肉卷都須徹底煮熟；牛扒生熟度溫度不可套用於這些食物。"
+      }
+    ],
+    "source": {
+      "url": "https://www.food.gov.uk/safety-hygiene/cooking-your-food",
+      "label": "UK Food Standards Agency · Cooking your food"
+    }
+  },
+  {
+    "title": {
+      "en": "Steak doneness guide (preference)",
+      "zh": "牛扒生熟度參考（個人喜好）"
+    },
+    "body": [
+      {
+        "en": "Approximate pull-from-pan temperatures before resting: rare 48–50°C, medium-rare 52–54°C, medium 57–60°C, medium-well 63–66°C, well-done 68°C and above. Resting raises the temperature a little.",
+        "zh": "離鍋前的約略中心溫度：三成熟48–50°C、五成熟52–54°C、七成熟57–60°C、七至全熟63–66°C、全熟68°C以上。靜置時溫度會略升。"
+      },
+      {
+        "en": "These are culinary preference ranges, not a universal safety chart. UK FSA guidance allows intact whole cuts of beef or lamb to be pink if the outside is fully cooked. It does not apply to minced, rolled, tenderised or skewered meat.",
+        "zh": "這些是烹調喜好的參考範圍，不是通用食安標準。英國食品標準局指完整牛肉或羊肉可保留粉紅色，但外層須徹底煎熟；免治、捲肉、嫩化或串起的肉不適用。"
+      }
+    ],
+    "source": {
+      "url": "https://www.food.gov.uk/safety-hygiene/cooking-your-food",
+      "label": "UK Food Standards Agency · Whole cuts of meat"
+    }
+  },
+  {
+    "title": {
+      "en": "Scale a recipe",
+      "zh": "調整食譜份量"
+    },
+    "body": [
+      {
+        "en": "Multiply each quantity by new servings ÷ original servings. Adjust strong seasonings, salt and chilli more cautiously, tasting as you go.",
+        "zh": "新份量 ÷ 原食譜份量 = 倍率。鹽、辣椒及味道較強的調味料宜先少量增加，途中試味再調整。"
+      },
+      {
+        "en": "Cooking time usually does not scale in the same way as ingredients. Use a wider pan or cook in batches when a larger amount would crowd the pan.",
+        "zh": "烹調時間通常不會按材料倍率同步增加。份量大時可改用較闊鍋具或分批烹調，避免鍋內太擠。"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Pasta water",
+      "zh": "意粉水"
+    },
+    "body": [
+      {
+        "en": "Before draining pasta, reserve a mug of the starchy cooking water. Add it a spoonful at a time to loosen and emulsify a sauce.",
+        "zh": "瀝乾意粉前留起一杯帶澱粉的煮麵水。每次加一湯匙到醬汁中，可調稀並幫助乳化。"
+      },
+      {
+        "en": "Salt the water so it tastes lightly seasoned. If the sauce or cured meat is salty, add less salt to the pasta water.",
+        "zh": "煮麵水調至略有鹹味即可。如果醬汁或醃肉本身較鹹，煮麵水要少放鹽。"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Resting meat",
+      "zh": "肉類靜置"
+    },
+    "body": [
+      {
+        "en": "After pan-frying or roasting, rest a steak or chop for about 5–10 minutes, loosely covered. Rest a larger roast for longer.",
+        "zh": "牛扒或豬扒煎／烤好後，鬆鬆蓋上並靜置約5–10分鐘；大件烤肉需更長時間。"
+      },
+      {
+        "en": "Resting helps the meat finish cooking gently and makes it easier to slice without losing as much juice.",
+        "zh": "靜置讓肉類溫和地完成熟成，切片時亦較不易流失肉汁。"
+      }
+    ]
+  }
+]
