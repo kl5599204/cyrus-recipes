@@ -2962,5 +2962,731 @@
       "en": "Keep the sauce gently simmering when adding the slurry. Serve with rice and leave enough sauce to spoon over it.",
       "zh": "加入生粉水時保持小火微滾。配白飯享用，可保留較多醬汁拌飯。"
     }
+  },
+  {
+    "id": "creamy-mentaiko-pasta",
+    "title": {
+      "en": "Creamy mentaiko pasta",
+      "zh": "忌廉明太子意粉"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-22",
+    "tags": [
+      "pasta",
+      "cod roe",
+      "quick",
+      "creamy"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Spaghetti",
+          "zh": "意粉"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Seasoned cod roe",
+          "zh": "明太子"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "125 ml"
+      },
+      {
+        "name": {
+          "en": "Unsalted butter",
+          "zh": "無鹽牛油"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Onion, finely diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "⅓"
+      },
+      {
+        "name": {
+          "en": "White wine",
+          "zh": "白酒"
+        },
+        "amount": "1 tbsp + ½ tsp"
+      },
+      {
+        "name": {
+          "en": "Japanese soy sauce",
+          "zh": "日式醬油"
+        },
+        "amount": "⅝ tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "a pinch"
+      },
+      {
+        "name": {
+          "en": "Pasta water, reserved",
+          "zh": "意粉水"
+        },
+        "amount": "100–150 ml"
+      },
+      {
+        "name": {
+          "en": "Nori, shredded",
+          "zh": "紫菜絲"
+        },
+        "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Spring onion and lemon, optional",
+          "zh": "蔥花及檸檬（可選）"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Boil spaghetti in salted water until al dente. Reserve at least 150 ml pasta water, then drain.",
+        "zh": "意粉以鹽水煮至彈牙，留起至少150毫升意粉水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Soften the aromatics",
+          "zh": "炒香配料"
+        },
+        "en": "Melt butter over medium-low heat. Add onion and cook for 2–3 minutes until soft. Add garlic and cook for 30 seconds.",
+        "zh": "中小火融化牛油，加入洋蔥炒2–3分鐘至軟，再加入蒜蓉炒30秒。"
+      },
+      {
+        "title": {
+          "en": "Make the cream sauce",
+          "zh": "煮忌廉醬"
+        },
+        "en": "Add white wine and reduce for 30–45 seconds. Stir in cream, 100 ml pasta water, soy sauce, sugar and black pepper; warm gently.",
+        "zh": "加入白酒煮30–45秒至略為收乾。加入忌廉、100毫升意粉水、醬油、糖及黑椒，輕輕加熱。"
+      },
+      {
+        "title": {
+          "en": "Fold in the roe",
+          "zh": "拌入明太子"
+        },
+        "en": "Turn off the heat. Stir in about 80 g cod roe until the sauce turns coral pink. Do not boil the roe.",
+        "zh": "熄火，拌入約80克明太子至醬汁呈珊瑚粉紅色。加入明太子後不要煮滾。"
+      },
+      {
+        "title": {
+          "en": "Toss and serve",
+          "zh": "拌麵上桌"
+        },
+        "en": "Add spaghetti and toss until glossy, adding reserved pasta water a little at a time as needed. Top with remaining roe, nori and optional spring onion; finish with a few drops of lemon if desired.",
+        "zh": "加入意粉拌至光亮，按需要逐少加入意粉水。放上餘下明太子、紫菜及可選蔥花；喜歡的話最後加幾滴檸檬汁。"
+      }
+    ],
+    "notes": {
+      "en": "Aim for a silky, loose sauce rather than a thick cream coating. Adding the roe off the heat helps keep its texture smooth.",
+      "zh": "醬汁以絲滑流動為佳，不要煮到像濃稠白汁。離火後才加入明太子，可避免口感變粗。"
+    }
+  },
+  {
+    "id": "honey-black-pepper-beef-rice",
+    "title": {
+      "en": "Honey black pepper beef rice bowls",
+      "zh": "蜜糖黑椒牛扒蓋飯"
+    },
+    "cuisine": {
+      "en": "Hong Kong café-style",
+      "zh": "港式西餐廳風"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "rice",
+      "honey",
+      "black pepper"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Steak, thinly sliced across the grain",
+          "zh": "牛扒（逆紋切薄片）"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟白飯"
+        },
+        "amount": "750 g"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Spring onion, optional",
+          "zh": "蔥花（可選）"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "8 tbsp"
+      },
+      {
+        "name": {
+          "en": "Worcestershire sauce",
+          "zh": "喼汁"
+        },
+        "amount": "2 tsp"
+      },
+      {
+        "name": {
+          "en": "Cracked black pepper",
+          "zh": "黑椒碎"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "粟粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce for beef",
+          "zh": "生抽（醃牛肉）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Black pepper for beef",
+          "zh": "黑椒碎（醃牛肉）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour for beef",
+          "zh": "粟粉（醃牛肉）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Oil for beef",
+          "zh": "食用油（醃牛肉）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water for beef",
+          "zh": "水（醃牛肉）"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate the beef",
+          "zh": "醃牛肉"
+        },
+        "en": "Slice steak 5–10 mm thick across the grain. Mix with soy sauce, pepper, cornflour, water and oil. Rest for 15 minutes.",
+        "zh": "牛扒逆紋切成約5–10毫米薄片，加入生抽、黑椒、粟粉、水及油拌勻，醃15分鐘。"
+      },
+      {
+        "title": {
+          "en": "Cook the onion",
+          "zh": "炒洋蔥"
+        },
+        "en": "Melt about 10 g butter in a pan over medium heat. Cook onion for 3–5 minutes until soft and lightly golden; remove.",
+        "zh": "中火融化約10克牛油，炒洋蔥3–5分鐘至軟身微金黃，盛起備用。"
+      },
+      {
+        "title": {
+          "en": "Sear beef in batches",
+          "zh": "分批快煎牛肉"
+        },
+        "en": "Add a little oil and sear beef in two or three batches for about 30–60 seconds per side, just until browned and cooked through. Remove each batch.",
+        "zh": "加少許油，將牛肉分兩至三批，每面約煎30–60秒至熟透上色後盛起。"
+      },
+      {
+        "title": {
+          "en": "Simmer the sauce",
+          "zh": "煮黑椒醬"
+        },
+        "en": "Whisk honey, soy, oyster sauce, water, Worcestershire, pepper, garlic and cornflour. Pour into the pan, add onion and simmer 1–2 minutes until lightly glossy. Add a splash of water if too thick.",
+        "zh": "蜜糖、生抽、蠔油、水、喼汁、黑椒、蒜蓉及粟粉拌勻，倒入鑊中並加入洋蔥，小火煮1–2分鐘至略為光亮掛匙。太稠可加少量水。"
+      },
+      {
+        "title": {
+          "en": "Finish and serve",
+          "zh": "完成上碟"
+        },
+        "en": "Return beef to the pan and toss briefly until coated and hot. Divide rice into bowls, top with beef, onion and sauce, then finish with remaining butter and optional spring onion.",
+        "zh": "牛肉回鑊快速兜勻至熱透並裹上醬汁。白飯分碗，鋪上牛肉、洋蔥和醬汁，最後加餘下牛油及可選蔥花。"
+      }
+    ],
+    "notes": {
+      "en": "Avoid crowding the pan so the beef sears instead of steaming. Taste the sauce before adding extra salt.",
+      "zh": "不要一次過放太多牛肉，避免焗出水而不能煎香。加鹽前先試醬汁味道。"
+    }
+  },
+  {
+    "id": "hot-and-sour-soup",
+    "title": {
+      "en": "Chinese hot and sour soup",
+      "zh": "中式酸辣湯"
+    },
+    "cuisine": {
+      "en": "China",
+      "zh": "中國"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-22",
+    "tags": [
+      "soup",
+      "tofu",
+      "mushroom",
+      "vegetarian option"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork, finely shredded (optional)",
+          "zh": "豬肉絲（可選）"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Dried shiitake mushrooms, soaked and sliced",
+          "zh": "乾冬菇（浸軟切絲）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Firm tofu, cut into thin strips",
+          "zh": "硬豆腐（切幼條）"
+        },
+        "amount": "½ block"
+      },
+      {
+        "name": {
+          "en": "Wood ear mushrooms, soaked and sliced",
+          "zh": "木耳（浸軟切絲）"
+        },
+        "amount": "a small handful"
+      },
+      {
+        "name": {
+          "en": "Enoki mushrooms, optional",
+          "zh": "金針菇（可選）"
+        },
+        "amount": "10 g"
+      },
+      {
+        "name": {
+          "en": "Egg, beaten",
+          "zh": "雞蛋（打散）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Water or stock",
+          "zh": "水或高湯"
+        },
+        "amount": "800 ml"
+      },
+      {
+        "name": {
+          "en": "Zhenjiang or black vinegar",
+          "zh": "鎮江醋或黑醋"
+        },
+        "amount": "2½–3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒粉"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Dark soy sauce, optional",
+          "zh": "老抽（可選）"
+        },
+        "amount": "a little"
+      },
+      {
+        "name": {
+          "en": "Chilli oil",
+          "zh": "辣油"
+        },
+        "amount": "1–2 tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "粟粉"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Water for slurry",
+          "zh": "勾芡用水"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion, shredded",
+          "zh": "蔥（切絲）"
+        },
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare the ingredients",
+          "zh": "備料"
+        },
+        "en": "Soak dried mushrooms until soft, then slice. Cut tofu into thin strips and beat the egg. If using pork, season lightly and toss with a little cornflour.",
+        "zh": "乾冬菇浸軟後切絲，豆腐切幼條並打散雞蛋。如用豬肉，輕輕調味並拌少許生粉。"
+      },
+      {
+        "title": {
+          "en": "Simmer soup ingredients",
+          "zh": "煮湯料"
+        },
+        "en": "Bring stock to a simmer. Add mushrooms, tofu, optional enoki and pork if using. Cook until ingredients are tender and pork is thoroughly cooked.",
+        "zh": "高湯煮至微滾，加入冬菇、木耳、豆腐、可選金針菇及豬肉，煮至材料軟身、豬肉熟透。"
+      },
+      {
+        "title": {
+          "en": "Season and thicken",
+          "zh": "調味勾芡"
+        },
+        "en": "Stir in soy sauce, white pepper and a little dark soy if desired. Mix cornflour with water, then pour in gradually while stirring until lightly thickened.",
+        "zh": "加入生抽、白胡椒及可選少量老抽調色。粟粉加水拌勻，邊攪邊逐少倒入至湯略為濃稠。"
+      },
+      {
+        "title": {
+          "en": "Add egg ribbons",
+          "zh": "加入蛋花"
+        },
+        "en": "Lower the heat. Slowly drizzle in beaten egg in a thin stream. Pause briefly, then stir gently to form ribbons.",
+        "zh": "轉小火，將蛋液慢慢繞圈淋入，稍停片刻後輕輕攪動形成蛋花。"
+      },
+      {
+        "title": {
+          "en": "Finish with vinegar and chilli",
+          "zh": "最後加醋和辣油"
+        },
+        "en": "Turn off the heat. Stir in vinegar and chilli oil, then taste and adjust acidity, pepper and heat. Garnish with spring onion.",
+        "zh": "熄火後加入醋和辣油，試味並調整酸度、胡椒及辣度，最後撒上蔥絲。"
+      }
+    ],
+    "notes": {
+      "en": "Adding vinegar off the heat keeps its aroma bright. For a vegetarian version, use vegetable stock and omit pork.",
+      "zh": "熄火後才加醋，香氣會更突出。素食版本可用蔬菜高湯並省略豬肉。"
+    }
+  },
+  {
+    "id": "ginger-scallion-oysters",
+    "title": {
+      "en": "Hong Kong ginger & scallion baked oysters",
+      "zh": "港式薑蔥焗蠔"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-22",
+    "tags": [
+      "oysters",
+      "ginger",
+      "scallion",
+      "seafood"
+    ],
+    "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Frozen shucked oysters",
+          "zh": "急凍去殼生蠔"
+        },
+        "amount": "500–600 g"
+      },
+      {
+        "name": {
+          "en": "Old ginger, thickly sliced",
+          "zh": "老薑（切厚片）"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Spring onions, white and green parts separated",
+          "zh": "蔥（蔥白、蔥綠分開）"
+        },
+        "amount": "5–6"
+      },
+      {
+        "name": {
+          "en": "Garlic, sliced",
+          "zh": "蒜頭（切片）"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Onion, coarsely sliced, optional",
+          "zh": "洋蔥（粗切，可選）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Cornflour for coating",
+          "zh": "生粉（撲蠔用）"
+        },
+        "amount": "3–4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "食用油"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Dark soy sauce",
+          "zh": "老抽"
+        },
+        "amount": "¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine or rice wine",
+          "zh": "紹興酒或米酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chicken stock or water",
+          "zh": "雞湯或水"
+        },
+        "amount": "60 ml"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒粉"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Cornflour for sauce",
+          "zh": "生粉（芡汁）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Water for slurry",
+          "zh": "生粉水用水"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Thaw and dry oysters",
+          "zh": "解凍及印乾生蠔"
+        },
+        "en": "Thaw in the refrigerator or, if sealed, in cold water. Drain and pat very dry with kitchen paper. Dust lightly with cornflour and shake off excess.",
+        "zh": "放雪櫃解凍；如包裝密封亦可用凍水解凍。瀝乾後用廚房紙徹底印乾，薄薄撲生粉並抖走多餘粉末。"
+      },
+      {
+        "title": {
+          "en": "Sear in batches",
+          "zh": "分批煎香"
+        },
+        "en": "Heat about 2 tbsp oil in a hot pan. Sear oysters in batches with space between them until the surface sets and lightly colours. Remove; they will finish cooking in the sauce.",
+        "zh": "熱鑊加入約2湯匙油，生蠔分批下鑊並留空間，煎至表面定形、略帶金黃後盛起，稍後在醬汁中煮熟。"
+      },
+      {
+        "title": {
+          "en": "Fry ginger and scallion",
+          "zh": "爆香薑蔥"
+        },
+        "en": "Add remaining oil. Fry ginger over medium heat for 2–3 minutes until lightly golden. Add garlic, spring onion whites and optional onion; cook 1–2 minutes. Add wine around the edge of the pan.",
+        "zh": "原鑊加入餘下油，中火煎薑片2–3分鐘至略金黃。加入蒜片、蔥白及可選洋蔥炒1–2分鐘，沿鑊邊加入酒。"
+      },
+      {
+        "title": {
+          "en": "Simmer oysters in sauce",
+          "zh": "醬汁燜蠔"
+        },
+        "en": "Mix oyster sauce, soy sauces, sugar, pepper and stock. Add to the pan and bring to a gentle simmer. Return oysters, cover and cook until thoroughly cooked; follow package directions and avoid relying on colour or time alone.",
+        "zh": "蠔油、生抽、老抽、糖、白胡椒及雞湯拌勻，倒入鑊中煮至微滾。放回生蠔，加蓋煮至徹底熟透；跟隨包裝指示，不要只靠顏色或時間判斷。"
+      },
+      {
+        "title": {
+          "en": "Thicken and finish",
+          "zh": "埋芡完成"
+        },
+        "en": "Add spring onion greens. Stir cornflour with water and add gradually until the sauce lightly coats the oysters.",
+        "zh": "加入蔥綠。生粉加水拌勻，逐少加入至醬汁略為掛住蠔身。"
+      }
+    ],
+    "notes": {
+      "en": "Frozen oysters can release liquid. Thaw fully, dry well and sear in batches. Cook thoroughly and follow the package’s cooking directions.",
+      "zh": "急凍生蠔容易出水，須完全解凍、徹底印乾並分批煎香。請徹底煮熟並依照包裝上的烹調指示。"
+    }
   }
 ]
