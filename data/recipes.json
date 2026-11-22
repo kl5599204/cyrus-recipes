@@ -2236,5 +2236,731 @@
       "en": "Use 1 tbsp curry powder plus 1 tsp turmeric for a more turmeric-forward, mild Portuguese-style flavour.",
       "zh": "想突出黃薑香、令咖喱味柔和，可用1湯匙咖喱粉配1茶匙黃薑粉。"
     }
+  },
+  {
+    "id": "hainanese-chicken-rice",
+    "title": {
+      "en": "Hainanese chicken rice",
+      "zh": "海南雞飯"
+    },
+    "cuisine": {
+      "en": "Singapore / Hainan",
+      "zh": "新加坡／海南"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 2,
+    "minutes": 60,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken",
+      "rice",
+      "ginger",
+      "sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Bone-in chicken legs",
+          "zh": "連骨雞髀"
+        },
+        "amount": "2 (550–650 g)"
+      },
+      {
+        "name": {
+          "en": "Thai jasmine rice, uncooked",
+          "zh": "泰國香米（生米）"
+        },
+        "amount": "180 g"
+      },
+      {
+        "name": {
+          "en": "Fresh ginger",
+          "zh": "薑"
+        },
+        "amount": "45 g"
+      },
+      {
+        "name": {
+          "en": "Spring onions",
+          "zh": "蔥"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Chicken fat",
+          "zh": "雞油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Chicken powder",
+          "zh": "雞粉"
+        },
+        "amount": "¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Lemongrass, optional",
+          "zh": "香茅（可選）"
+        },
+        "amount": "½ stalk"
+      },
+      {
+        "name": {
+          "en": "Scallion-ginger sauce: ginger, spring onion, salt and hot oil",
+          "zh": "薑蓉蔥油：薑蓉、蔥花、鹽及熱油"
+        },
+        "amount": "20 g + 20 g + ¼ tsp + 1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Chilli sauce: red chilli, ginger, garlic, lime and sugar",
+          "zh": "辣椒醬：紅辣椒、薑、蒜、青檸及糖"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Dark soy sauce, for serving",
+          "zh": "老抽（伴食）"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season the chicken",
+          "zh": "醃雞"
+        },
+        "en": "Pat the chicken dry and rub all over with salt. Leave for 15 minutes.",
+        "zh": "雞髀抹乾，均勻抹上鹽，醃15分鐘。"
+      },
+      {
+        "title": {
+          "en": "Gently poach",
+          "zh": "慢火浸熟"
+        },
+        "en": "Put ginger, spring onions, garlic and Shaoxing wine in a pot with enough water to cover the chicken. Bring just to a simmer, add chicken, then keep the liquid around 85–90°C without a rolling boil. Cook until the thickest part reaches 74°C.",
+        "zh": "鍋中加入薑、蔥、蒜、紹興酒及足以蓋過雞肉的水，煮至微滾後放入雞髀。保持約85–90°C，不要大滾；煮至雞肉最厚位置達74°C。"
+      },
+      {
+        "title": {
+          "en": "Cool and chop",
+          "zh": "浸凍後斬件"
+        },
+        "en": "Transfer chicken to iced water for 5 minutes for springy skin. Drain, cool, then chop into serving pieces.",
+        "zh": "雞髀撈起放入冰水浸5分鐘令雞皮爽滑，瀝乾放涼後斬件。"
+      },
+      {
+        "title": {
+          "en": "Make fragrant rice",
+          "zh": "煮雞油飯"
+        },
+        "en": "Rinse and drain rice. Render chicken fat in a pan; gently fry grated ginger and garlic. Add rice and stir for 2 minutes. Transfer to a rice cooker with 200–220 ml strained poaching broth, chicken powder and optional lemongrass. Cook normally, then rest 10 minutes before fluffing.",
+        "zh": "米洗淨瀝乾。鍋中煮出雞油，慢火炒香薑蓉及蒜蓉，加入米炒約2分鐘。放入飯煲，加200–220毫升隔渣雞湯、雞粉及可選香茅，按正常模式煮飯，煮好焗10分鐘再翻鬆。"
+      },
+      {
+        "title": {
+          "en": "Prepare sauces and serve",
+          "zh": "調醬上桌"
+        },
+        "en": "For scallion-ginger sauce, mix ginger, spring onion and salt, then pour over hot oil. Blend or finely pound chilli sauce ingredients to taste. Serve chicken and rice with both sauces and dark soy.",
+        "zh": "薑蓉、蔥花及鹽拌勻後淋上熱油。辣椒醬材料按口味搗碎或攪勻。雞肉及雞油飯配兩款醬汁和老抽享用。"
+      }
+    ],
+    "notes": {
+      "en": "This version uses chicken legs and their poaching broth for the rice. Keep the poaching liquid at a gentle simmer and check temperature with a clean probe.",
+      "zh": "此版本使用雞髀，並以浸雞湯煮飯。浸煮時保持微滾，並用清潔探針檢查中心溫度。"
+    }
+  },
+  {
+    "id": "hk-curry-fishballs-radish",
+    "title": {
+      "en": "Hong Kong curry fish balls & radish",
+      "zh": "港式咖喱蘿蔔魚蛋"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Snack",
+      "zh": "小食"
+    },
+    "baseServings": 3,
+    "minutes": 75,
+    "added": "2026-11-22",
+    "tags": [
+      "fish",
+      "street-food",
+      "curry",
+      "radish"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Fish balls",
+          "zh": "魚蛋"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "White radish",
+          "zh": "白蘿蔔"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Onion, thinly sliced",
+          "zh": "洋蔥（切薄片）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Shallot, finely chopped",
+          "zh": "乾蔥（切碎）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 tsp"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Hong Kong curry paste",
+          "zh": "港式咖喱醬"
+        },
+        "amount": "2½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Satay sauce",
+          "zh": "沙茶醬"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chu hou paste",
+          "zh": "柱侯醬"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Turmeric powder",
+          "zh": "黃薑粉"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Chicken powder",
+          "zh": "雞粉"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Water for slurry",
+          "zh": "生粉水用水"
+        },
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Par-cook the radish",
+          "zh": "先煮蘿蔔"
+        },
+        "en": "Peel and cut radish into large chunks. Simmer in water for 15–20 minutes until a chopstick enters with slight resistance. Reserve 500 ml cooking water.",
+        "zh": "白蘿蔔去皮切大件，清水煮15–20分鐘至筷子可插入但仍有少許阻力。留起500毫升蘿蔔水。"
+      },
+      {
+        "title": {
+          "en": "Fry the curry base",
+          "zh": "炒咖喱底"
+        },
+        "en": "Heat oil over medium heat. Fry shallot for 30–45 seconds, add onion for 2–3 minutes, then garlic for 30 seconds. Lower heat and stir-fry curry paste, satay, chu hou and turmeric for 1–2 minutes. Add Shaoxing wine.",
+        "zh": "中火燒油，先炒乾蔥30–45秒，加入洋蔥炒2–3分鐘，再加蒜蓉炒30秒。轉中小火，加入咖喱醬、沙茶醬、柱侯醬及黃薑粉炒1–2分鐘，再加紹興酒。"
+      },
+      {
+        "title": {
+          "en": "Simmer the radish",
+          "zh": "燜蘿蔔入味"
+        },
+        "en": "Add 500 ml reserved radish water, oyster sauce, soy, sugar and chicken powder. Add radish; liquid should reach about two-thirds up the pieces. Cover and simmer gently for 25–30 minutes, turning occasionally.",
+        "zh": "加入500毫升蘿蔔水、蠔油、生抽、糖及雞粉。放入蘿蔔，湯汁約浸到蘿蔔三分之二高度。加蓋小火煮25–30分鐘，期間翻動。"
+      },
+      {
+        "title": {
+          "en": "Rest, then add fish balls",
+          "zh": "浸味後加入魚蛋"
+        },
+        "en": "Turn off the heat and leave the radish in the curry for 20–30 minutes if time allows. Reheat gently, add fish balls and simmer 8–10 minutes.",
+        "zh": "如有時間，熄火讓蘿蔔在咖喱汁中浸20–30分鐘。再用小火翻熱，加入魚蛋煮8–10分鐘。"
+      },
+      {
+        "title": {
+          "en": "Thicken",
+          "zh": "埋芡"
+        },
+        "en": "Mix cornflour with water until smooth. Stir in gradually until the sauce is glossy and lightly thickened; you may not need all of it.",
+        "zh": "生粉與水拌勻，逐少倒入並攪拌至醬汁光亮、略為濃稠；未必需要全部生粉水。"
+      }
+    ],
+    "notes": {
+      "en": "For deeper flavour, cool and reheat the radish in the curry before adding the fish balls. Adjust salt and heat to taste.",
+      "zh": "想蘿蔔更入味，可先連咖喱汁放涼再翻熱，然後才加入魚蛋。鹹度和辣度按口味調整。"
+    }
+  },
+  {
+    "id": "black-bean-beef-chow-fun",
+    "title": {
+      "en": "Black bean beef chow fun",
+      "zh": "豉椒牛肉炒河"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "noodles",
+      "stir-fry",
+      "black-bean"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Wide rice noodles",
+          "zh": "粗河粉"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Beef, thinly sliced",
+          "zh": "牛肉（切薄片）"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Green bell pepper",
+          "zh": "青椒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Red bell pepper",
+          "zh": "紅椒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Fermented black beans, chopped",
+          "zh": "豆豉（剁碎）"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Spring onions",
+          "zh": "蔥段"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce (marinade)",
+          "zh": "生抽（醃牛肉）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce (marinade)",
+          "zh": "蠔油（醃牛肉）"
+        },
+        "amount": "½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar (marinade)",
+          "zh": "糖（醃牛肉）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour (marinade)",
+          "zh": "生粉（醃牛肉）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Oil (marinade)",
+          "zh": "油（醃牛肉）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce (stir-fry)",
+          "zh": "生抽（炒粉調味）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Dark soy sauce",
+          "zh": "老抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate the beef",
+          "zh": "醃牛肉"
+        },
+        "en": "Slice beef thinly across the grain. Mix with marinade ingredients and leave for 15 minutes.",
+        "zh": "牛肉逆紋切薄片，加入醃料拌勻，醃15分鐘。"
+      },
+      {
+        "title": {
+          "en": "Mix the sauce",
+          "zh": "調炒粉醬汁"
+        },
+        "en": "Combine light soy, dark soy, oyster sauce, sugar and white pepper.",
+        "zh": "生抽、老抽、蠔油、糖及白胡椒拌勻。"
+      },
+      {
+        "title": {
+          "en": "Sear the beef",
+          "zh": "快炒牛肉"
+        },
+        "en": "Heat a wok until hot, add oil and stir-fry beef quickly until just changing colour. Remove to a plate.",
+        "zh": "鑊燒熱下油，快速炒牛肉至剛轉色，先盛起。"
+      },
+      {
+        "title": {
+          "en": "Stir-fry vegetables",
+          "zh": "炒香配料"
+        },
+        "en": "Add a little oil if needed. Stir-fry garlic and black beans until fragrant, then add onion and peppers and cook until just tender.",
+        "zh": "如需要可再加少許油，炒香蒜蓉及豆豉，加入洋蔥和青紅椒炒至略軟。"
+      },
+      {
+        "title": {
+          "en": "Toss the noodles",
+          "zh": "炒河粉"
+        },
+        "en": "Loosen noodles gently. Add to the wok over high heat with the sauce and toss until hot and evenly coloured. Return beef and add spring onions; toss briefly and serve.",
+        "zh": "河粉輕輕鬆開，加入鑊中轉大火，倒入醬汁炒至熱透均勻上色。牛肉回鑊，加入蔥段兜勻即上碟。"
+      }
+    ],
+    "notes": {
+      "en": "If chilled noodles are stuck together, microwave for about 30 seconds or steam briefly before stir-frying. Cook beef in batches if the wok is crowded.",
+      "zh": "冷藏河粉黏成團時，可先微波約30秒或略蒸再炒。鑊內太擠時分批炒牛肉，較易保持嫩滑。"
+    }
+  },
+  {
+    "id": "bacon-creamy-napa-cabbage",
+    "title": {
+      "en": "Chinese-style creamy napa cabbage with bacon",
+      "zh": "中式煙肉奶油津白"
+    },
+    "cuisine": {
+      "en": "Chinese",
+      "zh": "中式"
+    },
+    "type": {
+      "en": "Vegetable side",
+      "zh": "蔬菜配菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-22",
+    "tags": [
+      "cabbage",
+      "bacon",
+      "side",
+      "rice-friendly"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Napa cabbage, cut into large pieces",
+          "zh": "津白（切大塊）"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Bacon, sliced",
+          "zh": "煙肉（切片）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切絲）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Ginger, julienned",
+          "zh": "薑（切絲）"
+        },
+        "amount": "5 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Oil, if needed",
+          "zh": "油（視乎需要）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Chicken powder",
+          "zh": "雞粉"
+        },
+        "amount": "2 g"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Water for slurry",
+          "zh": "生粉水用水"
+        },
+        "amount": "2½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Render the bacon",
+          "zh": "煎煙肉"
+        },
+        "en": "Start bacon in a cold pan and cook over medium heat until it releases fat and is lightly crisp. Remove some fat if needed, leaving about 1 tbsp.",
+        "zh": "冷鑊下煙肉，中火煎至出油並略脆。如油太多可倒走，留約1湯匙。"
+      },
+      {
+        "title": {
+          "en": "Fry aromatics",
+          "zh": "爆香配料"
+        },
+        "en": "Add ginger, garlic and onion; stir-fry for 1–2 minutes until the onion starts to soften.",
+        "zh": "加入薑絲、蒜蓉及洋蔥，中火炒1–2分鐘至洋蔥開始軟。"
+      },
+      {
+        "title": {
+          "en": "Cook the cabbage",
+          "zh": "煮津白"
+        },
+        "en": "Add napa cabbage and stir-fry over high heat for 2–3 minutes. Add stock, cover and cook for 3 minutes.",
+        "zh": "加入津白大火炒2–3分鐘，加入雞湯後加蓋煮3分鐘。"
+      },
+      {
+        "title": {
+          "en": "Add milk gently",
+          "zh": "加入牛奶"
+        },
+        "en": "Pour in milk and add chicken powder, sugar and white pepper. Simmer gently for 4–5 minutes; avoid a hard boil.",
+        "zh": "倒入牛奶，加入雞粉、糖及白胡椒，中小火煮4–5分鐘；避免大滾。"
+      },
+      {
+        "title": {
+          "en": "Thicken and season",
+          "zh": "埋芡調味"
+        },
+        "en": "Mix cornflour and water until smooth. Stir the sauce while adding about two-thirds of the slurry slowly; cook 30–60 seconds, adding more only if needed. Taste before adding salt. Sprinkle reserved crisp bacon on top.",
+        "zh": "生粉與水拌勻。一邊攪汁一邊慢慢加入約三分之二生粉水，煮30–60秒；不夠稠才再加。試味後才加鹽，最後撒上預留的脆煙肉。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the sauce gently simmering when adding the slurry. Serve with rice and leave enough sauce to spoon over it.",
+      "zh": "加入生粉水時保持小火微滾。配白飯享用，可保留較多醬汁拌飯。"
+    }
   }
 ]
