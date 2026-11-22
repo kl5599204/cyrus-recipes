@@ -1339,5 +1339,902 @@
       "en": "Keep the simmer gentle after adding cream. Check chicken at the thickest part.",
       "zh": "加入忌廉後保持小火微滾；雞肉要檢查最厚位置是否熟透。"
     }
+  },
+  {
+    "id": "hk-curry-brisket",
+    "title": {
+      "en": "Juicy Hong Kong curry beef brisket",
+      "zh": "多汁港式咖喱牛腩薯仔"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 120,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "curry",
+      "pressure cooker"
+    ],
+    "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Bone-in beef short ribs or brisket",
+          "zh": "連骨牛肋條或牛腩"
+        },
+        "amount": "1.1 kg"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Carrot, optional",
+          "zh": "紅蘿蔔（可選）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Ginger",
+          "zh": "薑"
+        },
+        "amount": "15 g"
+      },
+      {
+        "name": {
+          "en": "Curry paste",
+          "zh": "咖喱醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Curry powder",
+          "zh": "咖喱粉"
+        },
+        "amount": "1.5 tbsp"
+      },
+      {
+        "name": {
+          "en": "Satay sauce",
+          "zh": "沙嗲醬"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chu hou paste",
+          "zh": "柱侯醬"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Rock sugar",
+          "zh": "冰糖"
+        },
+        "amount": "10 g"
+      },
+      {
+        "name": {
+          "en": "Beef cooking liquid or stock",
+          "zh": "牛肉湯或牛肉高湯"
+        },
+        "amount": "750 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Pressure-cook the beef",
+          "zh": "壓煮牛腩"
+        },
+        "en": "Blanch beef for 5 minutes and rinse. Pressure-cook with ginger, half the onion and enough water to meet your cooker’s minimum liquid requirement for 35–40 minutes on high. Natural-release for 15 minutes. Reserve the cooking liquid and skim excess fat.",
+        "zh": "牛肉汆水5分鐘後沖洗。與薑、半個洋蔥及符合壓力煲最低液體要求的水一起高壓煮35–40分鐘，自然洩壓15分鐘。保留牛肉湯並撇走多餘油脂。"
+      },
+      {
+        "title": {
+          "en": "Fry the curry base",
+          "zh": "炒香咖喱底"
+        },
+        "en": "In a separate pot, soften the remaining onion in oil for 4–5 minutes. Add garlic and ginger for 1 minute. Add curry powder and fry for 30 seconds, then stir in curry paste, satay sauce and chu hou paste.",
+        "zh": "另鍋加油炒軟餘下洋蔥4–5分鐘，加入蒜及薑炒1分鐘。加入咖喱粉炒30秒，再拌入咖喱醬、沙嗲醬及柱侯醬。"
+      },
+      {
+        "title": {
+          "en": "Simmer with vegetables",
+          "zh": "加入蔬菜燜煮"
+        },
+        "en": "Add beef, oyster sauce, soy sauce, rock sugar and 700–800 ml reserved beef broth. Add potatoes and carrot. Cover and simmer gently for 15–20 minutes until the potatoes are tender.",
+        "zh": "加入牛肉、蠔油、生抽、冰糖及700–800毫升牛肉湯，再加薯仔和紅蘿蔔。蓋上鍋蓋小火煮15–20分鐘至薯仔軟腍。"
+      },
+      {
+        "title": {
+          "en": "Adjust the gravy",
+          "zh": "調整咖喱汁"
+        },
+        "en": "Simmer uncovered for about 5 minutes. Keep it loose for rice. For a thicker café-style gravy, stir in a little cornflour slurry; thin with hot broth or water if needed.",
+        "zh": "開蓋煮約5分鐘。配飯的多汁版本不要收得太乾。想要茶餐廳掛身咖喱汁，可加少量粟粉水；太稠則加熱湯或水。"
+      }
+    ],
+    "notes": {
+      "en": "Use the beef cooking liquid for a deeper gravy. Keep the pressure-cooker minimum liquid requirement in mind.",
+      "zh": "用炆牛腩的湯汁做咖喱底會更香。壓力煲液體量須符合機器最低要求。"
+    }
+  },
+  {
+    "id": "basil-butter-chicken-dinner",
+    "title": {
+      "en": "Basil-butter chicken with mash & mushrooms",
+      "zh": "羅勒牛油雞扒配薯蓉蘑菇"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken",
+      "mash",
+      "basil butter"
+    ],
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Skin-on chicken thighs",
+          "zh": "連皮雞髀"
+        },
+        "amount": "4"
+      },
+      {
+        "name": {
+          "en": "Basil butter",
+          "zh": "羅勒牛油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Butter for mash",
+          "zh": "薯蓉用牛油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Warm milk",
+          "zh": "暖牛奶"
+        },
+        "amount": "75 ml"
+      },
+      {
+        "name": {
+          "en": "Mushrooms",
+          "zh": "蘑菇"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "1 clove"
+      },
+      {
+        "name": {
+          "en": "Bread slices",
+          "zh": "麵包片"
+        },
+        "amount": "4"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook the mash",
+          "zh": "煮薯蓉"
+        },
+        "en": "Boil peeled, chopped potatoes for 10–12 minutes until tender. Drain well, mash with butter and warm milk, and season.",
+        "zh": "薯仔去皮切件，煮10–12分鐘至軟，瀝乾後加入牛油及暖牛奶壓成薯蓉並調味。"
+      },
+      {
+        "title": {
+          "en": "Pan-sear the chicken",
+          "zh": "煎雞髀"
+        },
+        "en": "Season chicken. Heat a little oil over medium-high and sear skin-side down for 5–6 minutes until golden. Turn, add basil butter, cover and cook 6–8 minutes until cooked through. Rest for 3 minutes.",
+        "zh": "雞髀調味。少油中大火先煎皮面5–6分鐘至金黃，反面加入羅勒牛油，蓋上煮6–8分鐘至熟透，靜置3分鐘。"
+      },
+      {
+        "title": {
+          "en": "Sauté the mushrooms",
+          "zh": "炒蘑菇"
+        },
+        "en": "Slice mushrooms. Sauté with basil butter and minced garlic for 5–6 minutes until soft and golden.",
+        "zh": "蘑菇切片，與羅勒牛油及蒜蓉同炒5–6分鐘至軟身金黃。"
+      },
+      {
+        "title": {
+          "en": "Make garlic toast and serve",
+          "zh": "烤蒜蓉牛油多士"
+        },
+        "en": "Mix softened butter with minced garlic, spread on bread and toast in a pan or under a grill for 3–5 minutes until golden. Serve with chicken, mash and mushrooms.",
+        "zh": "軟化牛油與蒜蓉拌勻，塗在麵包上，以平底鑊或焗爐上火烤3–5分鐘至金黃。配雞髀、薯蓉及蘑菇上桌。"
+      }
+    ],
+    "notes": {
+      "en": "Check the thickest part of the chicken for thorough cooking.",
+      "zh": "雞肉最厚位置須確認熟透。"
+    }
+  },
+  {
+    "id": "soy-wings-pork-risotto",
+    "title": {
+      "en": "Soy-glazed wings, mushroom risotto & pork collar",
+      "zh": "豉油雞翼、蘑菇意大利飯及豬頸肉"
+    },
+    "cuisine": {
+      "en": "Fusion",
+      "zh": "融合風味"
+    },
+    "type": {
+      "en": "Dinner set",
+      "zh": "晚餐組合"
+    },
+    "baseServings": 3,
+    "minutes": 60,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken wings",
+      "risotto",
+      "pork"
+    ],
+    "image": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Marinated chicken wings",
+          "zh": "醃雞翼"
+        },
+        "amount": "340 g"
+      },
+      {
+        "name": {
+          "en": "Pork collar",
+          "zh": "豬頸肉"
+        },
+        "amount": "330 g"
+      },
+      {
+        "name": {
+          "en": "Bacon",
+          "zh": "煙肉"
+        },
+        "amount": "86 g"
+      },
+      {
+        "name": {
+          "en": "Risotto rice",
+          "zh": "意大利米"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Mushrooms",
+          "zh": "蘑菇"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Beef stock cube",
+          "zh": "牛肉湯粒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Hot water",
+          "zh": "熱水"
+        },
+        "amount": "950 ml"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "35 g"
+      },
+      {
+        "name": {
+          "en": "Plain yoghurt",
+          "zh": "原味乳酪"
+        },
+        "amount": "175 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Roast the wings",
+          "zh": "焗雞翼"
+        },
+        "en": "Roast or air-fry wings at 200°C for 35–40 minutes, turning halfway. For a light glaze, brush with a little honey and butter for the final 5 minutes.",
+        "zh": "雞翼以200°C焗或氣炸35–40分鐘，中途翻面。最後5分鐘可掃少量蜜糖牛油作薄薄糖衣。"
+      },
+      {
+        "title": {
+          "en": "Prepare the pork",
+          "zh": "煎豬頸肉"
+        },
+        "en": "Season pork collar lightly with pepper and a little paprika. Sear in a very hot pan for 3–4 minutes per side, then rest for 5 minutes and slice.",
+        "zh": "豬頸肉以黑椒及少量紅椒粉輕調味。熱鑊每面煎3–4分鐘，靜置5分鐘後切片。"
+      },
+      {
+        "title": {
+          "en": "Make the stock",
+          "zh": "準備湯底"
+        },
+        "en": "Dissolve the stock cube in hot water and keep the stock warm.",
+        "zh": "湯粒加入熱水攪溶，保溫備用。"
+      },
+      {
+        "title": {
+          "en": "Cook the risotto",
+          "zh": "煮意大利飯"
+        },
+        "en": "Cook bacon until crisp and set aside. Brown mushrooms, then soften diced onion and garlic. Stir in rice for 1–2 minutes. Add warm stock a ladle at a time, stirring often, until creamy and tender, about 18–20 minutes. Finish with butter, Parmesan, bacon and black pepper.",
+        "zh": "煙肉煎脆後盛起。蘑菇煎香，再炒軟洋蔥及蒜。加入米炒1–2分鐘，逐勺加入暖湯並常攪拌，煮約18–20分鐘至米粒軟身帶滑。最後拌入牛油、芝士、煙肉及黑椒。"
+      },
+      {
+        "title": {
+          "en": "Make the yoghurt sauce and serve",
+          "zh": "調乳酪醬並上桌"
+        },
+        "en": "Mix yoghurt with grated garlic, lemon juice or vinegar, pepper and a drizzle of olive oil. Serve with wings, sliced pork and risotto.",
+        "zh": "乳酪加入蒜蓉、檸檬汁或醋、黑椒及少量橄欖油拌勻，配雞翼、豬頸肉及意大利飯享用。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the stock warm so the rice cooks evenly. Season the pork sparingly because the wings and bacon are already salty.",
+      "zh": "湯底保持暖熱可令米飯均勻受熱。雞翼及煙肉已有鹹味，豬肉調味宜輕手。"
+    }
+  },
+  {
+    "id": "mushroom-risotto",
+    "title": {
+      "en": "Creamy mushroom risotto",
+      "zh": "忌廉蘑菇意大利飯"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Rice",
+      "zh": "飯"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-22",
+    "tags": [
+      "mushroom",
+      "risotto",
+      "vegetarian"
+    ],
+    "image": "https://images.unsplash.com/photo-1476124369491-e7addf5db371?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Arborio rice",
+          "zh": "Arborio意大利米"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "Mushrooms",
+          "zh": "蘑菇"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "White wine, optional",
+          "zh": "白酒（可省略）"
+        },
+        "amount": "80 ml"
+      },
+      {
+        "name": {
+          "en": "Hot chicken or vegetable stock",
+          "zh": "熱雞湯或蔬菜湯"
+        },
+        "amount": "850 ml"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Double cream, optional",
+          "zh": "雙忌廉（可選）"
+        },
+        "amount": "60 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown the mushrooms",
+          "zh": "煎香蘑菇"
+        },
+        "en": "Melt a little butter with the olive oil. Fry sliced mushrooms until golden, then remove and set aside.",
+        "zh": "少量牛油與橄欖油加熱，將蘑菇片煎至金黃後盛起。"
+      },
+      {
+        "title": {
+          "en": "Soften the aromatics",
+          "zh": "炒香洋蔥蒜蓉"
+        },
+        "en": "Add some butter to the pan. Cook diced onion until translucent, then add garlic and cook briefly.",
+        "zh": "鍋中加入部分牛油，炒洋蔥至透明，再加入蒜蓉略炒。"
+      },
+      {
+        "title": {
+          "en": "Toast the rice",
+          "zh": "炒米"
+        },
+        "en": "Add rice and stir for 1–2 minutes until the grains look slightly translucent. Add wine if using and cook until absorbed.",
+        "zh": "加入米炒1–2分鐘至米粒邊緣略透明。可加入白酒煮至吸收。"
+      },
+      {
+        "title": {
+          "en": "Add stock gradually",
+          "zh": "逐次加入湯"
+        },
+        "en": "Add hot stock one ladle at a time, stirring often and waiting until mostly absorbed before adding more. Continue for about 18–20 minutes until creamy and tender.",
+        "zh": "每次加入一勺熱湯，常攪拌並待大部分吸收後再加。煮約18–20分鐘至飯粒軟身、整體滑順。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Stir in mushrooms, remaining butter, Parmesan and optional cream. Season with salt and black pepper and serve immediately.",
+        "zh": "拌入蘑菇、餘下牛油、巴馬臣芝士及可選忌廉，以鹽和黑椒調味，立即上桌。"
+      }
+    ],
+    "notes": {
+      "en": "Keep extra hot stock nearby; rice may need a little more or less depending on the pan and heat.",
+      "zh": "多準備少量熱湯備用；實際用量會因鍋具及火力不同而略有差異。"
+    }
+  },
+  {
+    "id": "beef-bolognese-lasagne",
+    "title": {
+      "en": "Beef Bolognese lasagne",
+      "zh": "牛肉波隆那千層麵"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Bake",
+      "zh": "焗烤"
+    },
+    "baseServings": 3,
+    "minutes": 110,
+    "added": "2026-11-22",
+    "tags": [
+      "beef",
+      "lasagne",
+      "oven"
+    ],
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Lean beef mince",
+          "zh": "瘦牛肉碎"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Carrot, diced",
+          "zh": "紅蘿蔔（切粒）"
+        },
+        "amount": "80 g"
+      },
+      {
+        "name": {
+          "en": "Celery, diced",
+          "zh": "西芹（切粒）"
+        },
+        "amount": "80 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Chopped tomatoes",
+          "zh": "番茄碎"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛肉湯"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Whole milk",
+          "zh": "全脂牛奶"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Red wine",
+          "zh": "紅酒"
+        },
+        "amount": "120 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "中筋麵粉"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Warm milk for béchamel",
+          "zh": "白汁用暖牛奶"
+        },
+        "amount": "750 ml"
+      },
+      {
+        "name": {
+          "en": "Lasagne sheets",
+          "zh": "千層麵片"
+        },
+        "amount": "9"
+      },
+      {
+        "name": {
+          "en": "Mozzarella",
+          "zh": "水牛芝士"
+        },
+        "amount": "180 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "110 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook the Bolognese",
+          "zh": "煮波隆那肉醬"
+        },
+        "en": "Soften onion, carrot and celery in olive oil for 8–10 minutes. Add garlic, then brown the beef. Stir in tomato paste and cook for 2 minutes. Add wine and reduce, then add tomatoes and stock. Simmer gently for 35–45 minutes; stir in 150 ml milk near the end.",
+        "zh": "橄欖油炒軟洋蔥、紅蘿蔔及西芹8–10分鐘，加入蒜頭，再加入牛肉碎炒熟。拌入茄膏炒2分鐘，加紅酒煮至收乾，再加番茄及牛肉湯小火煮35–45分鐘。接近完成時拌入150毫升牛奶。"
+      },
+      {
+        "title": {
+          "en": "Make the béchamel",
+          "zh": "煮白汁"
+        },
+        "en": "Melt butter in a saucepan. Stir in flour and cook for 1 minute. Gradually whisk in warm milk until smooth and thick. Stir in 80 g Parmesan, salt, white pepper and a little nutmeg.",
+        "zh": "小鍋融化牛油，加入麵粉炒1分鐘。逐少加入暖牛奶並不停攪拌至順滑濃稠，拌入80克巴馬臣芝士、鹽、白胡椒及少量肉豆蔻。"
+      },
+      {
+        "title": {
+          "en": "Layer the lasagne",
+          "zh": "鋪千層麵"
+        },
+        "en": "Heat oven to 180°C fan. In a baking dish, layer a little meat sauce, lasagne sheets, béchamel and mozzarella. Repeat, finishing with béchamel, mozzarella and the remaining Parmesan.",
+        "zh": "焗爐預熱至180°C熱風。焗盤底放少量肉醬，再交替鋪千層麵片、白汁及水牛芝士，重複至材料用完，頂層放白汁、芝士及餘下巴馬臣。"
+      },
+      {
+        "title": {
+          "en": "Bake and rest",
+          "zh": "焗熟並靜置"
+        },
+        "en": "Bake for 35–40 minutes until bubbling and golden. Rest for 10–15 minutes before slicing.",
+        "zh": "焗35–40分鐘至冒泡金黃，出爐後靜置10–15分鐘再切件。"
+      }
+    ],
+    "notes": {
+      "en": "Cook the meat sauce until thick enough to hold between layers. Resting helps the slices stay neat.",
+      "zh": "肉醬煮至濃稠才鋪層，靜置後切件會更完整。"
+    }
+  },
+  {
+    "id": "portuguese-chicken-rice",
+    "title": {
+      "en": "Macanese Portuguese-style chicken rice",
+      "zh": "葡汁雞翼飯"
+    },
+    "cuisine": {
+      "en": "Macanese",
+      "zh": "澳門"
+    },
+    "type": {
+      "en": "Rice",
+      "zh": "飯"
+    },
+    "baseServings": 3,
+    "minutes": 55,
+    "added": "2026-11-22",
+    "tags": [
+      "chicken",
+      "rice",
+      "coconut"
+    ],
+    "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken wings or thighs",
+          "zh": "雞翼或雞髀"
+        },
+        "amount": "700 g"
+      },
+      {
+        "name": {
+          "en": "Rice, uncooked",
+          "zh": "白米（生米）"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Carrot",
+          "zh": "紅蘿蔔"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Curry powder",
+          "zh": "咖喱粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Turmeric",
+          "zh": "黃薑粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Coconut milk",
+          "zh": "椰奶"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown the chicken and vegetables",
+          "zh": "煎香雞肉及蔬菜"
+        },
+        "en": "Season chicken and brown in a pan. Add onion, carrot and potatoes; cook for a few minutes until fragrant.",
+        "zh": "雞肉調味後煎至上色。加入洋蔥、紅蘿蔔及薯仔炒數分鐘至香。"
+      },
+      {
+        "title": {
+          "en": "Build the Portuguese sauce",
+          "zh": "調葡汁"
+        },
+        "en": "Melt butter and stir in curry powder for about 20 seconds. Add turmeric, garlic, coconut milk and milk. Mix and bring to a gentle simmer.",
+        "zh": "牛油融化後加入咖喱粉炒約20秒，再加入黃薑粉、蒜蓉、椰奶及牛奶拌勻，煮至微滾。"
+      },
+      {
+        "title": {
+          "en": "Simmer the chicken",
+          "zh": "燜雞"
+        },
+        "en": "Return chicken and vegetables to the sauce. Cover and simmer gently for 20–25 minutes until chicken is cooked through and vegetables are tender.",
+        "zh": "雞肉及蔬菜放回醬汁中，蓋上鍋蓋小火煮20–25分鐘，至雞肉熟透、蔬菜軟腍。"
+      },
+      {
+        "title": {
+          "en": "Serve with rice",
+          "zh": "配飯上桌"
+        },
+        "en": "Serve the chicken and vegetables over freshly cooked rice, with plenty of the coconut turmeric sauce.",
+        "zh": "雞肉及蔬菜放在新煮好的白飯上，淋上足量椰香黃薑葡汁。"
+      }
+    ],
+    "notes": {
+      "en": "Use 1 tbsp curry powder plus 1 tsp turmeric for a more turmeric-forward, mild Portuguese-style flavour.",
+      "zh": "想突出黃薑香、令咖喱味柔和，可用1湯匙咖喱粉配1茶匙黃薑粉。"
+    }
   }
 ]
