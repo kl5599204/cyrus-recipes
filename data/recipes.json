@@ -3688,5 +3688,967 @@
       "en": "Frozen oysters can release liquid. Thaw fully, dry well and sear in batches. Cook thoroughly and follow the package’s cooking directions.",
       "zh": "急凍生蠔容易出水，須完全解凍、徹底印乾並分批煎香。請徹底煮熟並依照包裝上的烹調指示。"
     }
+  },
+  {
+    "id": "tomato-beef-egg-rice",
+    "title": {
+      "en": "Hong Kong tomato, beef & egg over rice",
+      "zh": "港式番茄牛肉滑蛋飯"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "tomato",
+      "egg",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef, thinly sliced",
+          "zh": "牛肉（切薄片）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Ripe tomatoes, chopped",
+          "zh": "熟番茄（切件）"
+        },
+        "amount": "750 g"
+      },
+      {
+        "name": {
+          "en": "Eggs, beaten",
+          "zh": "雞蛋（打散）"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切絲）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟白飯"
+        },
+        "amount": "3 bowls"
+      },
+      {
+        "name": {
+          "en": "Ketchup",
+          "zh": "茄汁"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Stock or water",
+          "zh": "高湯或水"
+        },
+        "amount": "150 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate beef",
+          "zh": "醃牛肉"
+        },
+        "en": "Toss beef with 1 tsp soy, a pinch of sugar and cornflour; set aside 15 minutes.",
+        "zh": "牛肉拌入1茶匙生抽、少許糖及生粉，醃15分鐘。"
+      },
+      {
+        "title": {
+          "en": "Soft-scramble eggs",
+          "zh": "炒滑蛋"
+        },
+        "en": "Heat a little oil in a wok and softly scramble eggs until just set. Remove while still glossy.",
+        "zh": "鑊中燒少許油，雞蛋炒至剛凝固仍滑身便盛起。"
+      },
+      {
+        "title": {
+          "en": "Make tomato sauce",
+          "zh": "煮番茄汁"
+        },
+        "en": "Fry onion and garlic until fragrant. Add tomatoes, ketchup, remaining soy, sugar and stock. Cover and simmer 10–12 minutes until saucy.",
+        "zh": "炒香洋蔥及蒜蓉，加入番茄、茄汁、餘下生抽、糖及高湯。加蓋煮10–12分鐘至出汁。"
+      },
+      {
+        "title": {
+          "en": "Finish beef and serve",
+          "zh": "煮牛肉上飯"
+        },
+        "en": "Add beef and simmer until cooked through. Return eggs and fold gently. Adjust seasoning and spoon over hot rice.",
+        "zh": "加入牛肉煮至熟透，放回雞蛋輕輕拌合。試味後淋在熱飯上。"
+      }
+    ],
+    "notes": {
+      "en": "Tomatoes vary in sweetness and juiciness; start with less stock and add more only if needed.",
+      "zh": "番茄甜度和出水量不同，可先少加高湯，不夠汁才補加。"
+    }
+  },
+  {
+    "id": "corn-pork-white-sauce-rice",
+    "title": {
+      "en": "Hong Kong café corn & pork rice",
+      "zh": "港式粟米肉粒飯"
+    },
+    "cuisine": {
+      "en": "Hong Kong café-style",
+      "zh": "港式茶餐廳"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "corn",
+      "rice",
+      "café"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork shoulder, diced",
+          "zh": "梅頭豬肉（切粒）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Sweetcorn kernels",
+          "zh": "粟米粒"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 clove"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "中筋麵粉"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟白飯"
+        },
+        "amount": "3 bowls"
+      },
+      {
+        "name": {
+          "en": "Salt, sugar and white pepper",
+          "zh": "鹽、糖及白胡椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown the pork",
+          "zh": "炒香豬肉"
+        },
+        "en": "Heat oil in a pan. Fry onion and garlic briefly, add pork and cook until browned and cooked through. Season with soy; remove.",
+        "zh": "鍋中燒油，略炒洋蔥及蒜蓉，加入豬肉炒至上色熟透，以生抽調味後盛起。"
+      },
+      {
+        "title": {
+          "en": "Make the roux",
+          "zh": "炒牛油麵糊"
+        },
+        "en": "Melt butter over low heat. Stir in flour and cook for about 1 minute without browning.",
+        "zh": "小火融化牛油，加入麵粉炒約1分鐘，不要炒焦。"
+      },
+      {
+        "title": {
+          "en": "Build the sauce",
+          "zh": "煮白汁"
+        },
+        "en": "Whisk in stock gradually until smooth, then add milk and simmer, stirring, until lightly thickened.",
+        "zh": "逐少拌入雞湯攪至順滑，再加入牛奶，邊攪邊煮至略稠。"
+      },
+      {
+        "title": {
+          "en": "Combine and serve",
+          "zh": "合併上飯"
+        },
+        "en": "Stir in corn and cooked pork; simmer 3–5 minutes. Season with salt, sugar and white pepper. Spoon over hot rice.",
+        "zh": "加入粟米及豬肉，小火煮3–5分鐘。以鹽、糖及白胡椒調味，淋在熱飯上。"
+      }
+    ],
+    "notes": {
+      "en": "For a richer café-style topping, replace part of the milk with cream. The source versions differ on cream, so it is optional.",
+      "zh": "想更濃郁的茶餐廳風味，可用忌廉代替部分牛奶；不同版本比例有別，忌廉可選。"
+    }
+  },
+  {
+    "id": "sweet-sour-pork",
+    "title": {
+      "en": "Crispy sweet-and-sour pork",
+      "zh": "脆皮糖醋肉"
+    },
+    "cuisine": {
+      "en": "Chinese",
+      "zh": "中式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "crispy",
+      "sweet and sour"
+    ],
+    "image": "https://images.unsplash.com/photo-1562967914-608f82629710?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork shoulder or loin, cubed",
+          "zh": "梅頭或里肌豬肉（切塊）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Green bell pepper",
+          "zh": "青椒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Red bell pepper",
+          "zh": "紅椒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion",
+          "zh": "洋蔥"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour for marinade",
+          "zh": "醃肉生粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "麵粉"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Baking powder",
+          "zh": "泡打粉"
+        },
+        "amount": "¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Vinegar",
+          "zh": "醋"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Ketchup",
+          "zh": "茄汁"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate pork",
+          "zh": "醃豬肉"
+        },
+        "en": "Toss pork with soy, wine, a pinch of salt and pepper, and 1 tbsp cornflour. Rest for 15 minutes.",
+        "zh": "豬肉拌入生抽、紹興酒、少許鹽及胡椒和1湯匙生粉，醃15分鐘。"
+      },
+      {
+        "title": {
+          "en": "Coat and fry",
+          "zh": "上漿油炸"
+        },
+        "en": "Mix remaining cornflour, flour, baking powder and enough cold water to make a thick batter. Coat pork and fry in 170°C oil until golden and cooked; drain. Fry a second time briefly for extra crispness.",
+        "zh": "餘下生粉、麵粉、泡打粉及適量凍水拌成濃漿。豬肉裹漿後以約170°C油炸至金黃熟透，瀝油；想更脆可快速回鍋再炸。"
+      },
+      {
+        "title": {
+          "en": "Stir-fry vegetables",
+          "zh": "炒配菜"
+        },
+        "en": "Stir-fry garlic, onion and peppers over high heat until just tender.",
+        "zh": "大火炒香蒜頭、洋蔥及青紅椒至略軟。"
+      },
+      {
+        "title": {
+          "en": "Glaze and serve",
+          "zh": "糖醋裹汁"
+        },
+        "en": "Combine vinegar, sugar, ketchup and water; bring to a simmer. Add a little cornflour slurry to gloss, then toss pork through the sauce just before serving.",
+        "zh": "醋、糖、茄汁及水拌勻煮滾，加入少量生粉水煮至光亮。上桌前才放入豬肉快速兜勻。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the sauce separate until the last moment to preserve the crisp coating.",
+      "zh": "最後才把炸肉拌入醬汁，保持外層酥脆。"
+    }
+  },
+  {
+    "id": "shrimp-paste-steamed-pork",
+    "title": {
+      "en": "Steamed pork with shrimp paste",
+      "zh": "蝦醬蒸豬肉"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "shrimp paste",
+      "steamed"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork shoulder or fatty minced pork",
+          "zh": "梅頭或半肥瘦豬肉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Shrimp paste",
+          "zh": "蝦醬"
+        },
+        "amount": "2 tsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "¾ tsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1½ tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Spring onion, optional",
+          "zh": "蔥花（可選）"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season the pork",
+          "zh": "醃豬肉"
+        },
+        "en": "Slice pork thinly or use coarsely minced pork. Mix with shrimp paste, garlic, sugar, soy, cornflour, sesame oil and pepper. Marinate 15–30 minutes.",
+        "zh": "豬肉切薄片或用粗絞肉，加入蝦醬、蒜蓉、糖、生抽、生粉、麻油及白胡椒拌勻，醃15–30分鐘。"
+      },
+      {
+        "title": {
+          "en": "Arrange for steaming",
+          "zh": "排碟"
+        },
+        "en": "Spread pork in a shallow heatproof plate in an even layer, leaving space for steam to circulate.",
+        "zh": "豬肉平均鋪在淺身耐熱碟上，預留空間讓蒸氣流通。"
+      },
+      {
+        "title": {
+          "en": "Steam until cooked",
+          "zh": "蒸至熟透"
+        },
+        "en": "Steam over actively simmering water for 12–16 minutes, depending on thickness, until thoroughly cooked. Rest briefly and garnish with spring onion.",
+        "zh": "水滾後以中火蒸12–16分鐘，按厚度調整，直至徹底熟透。稍作靜置後撒上蔥花。"
+      }
+    ],
+    "notes": {
+      "en": "Shrimp paste is salty; taste the cooked pork before adding any extra salt.",
+      "zh": "蝦醬鹹味較重，毋須先加鹽，蒸好試味再調整。"
+    }
+  },
+  {
+    "id": "hk-spicy-chicken-pot",
+    "title": {
+      "en": "Hong Kong spicy chicken pot",
+      "zh": "港式麻辣雞煲"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "spicy",
+      "one-pot"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken, chopped",
+          "zh": "雞（斬件）"
+        },
+        "amount": "1 kg"
+      },
+      {
+        "name": {
+          "en": "Spicy chicken pot sauce",
+          "zh": "麻辣雞煲醬"
+        },
+        "amount": "1 pack"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water or chicken stock",
+          "zh": "水或雞湯"
+        },
+        "amount": "125 ml"
+      },
+      {
+        "name": {
+          "en": "Onion, cut into wedges, optional",
+          "zh": "洋蔥（切件，可選）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, lightly crushed",
+          "zh": "蒜頭（拍扁）"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Potato or lotus root, optional",
+          "zh": "薯仔或蓮藕（可選）"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Enoki mushrooms or peppers, optional",
+          "zh": "金菇或青紅椒（可選）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥段"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown chicken",
+          "zh": "煎香雞件"
+        },
+        "en": "Pat chicken dry. Heat oil in a heavy pot and brown chicken in batches; remove excess rendered fat if needed.",
+        "zh": "雞件抹乾。厚身鍋燒熱下油，分批煎香雞件；如出油太多可倒走部分。"
+      },
+      {
+        "title": {
+          "en": "Fry sauce",
+          "zh": "炒香醬料"
+        },
+        "en": "Add garlic and optional onion. Stir in chicken pot sauce over medium heat until fragrant, then return chicken and coat well.",
+        "zh": "加入蒜頭及可選洋蔥炒香，中火加入雞煲醬炒出香氣，再放回雞件拌勻。"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "焗煮"
+        },
+        "en": "Add stock, cover and simmer gently for 15–20 minutes, turning occasionally, until chicken is thoroughly cooked. Add potato or lotus root early enough to soften.",
+        "zh": "加入高湯，加蓋小火煮15–20分鐘，期間翻動，直至雞肉熟透。薯仔或蓮藕要較早加入煮軟。"
+      },
+      {
+        "title": {
+          "en": "Reduce and serve",
+          "zh": "收汁上桌"
+        },
+        "en": "Add optional quick-cooking vegetables and simmer until just tender. Uncover and reduce sauce to your preferred thickness. Garnish with spring onion.",
+        "zh": "加入可選易熟蔬菜煮至剛軟，開蓋收汁至喜歡的濃度，撒上蔥段。"
+      }
+    ],
+    "notes": {
+      "en": "Serve over a small flame. Add extra broth later to turn the pot into a hotpot.",
+      "zh": "可用小火爐保溫。吃到後段加入高湯，便可轉成火鍋。"
+    }
+  },
+  {
+    "id": "shiitake-steamed-chicken-rice",
+    "title": {
+      "en": "Steamed shiitake chicken & rice",
+      "zh": "冬菇蒸雞飯"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 60,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "shiitake",
+      "rice",
+      "steamed"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken pieces",
+          "zh": "雞件"
+        },
+        "amount": "700 g"
+      },
+      {
+        "name": {
+          "en": "Dried shiitake mushrooms",
+          "zh": "乾冬菇"
+        },
+        "amount": "6–8"
+      },
+      {
+        "name": {
+          "en": "Rice, uncooked",
+          "zh": "白米（生米）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Ginger, sliced",
+          "zh": "薑片"
+        },
+        "amount": "10 g"
+      },
+      {
+        "name": {
+          "en": "Mushroom soaking liquid or stock",
+          "zh": "冬菇水或高湯"
+        },
+        "amount": "to cook rice"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Soak mushrooms",
+          "zh": "浸冬菇"
+        },
+        "en": "Soak mushrooms until soft. Remove stems and halve. Reserve the soaking liquid; steam mushrooms with sugar and 2 tbsp soaking liquid for 10–12 minutes.",
+        "zh": "冬菇浸軟後去蒂切半，留起冬菇水。冬菇拌糖及2湯匙冬菇水先蒸10–12分鐘。"
+      },
+      {
+        "title": {
+          "en": "Marinate chicken",
+          "zh": "醃雞"
+        },
+        "en": "Mix chicken with soy, oyster sauce, wine, cornflour and ginger. Add steamed mushrooms and their juices; marinate 20 minutes.",
+        "zh": "雞件加入生抽、蠔油、紹興酒、生粉及薑拌勻，加入已蒸冬菇及菇汁，醃20分鐘。"
+      },
+      {
+        "title": {
+          "en": "Prepare rice",
+          "zh": "煮飯"
+        },
+        "en": "Rinse rice and cook in a rice cooker using the usual amount of water, replacing part with strained mushroom liquid.",
+        "zh": "米洗淨，按平常水量放入飯煲，可用隔渣冬菇水代替部分清水。"
+      },
+      {
+        "title": {
+          "en": "Steam chicken and serve",
+          "zh": "蒸雞上飯"
+        },
+        "en": "Steam chicken and mushrooms over boiling water for about 18–25 minutes, until chicken is thoroughly cooked. Serve over the rice with the steaming juices.",
+        "zh": "水滾後蒸雞及冬菇約18–25分鐘，按雞件大小調整至熟透。連蒸出的汁淋在飯上享用。"
+      }
+    ],
+    "notes": {
+      "en": "The final history update specifies steaming the mushrooms first and using their juices with the chicken.",
+      "zh": "歷史最後版本建議冬菇先蒸，再連菇汁與雞同蒸。"
+    }
+  },
+  {
+    "id": "chicken-wonton-soup-vermicelli",
+    "title": {
+      "en": "Chicken & wonton soup vermicelli",
+      "zh": "雲吞雞湯米粉"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Soup / noodles",
+      "zh": "湯麵"
+    },
+    "baseServings": 3,
+    "minutes": 50,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "wonton",
+      "soup",
+      "vermicelli"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken pieces",
+          "zh": "雞件"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Wontons",
+          "zh": "雲吞"
+        },
+        "amount": "9–12"
+      },
+      {
+        "name": {
+          "en": "Rice vermicelli",
+          "zh": "米粉"
+        },
+        "amount": "240 g"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "1.5 L"
+      },
+      {
+        "name": {
+          "en": "Ginger, sliced",
+          "zh": "薑片"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Dried scallops or Jinhua ham, optional",
+          "zh": "瑤柱或金華火腿（可選）"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Pak choi, optional",
+          "zh": "菜心或白菜（可選）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Salt and white pepper",
+          "zh": "鹽及白胡椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Make the broth",
+          "zh": "煲湯底"
+        },
+        "en": "Bring stock, ginger and spring onion to a gentle simmer. Add chicken and optional dried scallop or ham; simmer until chicken is cooked through, skimming as needed.",
+        "zh": "雞湯加入薑及蔥煮至微滾，放入雞件及可選瑤柱或火腿，小火煮至雞肉熟透，適時撇走浮沫。"
+      },
+      {
+        "title": {
+          "en": "Cook vermicelli",
+          "zh": "煮米粉"
+        },
+        "en": "Soak or boil vermicelli according to its package directions. Drain and divide among bowls.",
+        "zh": "按包裝指示浸或煮米粉，瀝乾後分入碗中。"
+      },
+      {
+        "title": {
+          "en": "Cook wontons and greens",
+          "zh": "煮雲吞及菜"
+        },
+        "en": "Remove chicken if serving in pieces. Bring broth to a gentle boil, add wontons and cook according to package directions; add greens for the final minutes.",
+        "zh": "如要斬件上碟，可先取出雞肉。湯底輕滾後加入雲吞，按包裝時間煮熟，最後數分鐘加入青菜。"
+      },
+      {
+        "title": {
+          "en": "Season and serve",
+          "zh": "調味上桌"
+        },
+        "en": "Season broth with salt and white pepper. Ladle broth, wontons and chicken over vermicelli.",
+        "zh": "以鹽及白胡椒調味，把湯、雲吞及雞肉淋在米粉上。"
+      }
+    ],
+    "notes": {
+      "en": "Bacon and Jinhua ham were compared in the history: use bacon for a milky western-style broth, or a small amount of Jinhua ham for a traditional clear broth.",
+      "zh": "歷史曾比較煙肉與金華火腿：奶香西式湯可用煙肉，中式清雞湯可用少量金華火腿。"
+    }
   }
 ]
