@@ -10453,5 +10453,1575 @@
       "en": "For duck safety and doneness, follow current guidance and use a probe; carryover heat continues during resting.",
       "zh": "鴨肉食安及熟度請參照最新指引並用探針量度；靜置期間中心仍會升溫。"
     }
+  },
+  {
+    "id": "rosemary-lamb-chops-rack",
+    "title": {
+      "en": "Rosemary lamb chops or rack",
+      "zh": "迷迭香羊扒／羊架"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "lamb",
+      "rosemary",
+      "roast"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Lamb chops or rack",
+          "zh": "羊扒或羊架"
+        },
+        "amount": "600–750 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, crushed",
+          "zh": "蒜頭（拍碎）"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Rosemary",
+          "zh": "迷迭香"
+        },
+        "amount": "2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard, optional",
+          "zh": "第戎芥末（可選）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season lamb",
+          "zh": "調味羊肉"
+        },
+        "en": "Rosemary lamb chops or rack",
+        "zh": "迷迭香羊扒／羊架"
+      },
+      {
+        "title": {
+          "en": "Sear",
+          "zh": "煎香"
+        },
+        "en": "Rosemary lamb chops or rack",
+        "zh": "迷迭香羊扒／羊架"
+      },
+      {
+        "title": {
+          "en": "Finish cooking",
+          "zh": "完成烹調"
+        },
+        "en": "Rosemary lamb chops or rack",
+        "zh": "迷迭香羊扒／羊架"
+      },
+      {
+        "title": {
+          "en": "Rest",
+          "zh": "靜置"
+        },
+        "en": "Rosemary lamb chops or rack",
+        "zh": "迷迭香羊扒／羊架"
+      }
+    ],
+    "notes": {
+      "en": "Chops and rack share the rosemary-garlic seasoning but cook differently; use a thermometer for the thicker rack.",
+      "zh": "羊扒與羊架可共用迷迭香蒜香醃料，但烹調時間不同；較厚羊架宜用溫度計。"
+    }
+  },
+  {
+    "id": "braised-ox-tongue",
+    "title": {
+      "en": "Red-wine braised ox tongue",
+      "zh": "紅酒燴牛脷"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 180,
+    "added": "2026-11-23",
+    "tags": [
+      "ox tongue",
+      "red wine",
+      "braise"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Ox tongue",
+          "zh": "牛脷"
+        },
+        "amount": "1 kg"
+      },
+      {
+        "name": {
+          "en": "Red wine",
+          "zh": "紅酒"
+        },
+        "amount": "300 ml"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "500 ml"
+      },
+      {
+        "name": {
+          "en": "Onion, chopped",
+          "zh": "洋蔥（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, chopped",
+          "zh": "甘筍（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Celery, chopped",
+          "zh": "西芹（切件）"
+        },
+        "amount": "1 stalk"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Bay leaf",
+          "zh": "月桂葉"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Simmer tongue",
+          "zh": "煮牛脷"
+        },
+        "en": "Red-wine braised ox tongue",
+        "zh": "紅酒燴牛脷"
+      },
+      {
+        "title": {
+          "en": "Cook vegetables",
+          "zh": "炒蔬菜"
+        },
+        "en": "Red-wine braised ox tongue",
+        "zh": "紅酒燴牛脷"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "紅酒燴煮"
+        },
+        "en": "Red-wine braised ox tongue",
+        "zh": "紅酒燴牛脷"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "收汁上碟"
+        },
+        "en": "Red-wine braised ox tongue",
+        "zh": "紅酒燴牛脷"
+      }
+    ],
+    "notes": {
+      "en": "Peel the tongue while it is still warm; the skin is harder to remove once chilled.",
+      "zh": "牛脷仍暖時較易去皮，放涼後會較難處理。"
+    }
+  },
+  {
+    "id": "red-wine-beef-oxtail",
+    "title": {
+      "en": "Red-wine braised beef or oxtail",
+      "zh": "紅酒燉牛肉／牛尾"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 210,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "oxtail",
+      "red wine",
+      "braise"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef chuck or oxtail",
+          "zh": "牛肩肉或牛尾"
+        },
+        "amount": "900 g"
+      },
+      {
+        "name": {
+          "en": "Red wine",
+          "zh": "紅酒"
+        },
+        "amount": "400 ml"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "500 ml"
+      },
+      {
+        "name": {
+          "en": "Onion, chopped",
+          "zh": "洋蔥（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, chopped",
+          "zh": "甘筍（切件）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Celery",
+          "zh": "西芹"
+        },
+        "amount": "2 stalks"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Bay leaf",
+          "zh": "月桂葉"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Flour",
+          "zh": "麵粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown meat",
+          "zh": "煎香肉類"
+        },
+        "en": "Red-wine braised beef or oxtail",
+        "zh": "紅酒燉牛肉／牛尾"
+      },
+      {
+        "title": {
+          "en": "Build braise",
+          "zh": "炒香燉汁底"
+        },
+        "en": "Red-wine braised beef or oxtail",
+        "zh": "紅酒燉牛肉／牛尾"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "紅酒燉煮"
+        },
+        "en": "Red-wine braised beef or oxtail",
+        "zh": "紅酒燉牛肉／牛尾"
+      },
+      {
+        "title": {
+          "en": "Reduce sauce",
+          "zh": "收汁"
+        },
+        "en": "Red-wine braised beef or oxtail",
+        "zh": "紅酒燉牛肉／牛尾"
+      }
+    ],
+    "notes": {
+      "en": "Beef chuck and oxtail need different braising times; keep them as alternatives within this shared red-wine method.",
+      "zh": "牛肩肉與牛尾需要不同燉煮時間；此處整合為同一紅酒燉煮基底的兩種肉類選項。"
+    }
+  },
+  {
+    "id": "slow-roast-pork-shoulder-ribs",
+    "title": {
+      "en": "Slow-roast pork shoulder or ribs",
+      "zh": "慢烤豬肩肉／豬肋骨"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 180,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "roast",
+      "barbecue"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork shoulder or ribs",
+          "zh": "豬肩肉或豬肋骨"
+        },
+        "amount": "1.2 kg"
+      },
+      {
+        "name": {
+          "en": "Brown sugar",
+          "zh": "黃糖"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Paprika",
+          "zh": "紅椒粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic powder",
+          "zh": "蒜粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Mustard",
+          "zh": "芥末"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Apple cider vinegar",
+          "zh": "蘋果醋"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Stock or water",
+          "zh": "高湯或水"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Barbecue sauce, optional",
+          "zh": "燒烤醬（可選）"
+        },
+        "amount": "to serve"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season",
+          "zh": "調味"
+        },
+        "en": "Slow-roast pork shoulder or ribs",
+        "zh": "慢烤豬肩肉／豬肋骨"
+      },
+      {
+        "title": {
+          "en": "Slow roast",
+          "zh": "慢烤"
+        },
+        "en": "Slow-roast pork shoulder or ribs",
+        "zh": "慢烤豬肩肉／豬肋骨"
+      },
+      {
+        "title": {
+          "en": "Glaze",
+          "zh": "上色"
+        },
+        "en": "Slow-roast pork shoulder or ribs",
+        "zh": "慢烤豬肩肉／豬肋骨"
+      },
+      {
+        "title": {
+          "en": "Rest and serve",
+          "zh": "靜置上桌"
+        },
+        "en": "Slow-roast pork shoulder or ribs",
+        "zh": "慢烤豬肩肉／豬肋骨"
+      }
+    ],
+    "notes": {
+      "en": "Cooking time varies with cut and thickness; cook until tender and follow safe internal-temperature guidance.",
+      "zh": "時間按肉塊及厚度不同；煮至軟腍並遵循食物安全中心溫度指引。"
+    }
+  },
+  {
+    "id": "roast-chicken-wings",
+    "title": {
+      "en": "Roast chicken or crispy roast wings",
+      "zh": "香烤全雞／雞翼"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 75,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "roast",
+      "garlic"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Whole chicken or chicken wings",
+          "zh": "全雞或雞翼"
+        },
+        "amount": "1.5 kg chicken or 1 kg wings"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic powder",
+          "zh": "蒜粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Paprika",
+          "zh": "紅椒粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Lemon, optional",
+          "zh": "檸檬（可選）"
+        },
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season chicken",
+          "zh": "調味雞肉"
+        },
+        "en": "Roast chicken or crispy roast wings",
+        "zh": "香烤全雞／雞翼"
+      },
+      {
+        "title": {
+          "en": "Roast",
+          "zh": "烤焗"
+        },
+        "en": "Roast chicken or crispy roast wings",
+        "zh": "香烤全雞／雞翼"
+      },
+      {
+        "title": {
+          "en": "Check and rest",
+          "zh": "檢查熟度靜置"
+        },
+        "en": "Roast chicken or crispy roast wings",
+        "zh": "香烤全雞／雞翼"
+      }
+    ],
+    "notes": {
+      "en": "Whole chicken and wings are combined as roast poultry, with separate cooking times. Follow current food-safety guidance.",
+      "zh": "全雞與雞翼整合為烤雞類食譜，但烹調時間分開標明；請遵循最新食安指引。"
+    }
+  },
+  {
+    "id": "pressure-cooker-cottage-pie",
+    "title": {
+      "en": "Pressure-cooker cottage pie",
+      "zh": "壓力煲牛肉薯蓉批"
+    },
+    "cuisine": {
+      "en": "British",
+      "zh": "英國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 90,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "potato",
+      "pressure cooker",
+      "baked"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef brisket or chuck, diced",
+          "zh": "牛腩或牛肩肉（切粒）"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrots, diced",
+          "zh": "甘筍（切粒）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "300 ml"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Worcestershire sauce",
+          "zh": "喼汁"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "800 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Frozen peas",
+          "zh": "急凍青豆"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Cornflour slurry, optional",
+          "zh": "生粉水（可選）"
+        },
+        "amount": "1 tbsp cornflour + 2 tbsp water"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Pressure-cook filling",
+          "zh": "壓煮餡料"
+        },
+        "en": "Pressure-cooker cottage pie",
+        "zh": "壓力煲牛肉薯蓉批"
+      },
+      {
+        "title": {
+          "en": "Thicken filling",
+          "zh": "收濃肉汁"
+        },
+        "en": "Pressure-cooker cottage pie",
+        "zh": "壓力煲牛肉薯蓉批"
+      },
+      {
+        "title": {
+          "en": "Make mash",
+          "zh": "做薯蓉"
+        },
+        "en": "Pressure-cooker cottage pie",
+        "zh": "壓力煲牛肉薯蓉批"
+      },
+      {
+        "title": {
+          "en": "Assemble and bake",
+          "zh": "組合焗製"
+        },
+        "en": "Pressure-cooker cottage pie",
+        "zh": "壓力煲牛肉薯蓉批"
+      }
+    ],
+    "notes": {
+      "en": "This adapts the historical request for brisket in a pressure-cooker cottage pie; pressure times vary by cut and appliance.",
+      "zh": "此食譜按歷史中的牛腩壓力煲牧羊人批要求整理；壓煮時間會因肉塊及煲具而不同。"
+    }
+  },
+  {
+    "id": "sea-bass-curry-rice",
+    "title": {
+      "en": "Crispy sea bass with butter-chicken sauce & mash",
+      "zh": "香煎鱸魚配牛油雞咖喱汁及薯蓉"
+    },
+    "cuisine": {
+      "en": "Fusion",
+      "zh": "融合風味"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "sea bass",
+      "fish",
+      "curry sauce",
+      "mash"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Sea bass fillets, skin-on",
+          "zh": "連皮鱸魚柳"
+        },
+        "amount": "3 (450–600 g)"
+      },
+      {
+        "name": {
+          "en": "Cooked butter-chicken sauce",
+          "zh": "牛油雞咖喱汁"
+        },
+        "amount": "300 ml"
+      },
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "80 ml"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Tenderstem broccoli, optional",
+          "zh": "嫩莖西蘭花（可選）"
+        },
+        "amount": "200 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Make mash",
+          "zh": "做薯蓉"
+        },
+        "en": "Crispy sea bass with butter-chicken sauce & mash",
+        "zh": "香煎鱸魚配牛油雞咖喱汁及薯蓉"
+      },
+      {
+        "title": {
+          "en": "Warm sauce",
+          "zh": "翻熱咖喱汁"
+        },
+        "en": "Crispy sea bass with butter-chicken sauce & mash",
+        "zh": "香煎鱸魚配牛油雞咖喱汁及薯蓉"
+      },
+      {
+        "title": {
+          "en": "Pan-fry sea bass",
+          "zh": "煎鱸魚"
+        },
+        "en": "Crispy sea bass with butter-chicken sauce & mash",
+        "zh": "香煎鱸魚配牛油雞咖喱汁及薯蓉"
+      },
+      {
+        "title": {
+          "en": "Plate",
+          "zh": "上碟"
+        },
+        "en": "Crispy sea bass with butter-chicken sauce & mash",
+        "zh": "香煎鱸魚配牛油雞咖喱汁及薯蓉"
+      }
+    ],
+    "notes": {
+      "en": "This integrates the sea-bass dinner pairing from the history; keep the fish crisp and use the existing butter-chicken sauce recipe.",
+      "zh": "此食譜整合歷史中的鱸魚晚餐配搭；魚皮保持香脆，使用既有牛油雞咖喱汁。"
+    }
+  },
+  {
+    "id": "orange-salmon",
+    "title": {
+      "en": "Pan-seared salmon with orange sauce",
+      "zh": "香煎三文魚配橙汁"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "salmon",
+      "orange",
+      "pan-seared"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Salmon fillets",
+          "zh": "三文魚柳"
+        },
+        "amount": "3 (about 450 g)"
+      },
+      {
+        "name": {
+          "en": "Orange juice",
+          "zh": "橙汁"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Orange zest",
+          "zh": "橙皮屑"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Lemon juice",
+          "zh": "檸檬汁"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "15 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Sear salmon",
+          "zh": "煎三文魚"
+        },
+        "en": "Pan-seared salmon with orange sauce",
+        "zh": "香煎三文魚配橙汁"
+      },
+      {
+        "title": {
+          "en": "Reduce orange sauce",
+          "zh": "煮橙汁"
+        },
+        "en": "Pan-seared salmon with orange sauce",
+        "zh": "香煎三文魚配橙汁"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Pan-seared salmon with orange sauce",
+        "zh": "香煎三文魚配橙汁"
+      }
+    ],
+    "notes": {
+      "en": "Avoid overcooking salmon; it continues to cook slightly while resting.",
+      "zh": "避免煮過火，三文魚靜置時仍會略為熟成。"
+    }
+  },
+  {
+    "id": "creamy-salmon-lasagne",
+    "title": {
+      "en": "Creamy salmon & spinach lasagne",
+      "zh": "忌廉三文魚菠菜千層麵"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 70,
+    "added": "2026-11-23",
+    "tags": [
+      "salmon",
+      "pasta",
+      "baked",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Lasagne sheets",
+          "zh": "千層麵片"
+        },
+        "amount": "9"
+      },
+      {
+        "name": {
+          "en": "Salmon, skinless",
+          "zh": "三文魚（去皮）"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Spinach",
+          "zh": "菠菜"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "中筋麵粉"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "650 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Grated mozzarella",
+          "zh": "水牛芝士碎"
+        },
+        "amount": "180 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Dill or parsley",
+          "zh": "蒔蘿或番荽"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Lemon zest",
+          "zh": "檸檬皮屑"
+        },
+        "amount": "½ lemon"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook salmon and spinach",
+          "zh": "煮三文魚菠菜"
+        },
+        "en": "Creamy salmon & spinach lasagne",
+        "zh": "忌廉三文魚菠菜千層麵"
+      },
+      {
+        "title": {
+          "en": "Make white sauce",
+          "zh": "煮白汁"
+        },
+        "en": "Creamy salmon & spinach lasagne",
+        "zh": "忌廉三文魚菠菜千層麵"
+      },
+      {
+        "title": {
+          "en": "Layer",
+          "zh": "疊層"
+        },
+        "en": "Creamy salmon & spinach lasagne",
+        "zh": "忌廉三文魚菠菜千層麵"
+      },
+      {
+        "title": {
+          "en": "Bake",
+          "zh": "焗熟"
+        },
+        "en": "Creamy salmon & spinach lasagne",
+        "zh": "忌廉三文魚菠菜千層麵"
+      }
+    ],
+    "notes": {
+      "en": "A creamy salmon bake can be made from the same filling without pasta sheets; the lasagne is the consolidated full dish.",
+      "zh": "同一餡料可不加麵片直接焗成忌廉三文魚；此處保留完整千層麵做法。"
+    }
+  },
+  {
+    "id": "creamy-mushroom-chicken-soup",
+    "title": {
+      "en": "Creamy mushroom chicken soup",
+      "zh": "忌廉蘑菇雞湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "mushroom",
+      "soup",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken thigh, diced",
+          "zh": "雞髀肉（切粒）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Flour",
+          "zh": "麵粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown chicken",
+          "zh": "煎雞肉"
+        },
+        "en": "Creamy mushroom chicken soup",
+        "zh": "忌廉蘑菇雞湯"
+      },
+      {
+        "title": {
+          "en": "Cook mushrooms",
+          "zh": "炒蘑菇"
+        },
+        "en": "Creamy mushroom chicken soup",
+        "zh": "忌廉蘑菇雞湯"
+      },
+      {
+        "title": {
+          "en": "Simmer soup",
+          "zh": "煮湯"
+        },
+        "en": "Creamy mushroom chicken soup",
+        "zh": "忌廉蘑菇雞湯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Creamy mushroom chicken soup",
+        "zh": "忌廉蘑菇雞湯"
+      }
+    ],
+    "notes": {
+      "en": "For a lighter soup, replace part of the cream with milk.",
+      "zh": "想湯清淡一點，可用牛奶代替部分忌廉。"
+    }
+  },
+  {
+    "id": "vegetable-corn-soup",
+    "title": {
+      "en": "Chinese vegetable & sweetcorn soup",
+      "zh": "中式蔬菜粟米湯"
+    },
+    "cuisine": {
+      "en": "Chinese",
+      "zh": "中式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "corn",
+      "vegetables",
+      "soup"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Sweetcorn kernels",
+          "zh": "粟米粒"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Carrot, diced",
+          "zh": "甘筍（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Vegetable or chicken stock",
+          "zh": "蔬菜湯或雞湯"
+        },
+        "amount": "1 L"
+      },
+      {
+        "name": {
+          "en": "Eggs, beaten, optional",
+          "zh": "雞蛋（打散，可選）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water for slurry",
+          "zh": "生粉水用水"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Simmer vegetables",
+          "zh": "煮蔬菜"
+        },
+        "en": "Chinese vegetable & sweetcorn soup",
+        "zh": "中式蔬菜粟米湯"
+      },
+      {
+        "title": {
+          "en": "Season and thicken",
+          "zh": "調味勾芡"
+        },
+        "en": "Chinese vegetable & sweetcorn soup",
+        "zh": "中式蔬菜粟米湯"
+      },
+      {
+        "title": {
+          "en": "Add egg",
+          "zh": "加蛋花"
+        },
+        "en": "Chinese vegetable & sweetcorn soup",
+        "zh": "中式蔬菜粟米湯"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Chinese vegetable & sweetcorn soup",
+        "zh": "中式蔬菜粟米湯"
+      }
+    ],
+    "notes": {
+      "en": "This combines the vegetable soup and corn soup requests into one flexible clear soup base.",
+      "zh": "此食譜將蔬菜湯及粟米湯整合成一款可變化的清湯底。"
+    }
+  },
+  {
+    "id": "lobster-bisque-soup",
+    "title": {
+      "en": "Classic lobster bisque",
+      "zh": "龍蝦濃湯"
+    },
+    "cuisine": {
+      "en": "French",
+      "zh": "法國"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 75,
+    "added": "2026-11-23",
+    "tags": [
+      "lobster",
+      "soup",
+      "seafood",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Cooked lobster or shellfish shells",
+          "zh": "熟龍蝦肉或海鮮殼"
+        },
+        "amount": "400 g meat or shells"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, diced",
+          "zh": "甘筍（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Celery, diced",
+          "zh": "西芹（切粒）"
+        },
+        "amount": "1 stalk"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Brandy, optional",
+          "zh": "白蘭地（可選）"
+        },
+        "amount": "30 ml"
+      },
+      {
+        "name": {
+          "en": "Fish stock",
+          "zh": "魚湯"
+        },
+        "amount": "800 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Rice or flour",
+          "zh": "米或麵粉"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Paprika",
+          "zh": "紅椒粉"
+        },
+        "amount": "½ tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook shells and aromatics",
+          "zh": "炒香殼料"
+        },
+        "en": "Classic lobster bisque",
+        "zh": "龍蝦濃湯"
+      },
+      {
+        "title": {
+          "en": "Build broth",
+          "zh": "煮湯底"
+        },
+        "en": "Classic lobster bisque",
+        "zh": "龍蝦濃湯"
+      },
+      {
+        "title": {
+          "en": "Blend and strain",
+          "zh": "攪打過濾"
+        },
+        "en": "Classic lobster bisque",
+        "zh": "龍蝦濃湯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Classic lobster bisque",
+        "zh": "龍蝦濃湯"
+      }
+    ],
+    "notes": {
+      "en": "This traditional-style soup uses shells for depth; ready-made lobster bisque can be used as a shortcut for the separate shrimp-pasta recipe.",
+      "zh": "此傳統風味湯底以海鮮殼提鮮；另一款蝦意粉可用現成龍蝦濃湯作快捷版。"
+    }
   }
 ]
