@@ -4650,5 +4650,1384 @@
       "en": "Bacon and Jinhua ham were compared in the history: use bacon for a milky western-style broth, or a small amount of Jinhua ham for a traditional clear broth.",
       "zh": "歷史曾比較煙肉與金華火腿：奶香西式湯可用煙肉，中式清雞湯可用少量金華火腿。"
     }
+  },
+  {
+    "id": "salted-fish-steamed-pork-patty",
+    "title": {
+      "en": "Steamed pork patty with salted fish",
+      "zh": "鹹魚蒸肉餅"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "salted fish",
+      "steamed"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork mince, 20% fat",
+          "zh": "半肥瘦豬肉碎"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Salted fish, deboned",
+          "zh": "鹹魚（去骨）"
+        },
+        "amount": "35 g"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season the pork",
+          "zh": "調味豬肉"
+        },
+        "en": "Mix pork with soy, sugar, cornflour, water, sesame oil and pepper. Stir in one direction until sticky.",
+        "zh": "豬肉加入生抽、糖、生粉、水、麻油及白胡椒，順一方向攪至起膠。"
+      },
+      {
+        "title": {
+          "en": "Prepare the fish",
+          "zh": "處理鹹魚"
+        },
+        "en": "Rinse salted fish quickly if very salty, pat dry, remove bones and cut into small pieces. Fold half into the pork.",
+        "zh": "鹹魚如太鹹可快速沖洗並抹乾，去骨切粒，一半拌入豬肉。"
+      },
+      {
+        "title": {
+          "en": "Steam",
+          "zh": "蒸熟"
+        },
+        "en": "Spread pork in a shallow plate and scatter remaining fish on top. Steam over boiling water for 15–18 minutes until thoroughly cooked.",
+        "zh": "豬肉鋪入淺碟，面放餘下鹹魚。水滾後蒸15–18分鐘至熟透。"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Spoon the steaming juices over the patty and garnish with spring onion.",
+        "zh": "將蒸汁淋回肉餅，撒上蔥花即成。"
+      }
+    ],
+    "notes": {
+      "en": "Salted fish varies in saltiness; season lightly and taste the juices before adding more soy.",
+      "zh": "鹹魚鹹度各異，調味宜輕手，試蒸汁後才考慮加豉油。"
+    }
+  },
+  {
+    "id": "oyster-sauce-lo-mein",
+    "title": {
+      "en": "Hong Kong oyster-sauce lo mein",
+      "zh": "港式蠔油撈麵"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "noodles",
+      "oyster sauce",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Egg noodles",
+          "zh": "蛋麵"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Dark soy sauce",
+          "zh": "老抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Hot water or stock",
+          "zh": "熱水或高湯"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion, sliced",
+          "zh": "蔥花"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Crispy shallots",
+          "zh": "炸乾蔥"
+        },
+        "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Enoki mushrooms, optional",
+          "zh": "金菇（可選）"
+        },
+        "amount": "200 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix the sauce",
+          "zh": "調醬汁"
+        },
+        "en": "Stir oyster sauce, soy sauces, sugar, sesame oil and hot water together.",
+        "zh": "蠔油、生抽、老抽、糖、麻油及熱水拌勻。"
+      },
+      {
+        "title": {
+          "en": "Cook noodles",
+          "zh": "煮麵"
+        },
+        "en": "Boil noodles according to package directions. If using enoki, trim and fry separately until golden and crisp.",
+        "zh": "按包裝指示煮麵。如用金菇，切去根部後另行炸至金黃酥脆。"
+      },
+      {
+        "title": {
+          "en": "Toss and serve",
+          "zh": "拌麵上桌"
+        },
+        "en": "Drain noodles well, toss with sauce while hot, and top with spring onion and crispy shallots. Serve enoki alongside or on top.",
+        "zh": "麵瀝乾後趁熱與醬汁拌勻，撒上蔥花及炸乾蔥。金菇可伴碟或鋪面。"
+      }
+    ],
+    "notes": {
+      "en": "Keep any crispy enoki separate until serving so it stays crisp.",
+      "zh": "炸金菇上桌前才放，保持酥脆。"
+    }
+  },
+  {
+    "id": "hong-kong-fish-noodles",
+    "title": {
+      "en": "Hong Kong fish noodles with garlic-soy dressing",
+      "zh": "港式蒜油豉油魚麵"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "fish noodles",
+      "garlic",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Fresh fish noodles",
+          "zh": "鮮魚麵"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Water or stock",
+          "zh": "水或高湯"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Crispy garlic",
+          "zh": "炸蒜"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Dried shrimp, optional",
+          "zh": "蝦皮（可選）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare dressing",
+          "zh": "調醬汁"
+        },
+        "en": "Mix soy, oyster sauce, sesame oil, water, sugar and white pepper. Warm briefly so the sugar dissolves.",
+        "zh": "生抽、蠔油、麻油、水、糖及白胡椒拌勻，稍微加熱至糖溶。"
+      },
+      {
+        "title": {
+          "en": "Cook noodles",
+          "zh": "煮魚麵"
+        },
+        "en": "Boil fish noodles according to package directions. Reserve a little cooking water, then drain.",
+        "zh": "按包裝指示煮魚麵，留少量麵水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Toss",
+          "zh": "拌麵"
+        },
+        "en": "Put dressing in a bowl, add hot noodles and toss. Add a spoon of noodle water if needed for a juicier coating.",
+        "zh": "碗中先放醬汁，加入熱魚麵拌勻；想更濕潤可加一匙麵水。"
+      },
+      {
+        "title": {
+          "en": "Garnish",
+          "zh": "加配料"
+        },
+        "en": "Top with crispy garlic, optional dried shrimp and spring onion.",
+        "zh": "撒上炸蒜、可選蝦皮及蔥花。"
+      }
+    ],
+    "notes": {
+      "en": "Add crispy garlic and dried shrimp at the end to retain their texture.",
+      "zh": "炸蒜及蝦皮最後才加，保留酥香。"
+    }
+  },
+  {
+    "id": "spicy-beef-ball-soup-noodles",
+    "title": {
+      "en": "Spicy beef-ball soup noodles",
+      "zh": "麻辣牛丸湯麵"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Soup / noodles",
+      "zh": "湯麵"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "beef balls",
+      "noodles",
+      "spicy"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef balls",
+          "zh": "牛丸"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Wheat noodles",
+          "zh": "麵條"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Chicken or beef stock",
+          "zh": "雞湯或牛湯"
+        },
+        "amount": "1 L"
+      },
+      {
+        "name": {
+          "en": "Chilli oil",
+          "zh": "辣椒油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sichuan peppercorn oil, optional",
+          "zh": "花椒油（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Pak choi",
+          "zh": "白菜"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Black vinegar, optional",
+          "zh": "黑醋（可選）"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season broth",
+          "zh": "調湯底"
+        },
+        "en": "Bring stock, garlic, soy and chilli oil to a simmer. Add beef balls and cook until heated through.",
+        "zh": "高湯加入蒜蓉、生抽及辣椒油煮至微滾，放入牛丸煮熱。"
+      },
+      {
+        "title": {
+          "en": "Cook noodles and greens",
+          "zh": "煮麵及菜"
+        },
+        "en": "Cook noodles separately to package directions. Add pak choi to the broth for the final 2 minutes.",
+        "zh": "麵條另按包裝煮熟。湯底最後2分鐘加入白菜。"
+      },
+      {
+        "title": {
+          "en": "Assemble",
+          "zh": "組合"
+        },
+        "en": "Divide noodles into bowls, ladle over broth and beef balls. Finish with spring onion, optional pepper oil and vinegar.",
+        "zh": "麵條分碗，加入湯、牛丸及白菜，最後加蔥花、可選花椒油及黑醋。"
+      }
+    ],
+    "notes": {
+      "en": "Adjust chilli oil and vinegar at the table. For a clearer soup, skim the stock before adding seasonings.",
+      "zh": "辣油及醋可上桌後自行調整。想湯底清澈，可先撇走浮沫。"
+    }
+  },
+  {
+    "id": "minced-pork-vegetable-stir-fry",
+    "title": {
+      "en": "Chinese minced pork & vegetable stir-fry",
+      "zh": "中式免治豬肉炒菜"
+    },
+    "cuisine": {
+      "en": "Chinese",
+      "zh": "中式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "vegetables",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork mince",
+          "zh": "豬肉碎"
+        },
+        "amount": "350 g"
+      },
+      {
+        "name": {
+          "en": "Cabbage or leafy greens, chopped",
+          "zh": "椰菜或葉菜（切段）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Carrot, julienned",
+          "zh": "甘筍（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Ginger, minced",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "2 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix seasoning",
+          "zh": "調醬汁"
+        },
+        "en": "Stir soy, oyster sauce, wine, sugar, cornflour and water together.",
+        "zh": "生抽、蠔油、紹興酒、糖、生粉及水拌勻。"
+      },
+      {
+        "title": {
+          "en": "Brown pork",
+          "zh": "炒豬肉"
+        },
+        "en": "Heat oil in a wok. Fry garlic and ginger briefly, add pork and break it up; cook until no longer pink.",
+        "zh": "鑊中燒油，炒香蒜蓉及薑，加入豬肉碎炒散至轉色熟透。"
+      },
+      {
+        "title": {
+          "en": "Stir-fry vegetables",
+          "zh": "炒蔬菜"
+        },
+        "en": "Add carrot and cabbage; stir-fry until just tender.",
+        "zh": "加入甘筍及椰菜炒至剛軟。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "收汁"
+        },
+        "en": "Pour in sauce and toss until glossy and thickened. Serve with rice.",
+        "zh": "倒入醬汁兜勻至光亮濃稠，配白飯享用。"
+      }
+    ],
+    "notes": {
+      "en": "Use the vegetables you have; add watery greens near the end to avoid excess liquid.",
+      "zh": "可按手上蔬菜替換；出水較多的葉菜宜較後加入。"
+    }
+  },
+  {
+    "id": "japanese-oyakodon",
+    "title": {
+      "en": "Japanese oyakodon",
+      "zh": "日式親子丼"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "egg",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken thigh, bite-size",
+          "zh": "雞髀肉（切件）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion, thinly sliced",
+          "zh": "洋蔥（切薄片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Eggs, lightly beaten",
+          "zh": "雞蛋（略打散）"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Cooked Japanese rice",
+          "zh": "熟日本米"
+        },
+        "amount": "3 bowls"
+      },
+      {
+        "name": {
+          "en": "Dashi",
+          "zh": "鰹魚高湯"
+        },
+        "amount": "180 ml"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "日式醬油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Mirin",
+          "zh": "味醂"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sake",
+          "zh": "清酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Simmer onion and chicken",
+          "zh": "煮洋蔥雞肉"
+        },
+        "en": "Combine dashi, soy, mirin, sake and sugar in a pan. Add onion and simmer 3 minutes, then add chicken and cook through.",
+        "zh": "高湯、生抽、味醂、清酒及糖放入鍋中，加入洋蔥煮3分鐘，再加入雞肉煮熟。"
+      },
+      {
+        "title": {
+          "en": "Set the egg",
+          "zh": "煮蛋"
+        },
+        "en": "Pour beaten egg over the chicken in two additions. Cover briefly until softly set, leaving it slightly tender.",
+        "zh": "蛋液分兩次淋在雞肉上，短暫加蓋煮至蛋凝固但仍嫩滑。"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上碗"
+        },
+        "en": "Spoon chicken, egg and sauce over hot rice; garnish with spring onion.",
+        "zh": "雞肉、蛋及醬汁鋪在熱飯上，撒上蔥花。"
+      }
+    ],
+    "notes": {
+      "en": "Use pasteurised eggs or cook until fully set for anyone who needs to avoid undercooked eggs.",
+      "zh": "需要避免半熟蛋的人士，請使用巴士德消毒蛋或將雞蛋煮至全熟。"
+    }
+  },
+  {
+    "id": "japanese-tomato-curry",
+    "title": {
+      "en": "Japanese tomato curry with chicken",
+      "zh": "日式番茄咖喱雞"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 50,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "tomato",
+      "curry",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken thigh",
+          "zh": "雞髀肉"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, chunks",
+          "zh": "甘筍（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Potatoes, chunks",
+          "zh": "薯仔（切件）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Tomatoes, chopped",
+          "zh": "番茄（切件）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Japanese curry roux",
+          "zh": "日式咖喱磚"
+        },
+        "amount": "3–4 cubes"
+      },
+      {
+        "name": {
+          "en": "Water or stock",
+          "zh": "水或高湯"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟飯"
+        },
+        "amount": "3 bowls"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown chicken",
+          "zh": "煎雞肉"
+        },
+        "en": "Heat oil in a pot. Brown chicken pieces, then remove.",
+        "zh": "鍋中燒油，雞肉煎至上色後盛起。"
+      },
+      {
+        "title": {
+          "en": "Cook vegetables",
+          "zh": "炒蔬菜"
+        },
+        "en": "Fry onion until softened. Add carrot, potatoes and tomatoes; stir for 2 minutes.",
+        "zh": "炒軟洋蔥，加入甘筍、薯仔及番茄炒2分鐘。"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "燉煮"
+        },
+        "en": "Return chicken, add stock and simmer 20–25 minutes until vegetables and chicken are cooked.",
+        "zh": "雞肉回鍋，加入高湯小火煮20–25分鐘至肉菜熟透。"
+      },
+      {
+        "title": {
+          "en": "Add curry roux",
+          "zh": "加入咖喱磚"
+        },
+        "en": "Turn off heat, dissolve curry roux, then simmer gently until thick. Serve with rice.",
+        "zh": "熄火加入咖喱磚攪溶，再小火煮至濃稠，配飯享用。"
+      }
+    ],
+    "notes": {
+      "en": "Tomatoes bring extra acidity; add a small pinch of sugar if your tomatoes are particularly tart.",
+      "zh": "番茄會增加酸度；如番茄偏酸，可加少量糖平衡。"
+    }
+  },
+  {
+    "id": "japanese-potato-salad",
+    "title": {
+      "en": "Japanese potato salad",
+      "zh": "日式薯仔沙律"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "potato",
+      "salad",
+      "mayonnaise"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Floury potatoes",
+          "zh": "粉質薯仔"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Cucumber, thinly sliced",
+          "zh": "青瓜（切薄片）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Carrot, thinly sliced",
+          "zh": "甘筍（切薄片）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Onion, thinly sliced",
+          "zh": "洋蔥（切薄片）"
+        },
+        "amount": "¼"
+      },
+      {
+        "name": {
+          "en": "Mayonnaise",
+          "zh": "蛋黃醬"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Rice vinegar",
+          "zh": "米醋"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Hard-boiled egg, optional",
+          "zh": "熟蛋（可選）"
+        },
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook potatoes",
+          "zh": "煮薯仔"
+        },
+        "en": "Boil potatoes in salted water until tender. Drain well and steam-dry briefly.",
+        "zh": "薯仔以鹽水煮至軟身，瀝乾後稍作風乾。"
+      },
+      {
+        "title": {
+          "en": "Salt vegetables",
+          "zh": "處理蔬菜"
+        },
+        "en": "Lightly salt cucumber, carrot and onion; rest 10 minutes, then squeeze out excess water.",
+        "zh": "青瓜、甘筍及洋蔥輕撒鹽，靜置10分鐘後擠出多餘水分。"
+      },
+      {
+        "title": {
+          "en": "Mash and season",
+          "zh": "壓薯調味"
+        },
+        "en": "Coarsely mash warm potatoes, season with vinegar, salt and pepper; cool until just warm.",
+        "zh": "薯仔趁暖粗略壓碎，加入醋、鹽及黑椒調味，放至微暖。"
+      },
+      {
+        "title": {
+          "en": "Combine",
+          "zh": "拌沙律"
+        },
+        "en": "Fold in vegetables, mayonnaise and optional chopped egg. Chill before serving.",
+        "zh": "拌入蔬菜、蛋黃醬及可選熟蛋，冷藏後享用。"
+      }
+    ],
+    "notes": {
+      "en": "Let potatoes cool before adding mayonnaise to keep the dressing creamy.",
+      "zh": "薯仔放涼至微暖才加蛋黃醬，醬汁較滑。"
+    }
+  },
+  {
+    "id": "soy-milk-cold-noodles",
+    "title": {
+      "en": "Korean soy-milk cold noodles",
+      "zh": "韓式豆乳冷麵"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "cold noodles",
+      "soy milk",
+      "cucumber"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Somyeon or thin noodles",
+          "zh": "素麵或幼麵"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Unsweetened soy milk, chilled",
+          "zh": "無糖豆漿（凍）"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "芝麻"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Peanut butter, optional",
+          "zh": "花生醬（可選）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cucumber, julienned",
+          "zh": "青瓜（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Tomatoes, wedges",
+          "zh": "番茄（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Eggs, boiled",
+          "zh": "熟蛋"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Make broth",
+          "zh": "調豆乳湯"
+        },
+        "en": "Blend chilled soy milk with sesame seeds and optional peanut butter until smooth. Season lightly with salt and chill.",
+        "zh": "凍豆漿、芝麻及可選花生醬攪至順滑，以少量鹽調味並冷藏。"
+      },
+      {
+        "title": {
+          "en": "Cook noodles",
+          "zh": "煮麵"
+        },
+        "en": "Boil noodles according to package directions, rinse under cold water and drain well.",
+        "zh": "按包裝煮麵，以凍水沖洗並徹底瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Serve cold",
+          "zh": "冷食"
+        },
+        "en": "Divide noodles into bowls, pour over soy broth and top with cucumber, tomato and boiled egg.",
+        "zh": "麵條分碗，倒入豆乳湯，配青瓜、番茄及熟蛋享用。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the soy broth very cold and add salt gradually; brands vary in sweetness and thickness.",
+      "zh": "豆乳湯要保持冰涼，鹽逐少加入；不同豆漿甜度及濃度有別。"
+    }
+  },
+  {
+    "id": "korean-bibim-noodles",
+    "title": {
+      "en": "Korean bibim noodles",
+      "zh": "韓式拌冷麵"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "noodles",
+      "gochujang",
+      "cold"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Thin wheat or buckwheat noodles",
+          "zh": "幼麵或蕎麥麵"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Gochujang",
+          "zh": "韓式辣醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Rice vinegar",
+          "zh": "米醋"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar or honey",
+          "zh": "糖或蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Cucumber, julienned",
+          "zh": "青瓜（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Eggs, boiled",
+          "zh": "熟蛋"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "芝麻"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix sauce",
+          "zh": "調拌麵醬"
+        },
+        "en": "Whisk gochujang, vinegar, soy, sugar and sesame oil until smooth.",
+        "zh": "韓式辣醬、醋、生抽、糖及麻油拌至順滑。"
+      },
+      {
+        "title": {
+          "en": "Cook and chill noodles",
+          "zh": "煮麵沖冷"
+        },
+        "en": "Boil noodles until tender, rinse thoroughly under cold water and drain.",
+        "zh": "麵條煮至熟，以凍水徹底沖洗並瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Toss and garnish",
+          "zh": "拌麵上碟"
+        },
+        "en": "Toss noodles with sauce. Top with cucumber, boiled egg and sesame seeds.",
+        "zh": "麵條與醬汁拌勻，放上青瓜、熟蛋及芝麻。"
+      }
+    ],
+    "notes": {
+      "en": "Adjust chilli paste and vinegar to taste; add a spoonful of cold water if the sauce is too thick.",
+      "zh": "辣醬及醋按口味調整；醬汁太稠可加一匙凍水。"
+    }
+  },
+  {
+    "id": "tuna-mayo-kimchi-fried-rice",
+    "title": {
+      "en": "Tuna-mayo kimchi fried rice",
+      "zh": "吞拿魚蛋黃醬泡菜炒飯"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "tuna",
+      "rice",
+      "kimchi",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Cooked rice, cold",
+          "zh": "隔夜白飯"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Canned tuna, drained",
+          "zh": "罐頭吞拿魚（瀝乾）"
+        },
+        "amount": "1 can (150 g)"
+      },
+      {
+        "name": {
+          "en": "Kimchi, chopped",
+          "zh": "泡菜（切碎）"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Mayonnaise",
+          "zh": "蛋黃醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Eggs",
+          "zh": "雞蛋"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "芝麻"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Fry kimchi",
+          "zh": "炒泡菜"
+        },
+        "en": "Heat a little oil and stir-fry kimchi for 2–3 minutes until fragrant.",
+        "zh": "燒少許油，泡菜炒2–3分鐘至香。"
+      },
+      {
+        "title": {
+          "en": "Add tuna and rice",
+          "zh": "加入吞拿魚及飯"
+        },
+        "en": "Add drained tuna and cold rice; break up clumps and stir-fry until steaming hot. Season with soy.",
+        "zh": "加入吞拿魚及冷飯炒散至熱透，以生抽調味。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Stir in mayonnaise and sesame oil. Fry eggs separately and serve on top with spring onion and sesame seeds.",
+        "zh": "拌入蛋黃醬及麻油。雞蛋另煎，鋪在炒飯上，撒蔥花及芝麻。"
+      }
+    ],
+    "notes": {
+      "en": "Use freshly cooked rice cooled quickly or refrigerated leftover rice; reheat until piping hot.",
+      "zh": "可用迅速放涼或冷藏的剩飯，翻熱至熱透。"
+    }
   }
 ]
