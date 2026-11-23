@@ -6029,5 +6029,1004 @@
       "en": "Use freshly cooked rice cooled quickly or refrigerated leftover rice; reheat until piping hot.",
       "zh": "可用迅速放涼或冷藏的剩飯，翻熱至熱透。"
     }
+  },
+  {
+    "id": "cheddar-macaroni-cheese",
+    "title": {
+      "en": "Creamy cheddar macaroni cheese",
+      "zh": "車打芝士通心粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "cheese",
+      "pasta",
+      "side"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Macaroni",
+          "zh": "通心粉"
+        },
+        "amount": "180 g"
+      },
+      {
+        "name": {
+          "en": "Mature cheddar, grated",
+          "zh": "熟成車打芝士（刨碎）"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "中筋麵粉"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Garlic powder",
+          "zh": "蒜粉"
+        },
+        "amount": "¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard, optional",
+          "zh": "第戎芥末（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Paprika, optional",
+          "zh": "紅椒粉（可選）"
+        },
+        "amount": "¼ tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮通心粉"
+        },
+        "en": "Boil macaroni in salted water until 1 minute short of al dente. Reserve 100 ml pasta water and drain.",
+        "zh": "通心粉以鹽水煮至距離彈牙尚差1分鐘，留100毫升麵水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Make roux",
+          "zh": "炒麵糊"
+        },
+        "en": "Melt butter over medium-low heat, stir in flour and cook for 1 minute.",
+        "zh": "中小火融化牛油，加入麵粉攪炒1分鐘。"
+      },
+      {
+        "title": {
+          "en": "Make cheese sauce",
+          "zh": "煮芝士醬"
+        },
+        "en": "Gradually whisk in milk. Simmer 2–3 minutes until slightly thickened. Lower heat and stir in cheddar and seasonings until smooth.",
+        "zh": "逐少拌入牛奶，煮2–3分鐘至略稠。轉小火，加入車打芝士及調味料攪至順滑。"
+      },
+      {
+        "title": {
+          "en": "Combine and grill",
+          "zh": "拌合焗香"
+        },
+        "en": "Stir in macaroni, loosening with pasta water if needed. Transfer to a dish, top with extra cheese and grill 2–3 minutes until golden.",
+        "zh": "加入通心粉拌勻，太稠可加麵水。放入焗盤，撒額外芝士，烤2–3分鐘至金黃。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the sauce a little loose; it thickens as it cools. Avoid boiling after adding cheese.",
+      "zh": "醬汁宜保留少許流動感，放涼會變稠；加入芝士後避免煮滾。"
+    }
+  },
+  {
+    "id": "korean-rose-udon-squid",
+    "title": {
+      "en": "Korean rosé udon with squid & bacon",
+      "zh": "韓式粉紅醬魷魚煙肉烏冬"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Noodles",
+      "zh": "粉麵"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "udon",
+      "squid",
+      "bacon",
+      "spicy"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Udon",
+          "zh": "烏冬"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Squid rings",
+          "zh": "魷魚圈"
+        },
+        "amount": "325 g"
+      },
+      {
+        "name": {
+          "en": "Bacon, chopped",
+          "zh": "煙肉（切粒）"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Sweetcorn",
+          "zh": "粟米粒"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Gochujang",
+          "zh": "韓式辣醬"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Gochugaru",
+          "zh": "韓式辣椒粉"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Ketchup",
+          "zh": "茄汁"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Mozzarella",
+          "zh": "水牛芝士"
+        },
+        "amount": "75 g"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Render bacon",
+          "zh": "煎煙肉"
+        },
+        "en": "Cook bacon in a cold pan over medium heat until its fat renders and the edges are lightly crisp.",
+        "zh": "冷鑊下煙肉，中火煎至出油、邊緣略脆。"
+      },
+      {
+        "title": {
+          "en": "Fry aromatics",
+          "zh": "炒香配料"
+        },
+        "en": "Add onion, cook 2–3 minutes, then garlic for 30 seconds. Stir in gochujang, gochugaru and ketchup; fry briefly. Add soy and honey.",
+        "zh": "加入洋蔥炒2–3分鐘，再加蒜蓉炒30秒。拌入辣醬、辣椒粉及茄汁略炒，再加生抽和蜜糖。"
+      },
+      {
+        "title": {
+          "en": "Make sauce",
+          "zh": "煮醬汁"
+        },
+        "en": "Pour in stock and simmer 2 minutes. Stir in cream and mozzarella over low heat until melted; add corn.",
+        "zh": "倒入雞湯煮2分鐘。轉小火加入忌廉及水牛芝士攪至融化，再加入粟米。"
+      },
+      {
+        "title": {
+          "en": "Cook noodles and squid",
+          "zh": "煮烏冬魷魚"
+        },
+        "en": "Add udon and toss until hot. Sear squid separately over high heat for 30–45 seconds, then fold into sauce for another 30 seconds.",
+        "zh": "加入烏冬拌至熱透。魷魚另以大火炒30–45秒，再拌入醬汁30秒。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Season with black pepper, sesame oil and spring onion. Taste before adding salt.",
+        "zh": "以黑椒、麻油及蔥花完成。加鹽前先試味。"
+      }
+    ],
+    "notes": {
+      "en": "Add squid at the end so it stays tender. Bacon, stock, soy and gochujang already bring salt.",
+      "zh": "魷魚最後才落，口感較嫩。煙肉、雞湯、生抽及辣醬已有鹹味。"
+    }
+  },
+  {
+    "id": "lobster-bisque-shrimp-pasta",
+    "title": {
+      "en": "Lobster bisque shrimp pasta",
+      "zh": "龍蝦濃湯鮮蝦意粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "shrimp",
+      "lobster",
+      "pasta",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Raw peeled shrimp",
+          "zh": "生蝦仁"
+        },
+        "amount": "275 g"
+      },
+      {
+        "name": {
+          "en": "Lobster bisque",
+          "zh": "龍蝦濃湯"
+        },
+        "amount": "450 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Shallot or onion, diced",
+          "zh": "乾蔥或洋蔥（切粒）"
+        },
+        "amount": "1 small"
+      },
+      {
+        "name": {
+          "en": "White wine, optional",
+          "zh": "白酒（可選）"
+        },
+        "amount": "60 ml"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Chilli flakes",
+          "zh": "辣椒碎"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Parsley",
+          "zh": "番荽"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Boil pasta in salted water until al dente. Reserve 150 ml pasta water and drain.",
+        "zh": "意粉以鹽水煮至彈牙，留150毫升麵水後瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Sear shrimp",
+          "zh": "煎蝦"
+        },
+        "en": "Season shrimp lightly and sear in a hot pan for about 1 minute per side until just opaque. Remove.",
+        "zh": "蝦仁輕輕調味，以熱鑊每面煎約1分鐘至剛不透明，盛起。"
+      },
+      {
+        "title": {
+          "en": "Build sauce",
+          "zh": "煮龍蝦汁"
+        },
+        "en": "Melt butter. Soften shallot and garlic, then cook tomato paste for 1 minute. Add optional wine and reduce by half; stir in bisque and cream and simmer gently 5–8 minutes.",
+        "zh": "融化牛油，炒軟乾蔥及蒜蓉，再炒茄膏1分鐘。加可選白酒煮至減半，拌入龍蝦濃湯及忌廉，小火煮5–8分鐘。"
+      },
+      {
+        "title": {
+          "en": "Toss and serve",
+          "zh": "拌麵上碟"
+        },
+        "en": "Add pasta and toss, loosening with pasta water as needed. Return shrimp just to warm through; finish with chilli flakes, parsley and pepper.",
+        "zh": "加入意粉拌勻，按需要加麵水調整。放回蝦仁翻熱，撒辣椒碎、番荽及黑椒。"
+      }
+    ],
+    "notes": {
+      "en": "Bisque can be salty; taste before adding extra salt or Parmesan.",
+      "zh": "龍蝦濃湯可能偏鹹，加鹽或芝士前先試味。"
+    }
+  },
+  {
+    "id": "chicken-seafood-paella",
+    "title": {
+      "en": "Chicken & seafood paella",
+      "zh": "雞肉海鮮西班牙燉飯"
+    },
+    "cuisine": {
+      "en": "Spain",
+      "zh": "西班牙"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 55,
+    "added": "2026-11-23",
+    "tags": [
+      "rice",
+      "chicken",
+      "seafood",
+      "one-pan"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Paella or short-grain rice",
+          "zh": "西班牙米或短粒米"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Boneless chicken thigh",
+          "zh": "去骨雞髀肉"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Prawns",
+          "zh": "大蝦"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Mussels, cleaned",
+          "zh": "青口（清理）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Red pepper, diced",
+          "zh": "紅椒（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Chopped tomatoes",
+          "zh": "番茄碎"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Chicken or seafood stock, hot",
+          "zh": "熱雞湯或海鮮湯"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "Smoked paprika",
+          "zh": "煙燻紅椒粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Saffron, optional",
+          "zh": "番紅花（可選）"
+        },
+        "amount": "a pinch"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Lemon",
+          "zh": "檸檬"
+        },
+        "amount": "to serve"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown chicken",
+          "zh": "煎雞肉"
+        },
+        "en": "Season chicken and brown in olive oil in a wide pan; remove.",
+        "zh": "雞肉調味，以橄欖油在闊鍋中煎至上色後盛起。"
+      },
+      {
+        "title": {
+          "en": "Make sofrito",
+          "zh": "炒香蔬菜"
+        },
+        "en": "Cook onion and pepper until softened. Add garlic, paprika and tomatoes; cook until thick.",
+        "zh": "炒軟洋蔥及紅椒，加入蒜蓉、紅椒粉及番茄炒至濃稠。"
+      },
+      {
+        "title": {
+          "en": "Add rice and stock",
+          "zh": "煮飯"
+        },
+        "en": "Stir in rice to coat. Add hot stock and saffron, spread rice evenly, then return chicken. Simmer uncovered without stirring for 15 minutes.",
+        "zh": "加入米拌勻，倒入熱高湯及番紅花，鋪平米粒並放回雞肉。開蓋煮15分鐘，不要攪拌。"
+      },
+      {
+        "title": {
+          "en": "Add seafood",
+          "zh": "加入海鮮"
+        },
+        "en": "Nestle prawns and mussels into the rice. Cook 7–10 minutes until rice is tender, seafood is thoroughly cooked and mussels open; discard unopened mussels.",
+        "zh": "把大蝦及青口放在飯面，續煮7–10分鐘至米飯熟、海鮮熟透及青口打開；未開的青口要丟掉。"
+      },
+      {
+        "title": {
+          "en": "Rest and serve",
+          "zh": "焗飯上桌"
+        },
+        "en": "Rest covered for 5 minutes and serve with lemon.",
+        "zh": "加蓋焗5分鐘，配檸檬享用。"
+      }
+    ],
+    "notes": {
+      "en": "Keep the stock hot and avoid stirring once the rice is spread to encourage the toasted bottom layer.",
+      "zh": "高湯保持熱，米飯鋪平後避免攪動，較易形成香脆鍋底。"
+    }
+  },
+  {
+    "id": "creamy-tomato-soup",
+    "title": {
+      "en": "Creamy tomato soup",
+      "zh": "忌廉番茄湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-23",
+    "tags": [
+      "tomato",
+      "soup",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Ripe fresh tomatoes, chopped",
+          "zh": "熟番茄（切件）"
+        },
+        "amount": "700 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "15 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chicken or vegetable stock",
+          "zh": "雞湯或蔬菜湯"
+        },
+        "amount": "550 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "110 ml"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Sweat aromatics",
+          "zh": "炒香配料"
+        },
+        "en": "Heat butter and oil. Cook onion 5–6 minutes until soft; add garlic for 1 minute.",
+        "zh": "牛油及橄欖油加熱，洋蔥炒5–6分鐘至軟，再加蒜蓉炒1分鐘。"
+      },
+      {
+        "title": {
+          "en": "Cook tomato paste",
+          "zh": "炒茄膏"
+        },
+        "en": "Stir in tomato paste and cook 2–3 minutes. Add tomatoes and cook 10–15 minutes until softened.",
+        "zh": "加入茄膏炒2–3分鐘，再加番茄煮10–15分鐘至軟。"
+      },
+      {
+        "title": {
+          "en": "Simmer",
+          "zh": "煮湯"
+        },
+        "en": "Add stock and simmer 20–25 minutes. Blend until smooth.",
+        "zh": "加入高湯小火煮20–25分鐘，攪打至順滑。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Stir in cream and sugar, season to taste and warm gently without boiling hard.",
+        "zh": "拌入忌廉及糖調味，小火加熱，不要大滾。"
+      }
+    ],
+    "notes": {
+      "en": "Use 500 ml stock for a thicker soup; add more only after blending.",
+      "zh": "想湯濃稠可先用500毫升高湯，攪打後再按需要增加。"
+    }
+  },
+  {
+    "id": "roasted-butternut-soup",
+    "title": {
+      "en": "Roasted butternut squash soup",
+      "zh": "烤南瓜忌廉湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 60,
+    "added": "2026-11-23",
+    "tags": [
+      "squash",
+      "soup",
+      "roasted"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Butternut squash, peeled and cubed",
+          "zh": "南瓜（去皮切粒）"
+        },
+        "amount": "750 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic cloves, whole",
+          "zh": "蒜瓣（原粒）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Chicken or vegetable stock",
+          "zh": "雞湯或蔬菜湯"
+        },
+        "amount": "1 L"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Nutmeg or smoked paprika, optional",
+          "zh": "肉豆蔻或煙燻紅椒粉（可選）"
+        },
+        "amount": "a pinch"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Roast squash",
+          "zh": "烤南瓜"
+        },
+        "en": "Heat oven to 200°C fan. Toss squash and garlic with oil, salt and pepper; roast 30–35 minutes until caramelised.",
+        "zh": "焗爐預熱至風扇200°C。南瓜及蒜瓣拌油、鹽、黑椒，烤30–35分鐘至焦糖化。"
+      },
+      {
+        "title": {
+          "en": "Cook onion",
+          "zh": "炒洋蔥"
+        },
+        "en": "Melt butter in a pot and cook onion 5–7 minutes until soft.",
+        "zh": "鍋中融化牛油，洋蔥炒5–7分鐘至軟。"
+      },
+      {
+        "title": {
+          "en": "Blend",
+          "zh": "攪打"
+        },
+        "en": "Add roasted squash and squeezed roasted garlic, pour in stock and simmer 5–10 minutes. Blend smooth.",
+        "zh": "加入烤南瓜及擠出的烤蒜，倒入高湯煮5–10分鐘，攪打至順滑。"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Stir in cream, season and gently simmer for 2 minutes.",
+        "zh": "拌入忌廉調味，小火煮2分鐘。"
+      }
+    ],
+    "notes": {
+      "en": "Roasting brings out sweetness; garnish with bacon, pumpkin seeds or herbs if you have them.",
+      "zh": "烤焗會帶出南瓜甜味，可按手上材料配煙肉、南瓜籽或香草。"
+    }
+  },
+  {
+    "id": "pan-seared-lamb-leg-steak",
+    "title": {
+      "en": "Pan-seared butterflied lamb leg steak",
+      "zh": "香煎蝴蝶羊腿扒"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "lamb",
+      "rosemary",
+      "pan-seared"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Butterflied boneless lamb leg",
+          "zh": "去骨蝴蝶羊腿扒"
+        },
+        "amount": "555 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, crushed",
+          "zh": "蒜頭（拍碎）"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Rosemary or thyme",
+          "zh": "迷迭香或百里香"
+        },
+        "amount": "2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Stock or water",
+          "zh": "高湯或水"
+        },
+        "amount": "60 ml"
+      },
+      {
+        "name": {
+          "en": "Mustard or honey, optional",
+          "zh": "芥末或蜜糖（可選）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season lamb",
+          "zh": "調味羊肉"
+        },
+        "en": "Pat lamb dry, bring toward room temperature for 20 minutes and season with salt, pepper, garlic, herbs and oil.",
+        "zh": "羊肉抹乾，室溫放20分鐘，加入鹽、黑椒、蒜、香草及油調味。"
+      },
+      {
+        "title": {
+          "en": "Sear",
+          "zh": "煎香"
+        },
+        "en": "Heat a heavy pan until hot. Sear lamb 4–5 minutes on the first side, then 3–4 minutes on the other, adjusting for thickness.",
+        "zh": "厚底鑊燒熱，羊肉第一面煎4–5分鐘，反面煎3–4分鐘，按厚度調整。"
+      },
+      {
+        "title": {
+          "en": "Baste and finish",
+          "zh": "牛油淋煎"
+        },
+        "en": "Lower heat, add butter and herbs, baste for 1–2 minutes. Cover and cook gently until desired doneness.",
+        "zh": "轉中火加入牛油及香草，淋煎1–2分鐘。加蓋小火煮至喜歡的熟度。"
+      },
+      {
+        "title": {
+          "en": "Rest and sauce",
+          "zh": "靜置及煮汁"
+        },
+        "en": "Rest 8–10 minutes, then slice across the grain. Deglaze pan with stock and optional mustard or honey; simmer 2–3 minutes.",
+        "zh": "靜置8–10分鐘後逆紋切片。鍋中加高湯及可選芥末或蜜糖刮起焦香，煮2–3分鐘成汁。"
+      }
+    ],
+    "notes": {
+      "en": "Use a thermometer and rest the meat. Doneness temperatures are preference guidance and vary with thickness.",
+      "zh": "用溫度計確認熟度並靜置。生熟度溫度屬烹調喜好參考，會因厚度而異。"
+    }
   }
 ]
