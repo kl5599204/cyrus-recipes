@@ -16025,5 +16025,238 @@
       "en": "This keeps the garlic-honey wing and rice version from the history as a distinct finish from the satay vermicelli pot.",
       "zh": "此款保留歷史中的蒜蜜雞翼飯版本，與沙嗲粉絲煲分開呈現。"
     }
+  },
+  {
+    "id": "irish-seafood-chowder",
+    "title": {
+      "en": "Irish seafood chowder",
+      "zh": "愛爾蘭海鮮周打湯"
+    },
+    "cuisine": {
+      "en": "Ireland",
+      "zh": "愛爾蘭"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 55,
+    "added": "2026-11-23",
+    "tags": [
+      "seafood",
+      "soup",
+      "salmon",
+      "cod",
+      "prawns",
+      "comfort food"
+    ],
+    "image": "assets/photos/irish-seafood-chowder.jpg",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Bacon, chopped",
+          "zh": "煙肉（切粒）"
+        },
+        "amount": "75 g"
+      },
+      {
+        "name": {
+          "en": "Yukon Gold or other yellow-fleshed potatoes, diced",
+          "zh": "黃肉薯仔（切粒）"
+        },
+        "amount": "350 g"
+      },
+      {
+        "name": {
+          "en": "Celery, diced",
+          "zh": "西芹（切粒）"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, crushed",
+          "zh": "蒜頭（壓碎）"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Carrot, diced",
+          "zh": "甘筍（切粒）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Dry white wine",
+          "zh": "乾白酒"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Saffron",
+          "zh": "藏紅花"
+        },
+        "amount": "⅛ tsp"
+      },
+      {
+        "name": {
+          "en": "Plain flour",
+          "zh": "中筋麵粉"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Bay leaf",
+          "zh": "月桂葉"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Fish stock",
+          "zh": "魚湯"
+        },
+        "amount": "500 ml"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "125 ml"
+      },
+      {
+        "name": {
+          "en": "Single or double cream",
+          "zh": "淡忌廉或雙忌廉"
+        },
+        "amount": "125 ml"
+      },
+      {
+        "name": {
+          "en": "Prawns, peeled and cut bite-size",
+          "zh": "去殼大蝦（切成一口大小）"
+        },
+        "amount": "115 g"
+      },
+      {
+        "name": {
+          "en": "Atlantic salmon, boneless and cut bite-size",
+          "zh": "大西洋三文魚（去骨切成一口大小）"
+        },
+        "amount": "115 g"
+      },
+      {
+        "name": {
+          "en": "Atlantic cod, boneless and cut bite-size",
+          "zh": "大西洋鱈魚（去骨切成一口大小）"
+        },
+        "amount": "115 g"
+      },
+      {
+        "name": {
+          "en": "Lemon zest",
+          "zh": "檸檬皮屑"
+        },
+        "amount": "½ lemon"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare the ingredients",
+          "zh": "準備材料"
+        },
+        "en": "Dice the bacon, onion, celery, carrot and potatoes. Crush the garlic. Pat the prawns and fish dry, check carefully for bones, then cut into bite-size pieces.",
+        "zh": "煙肉、洋蔥、西芹、甘筍及薯仔切粒，蒜頭壓碎。大蝦和魚肉印乾，仔細檢查魚骨，再切成一口大小。"
+      },
+      {
+        "title": {
+          "en": "Render the bacon",
+          "zh": "煎出煙肉油"
+        },
+        "en": "Put the bacon in a large heavy-based pot over medium heat. Cook until lightly golden and some fat has rendered. Lift out a little bacon for garnish if you like.",
+        "zh": "煙肉放入厚底大鍋，以中火煎至微金黃並煎出油分。喜歡的話可先盛起少量作最後裝飾。"
+      },
+      {
+        "title": {
+          "en": "Soften the vegetables",
+          "zh": "炒軟蔬菜"
+        },
+        "en": "Add onion, celery and carrot to the pot and cook in the bacon fat for 5–7 minutes until beginning to soften. Stir in the garlic and saffron; cook for 30 seconds.",
+        "zh": "洋蔥、西芹和甘筍下鍋，用煙肉油炒5–7分鐘至開始軟身。加入蒜蓉和藏紅花，炒約30秒。"
+      },
+      {
+        "title": {
+          "en": "Build the chowder base",
+          "zh": "煮成濃湯底"
+        },
+        "en": "Stir in the flour and cook for 1 minute. Pour in the wine gradually while stirring, scraping up any browned bits. Add the fish stock and bay leaf, then bring to a gentle simmer.",
+        "zh": "加入麵粉拌炒1分鐘。邊攪拌邊逐少倒入白酒，刮起鍋底香味。加入魚湯和月桂葉，煮至微滾。"
+      },
+      {
+        "title": {
+          "en": "Cook the potatoes",
+          "zh": "煮薯仔"
+        },
+        "en": "Add the potatoes. Simmer gently for 12–15 minutes, stirring occasionally, until the potatoes are tender and the broth has thickened slightly.",
+        "zh": "加入薯仔，以小火微滾12–15分鐘，間中攪拌，直至薯仔熟軟、湯底略為濃稠。"
+      },
+      {
+        "title": {
+          "en": "Add dairy and seafood",
+          "zh": "加入奶類及海鮮"
+        },
+        "en": "Stir in the milk and cream and warm gently without boiling. Add the cod, salmon and prawns; poach gently for 4–6 minutes until the fish is opaque and flakes easily and the prawns are cooked through.",
+        "zh": "加入牛奶和忌廉，輕輕加熱但不要煮沸。加入鱈魚、三文魚和大蝦，小火煮4–6分鐘，直至魚肉不透明、容易剝開，大蝦亦熟透。"
+      },
+      {
+        "title": {
+          "en": "Season and serve",
+          "zh": "調味上桌"
+        },
+        "en": "Remove the bay leaf. Stir in lemon zest and most of the reserved bacon. Taste, season with salt and plenty of black pepper, then serve hot with the remaining bacon on top.",
+        "zh": "取出月桂葉，拌入檸檬皮屑及大部分預留煙肉。試味後加鹽和大量黑椒調味，趁熱上桌，面層放上餘下煙肉。"
+      }
+    ],
+    "notes": {
+      "en": "Adapted from The FOOD-DEE's Irish seafood chowder. The creator's description lists six servings; the quantities here are scaled to the site's default three. The method is organized into clear home-cooking steps from the published ingredient list.",
+      "zh": "改編自The FOOD-DEE的愛爾蘭海鮮周打湯。創作者的食譜標示六人份；此處已按網站預設份量縮放為三人份，並根據公開材料表整理成清晰家常步驟。"
+    },
+    "sources": [
+      {
+        "url": "https://youtu.be/fyXF5BoztAA",
+        "label": {
+          "en": "Original YouTube video",
+          "zh": "原始YouTube影片"
+        }
+      },
+      {
+        "url": "https://www.thefooddee.ca/post/the-best-irish-seafood-chowder",
+        "label": {
+          "en": "Creator's recipe page",
+          "zh": "創作者食譜頁"
+        }
+      }
+    ]
   }
 ]
