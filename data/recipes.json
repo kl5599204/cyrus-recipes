@@ -7963,5 +7963,1292 @@
       "en": "The history recommends 400 g mushrooms for three and a generous amount of sauce. Cook them in batches.",
       "zh": "歷史建議三人份用400克蘑菇並多做醬汁；蘑菇要分批煎香。"
     }
+  },
+  {
+    "id": "salmon-poke-bowl",
+    "title": {
+      "en": "Salmon poke bowl",
+      "zh": "三文魚波奇飯"
+    },
+    "cuisine": {
+      "en": "Hawaii / Japan",
+      "zh": "夏威夷／日本"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "salmon",
+      "rice",
+      "poke",
+      "bowl"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Sushi-grade salmon, diced",
+          "zh": "可生食三文魚（切粒）"
+        },
+        "amount": "450 g"
+      },
+      {
+        "name": {
+          "en": "Cooked short-grain rice",
+          "zh": "熟短粒米"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Mayonnaise",
+          "zh": "蛋黃醬"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sriracha or chilli sauce",
+          "zh": "是拉差辣椒醬"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Cucumber, diced",
+          "zh": "青瓜（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Avocado, sliced",
+          "zh": "牛油果（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Rice vinegar",
+          "zh": "米醋"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "¾ tsp"
+      },
+      {
+        "name": {
+          "en": "Nori and sesame",
+          "zh": "紫菜及芝麻"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Season the rice",
+          "zh": "調味飯"
+        },
+        "en": "Salmon poke bowl",
+        "zh": "三文魚波奇飯"
+      },
+      {
+        "title": {
+          "en": "Marinate salmon",
+          "zh": "醃三文魚"
+        },
+        "en": "Salmon poke bowl",
+        "zh": "三文魚波奇飯"
+      },
+      {
+        "title": {
+          "en": "Make spicy mayo",
+          "zh": "調辣蛋黃醬"
+        },
+        "en": "Salmon poke bowl",
+        "zh": "三文魚波奇飯"
+      },
+      {
+        "title": {
+          "en": "Assemble",
+          "zh": "組合上碗"
+        },
+        "en": "Salmon poke bowl",
+        "zh": "三文魚波奇飯"
+      }
+    ],
+    "notes": {
+      "en": "Use fish specifically sold as suitable for raw consumption and keep it chilled. The original rice adjustment used white vinegar at a lower amount than sushi rice.",
+      "zh": "生食三文魚須選標示可生食並保持冷藏。原對話用白醋調飯，酸度比壽司飯輕。"
+    }
+  },
+  {
+    "id": "miso-chicken-udon-soup",
+    "title": {
+      "en": "Miso chicken udon soup",
+      "zh": "味噌雞肉烏冬湯"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Soup / noodles",
+      "zh": "湯麵"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "udon",
+      "chicken",
+      "miso",
+      "soup"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Udon",
+          "zh": "烏冬"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Chicken thigh",
+          "zh": "雞髀肉"
+        },
+        "amount": "325 g"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "1 L"
+      },
+      {
+        "name": {
+          "en": "Chicken stock cube",
+          "zh": "雞湯粒"
+        },
+        "amount": "½–1"
+      },
+      {
+        "name": {
+          "en": "Tsuyu",
+          "zh": "日式麵汁"
+        },
+        "amount": "110 ml"
+      },
+      {
+        "name": {
+          "en": "White miso",
+          "zh": "白味噌"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Mirin",
+          "zh": "味醂"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Ginger, grated",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Shiitake mushrooms",
+          "zh": "冬菇"
+        },
+        "amount": "5–6"
+      },
+      {
+        "name": {
+          "en": "Pak choi",
+          "zh": "白菜"
+        },
+        "amount": "2–3"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Eggs, optional",
+          "zh": "雞蛋（可選）"
+        },
+        "amount": "3"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Simmer broth",
+          "zh": "煮湯底"
+        },
+        "en": "Miso chicken udon soup",
+        "zh": "味噌雞肉烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Season soup",
+          "zh": "調味湯底"
+        },
+        "en": "Miso chicken udon soup",
+        "zh": "味噌雞肉烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Add vegetables",
+          "zh": "加入蔬菜"
+        },
+        "en": "Miso chicken udon soup",
+        "zh": "味噌雞肉烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Miso chicken udon soup",
+        "zh": "味噌雞肉烏冬湯"
+      }
+    ],
+    "notes": {
+      "en": "Cook noodles separately so they do not absorb too much broth. Miso and stock can be salty; adjust after tasting.",
+      "zh": "烏冬另煮，避免吸乾湯汁。味噌及湯粒可能偏鹹，試味後才調整。"
+    }
+  },
+  {
+    "id": "bibimbap-doenjang-stew",
+    "title": {
+      "en": "Korean bibimbap with doenjang stew",
+      "zh": "韓式拌飯配大醬湯"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 55,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "rice",
+      "vegetables",
+      "doenjang"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟飯"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Beef strips",
+          "zh": "牛肉絲"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Spinach",
+          "zh": "菠菜"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Bean sprouts",
+          "zh": "芽菜"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Carrot, julienned",
+          "zh": "甘筍（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Shiitake mushrooms, sliced",
+          "zh": "冬菇（切片）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Eggs",
+          "zh": "雞蛋"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Gochujang",
+          "zh": "韓式辣醬"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Doenjang",
+          "zh": "韓式大醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Firm tofu, cubed",
+          "zh": "硬豆腐（切粒）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Courgette, diced",
+          "zh": "翠玉瓜（切粒）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Water or anchovy stock",
+          "zh": "水或鯷魚高湯"
+        },
+        "amount": "500 ml"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare toppings",
+          "zh": "準備配料"
+        },
+        "en": "Korean bibimbap with doenjang stew",
+        "zh": "韓式拌飯配大醬湯"
+      },
+      {
+        "title": {
+          "en": "Cook beef and stew",
+          "zh": "煮牛肉及大醬湯"
+        },
+        "en": "Korean bibimbap with doenjang stew",
+        "zh": "韓式拌飯配大醬湯"
+      },
+      {
+        "title": {
+          "en": "Fry eggs",
+          "zh": "煎蛋"
+        },
+        "en": "Korean bibimbap with doenjang stew",
+        "zh": "韓式拌飯配大醬湯"
+      },
+      {
+        "title": {
+          "en": "Assemble",
+          "zh": "組合拌飯"
+        },
+        "en": "Korean bibimbap with doenjang stew",
+        "zh": "韓式拌飯配大醬湯"
+      }
+    ],
+    "notes": {
+      "en": "This combines the menu pairing from the history: bibimbap served with doenjang stew. Components can be prepared ahead and assembled warm.",
+      "zh": "此食譜整合歷史中的配搭：拌飯配大醬湯。配料可預先處理再趁暖組合。"
+    }
+  },
+  {
+    "id": "pork-doenjang-stew",
+    "title": {
+      "en": "Korean pork doenjang stew",
+      "zh": "韓式豬肉大醬湯"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "doenjang",
+      "tofu",
+      "soup"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork belly or shoulder, thinly sliced",
+          "zh": "五花肉或梅頭豬肉（切薄片）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Doenjang",
+          "zh": "韓式大醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water or anchovy stock",
+          "zh": "水或鯷魚高湯"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Firm tofu, cubed",
+          "zh": "硬豆腐（切粒）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Courgette, diced",
+          "zh": "翠玉瓜（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Potato, diced",
+          "zh": "薯仔（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Gochugaru, optional",
+          "zh": "韓式辣椒粉（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "1"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown pork",
+          "zh": "煎豬肉"
+        },
+        "en": "Korean pork doenjang stew",
+        "zh": "韓式豬肉大醬湯"
+      },
+      {
+        "title": {
+          "en": "Dissolve doenjang",
+          "zh": "煮大醬湯"
+        },
+        "en": "Korean pork doenjang stew",
+        "zh": "韓式豬肉大醬湯"
+      },
+      {
+        "title": {
+          "en": "Simmer vegetables",
+          "zh": "煮蔬菜"
+        },
+        "en": "Korean pork doenjang stew",
+        "zh": "韓式豬肉大醬湯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Korean pork doenjang stew",
+        "zh": "韓式豬肉大醬湯"
+      }
+    ],
+    "notes": {
+      "en": "Doenjang and stock add plenty of salt; adjust only after tasting.",
+      "zh": "大醬及高湯已有鹹味，試味後才決定是否加鹽。"
+    }
+  },
+  {
+    "id": "spinach-doenjang-soup",
+    "title": {
+      "en": "Korean spinach doenjang soup",
+      "zh": "韓式菠菜大醬湯"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "spinach",
+      "doenjang",
+      "soup"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Spinach",
+          "zh": "菠菜"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Doenjang",
+          "zh": "韓式大醬"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Water or anchovy stock",
+          "zh": "水或鯷魚高湯"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Tofu, cubed, optional",
+          "zh": "豆腐（切粒，可選）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Gochugaru, optional",
+          "zh": "韓式辣椒粉（可選）"
+        },
+        "amount": "¼ tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare spinach",
+          "zh": "處理菠菜"
+        },
+        "en": "Korean spinach doenjang soup",
+        "zh": "韓式菠菜大醬湯"
+      },
+      {
+        "title": {
+          "en": "Make soup",
+          "zh": "煮大醬湯"
+        },
+        "en": "Korean spinach doenjang soup",
+        "zh": "韓式菠菜大醬湯"
+      },
+      {
+        "title": {
+          "en": "Cook spinach",
+          "zh": "煮菠菜"
+        },
+        "en": "Korean spinach doenjang soup",
+        "zh": "韓式菠菜大醬湯"
+      }
+    ],
+    "notes": {
+      "en": "A simple soup that works as a side to rice or bibimbap.",
+      "zh": "可配白飯或拌飯作簡單湯品。"
+    }
+  },
+  {
+    "id": "spicy-pork-bulgogi",
+    "title": {
+      "en": "Korean spicy pork bulgogi",
+      "zh": "韓式辣炒豬肉"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "spicy",
+      "stir-fry"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pork shoulder, thinly sliced",
+          "zh": "梅頭豬肉（切薄片）"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Gochujang",
+          "zh": "韓式辣醬"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Gochugaru",
+          "zh": "韓式辣椒粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar or honey",
+          "zh": "糖或蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Ginger, grated",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "芝麻"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate pork",
+          "zh": "醃豬肉"
+        },
+        "en": "Korean spicy pork bulgogi",
+        "zh": "韓式辣炒豬肉"
+      },
+      {
+        "title": {
+          "en": "Cook aromatics",
+          "zh": "炒香洋蔥"
+        },
+        "en": "Korean spicy pork bulgogi",
+        "zh": "韓式辣炒豬肉"
+      },
+      {
+        "title": {
+          "en": "Stir-fry pork",
+          "zh": "炒豬肉"
+        },
+        "en": "Korean spicy pork bulgogi",
+        "zh": "韓式辣炒豬肉"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Korean spicy pork bulgogi",
+        "zh": "韓式辣炒豬肉"
+      }
+    ],
+    "notes": {
+      "en": "The marinade is adaptable in heat and sweetness; taste the sauce before adding extra salt.",
+      "zh": "辣度及甜度可調整，加鹽前先試醃汁味道。"
+    }
+  },
+  {
+    "id": "soy-braised-jjimdak",
+    "title": {
+      "en": "Korean soy-braised chicken jjimdak",
+      "zh": "韓式醬燒雞（安東燉雞）"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 60,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "soy",
+      "glass noodles",
+      "braise"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken pieces",
+          "zh": "雞件"
+        },
+        "amount": "900 g"
+      },
+      {
+        "name": {
+          "en": "Potatoes, chunks",
+          "zh": "薯仔（切件）"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Carrot, chunks",
+          "zh": "甘筍（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion, wedges",
+          "zh": "洋蔥（切件）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Glass noodles",
+          "zh": "韓式粉絲"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Water or stock",
+          "zh": "水或高湯"
+        },
+        "amount": "400 ml"
+      },
+      {
+        "name": {
+          "en": "Brown sugar",
+          "zh": "黃糖"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Ginger, grated",
+          "zh": "薑蓉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Dried chilli, optional",
+          "zh": "乾辣椒（可選）"
+        },
+        "amount": "1–2"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare noodles and sauce",
+          "zh": "浸粉絲調汁"
+        },
+        "en": "Korean soy-braised chicken jjimdak",
+        "zh": "韓式醬燒雞（安東燉雞）"
+      },
+      {
+        "title": {
+          "en": "Braise chicken",
+          "zh": "燉雞"
+        },
+        "en": "Korean soy-braised chicken jjimdak",
+        "zh": "韓式醬燒雞（安東燉雞）"
+      },
+      {
+        "title": {
+          "en": "Add vegetables",
+          "zh": "加蔬菜"
+        },
+        "en": "Korean soy-braised chicken jjimdak",
+        "zh": "韓式醬燒雞（安東燉雞）"
+      },
+      {
+        "title": {
+          "en": "Finish noodles",
+          "zh": "加入粉絲"
+        },
+        "en": "Korean soy-braised chicken jjimdak",
+        "zh": "韓式醬燒雞（安東燉雞）"
+      }
+    ],
+    "notes": {
+      "en": "This savoury soy-braised version is the base for the creamy jjimdak pasta variation; add cream and pasta separately for that dish.",
+      "zh": "此醬燒版本可作忌廉安東燉雞意粉的底味；忌廉及意粉另行加入便成另一款。"
+    }
+  },
+  {
+    "id": "korean-beef-short-rib-soup",
+    "title": {
+      "en": "Korean beef short-rib soup",
+      "zh": "韓式牛肋骨湯"
+    },
+    "cuisine": {
+      "en": "Korea",
+      "zh": "韓國"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 150,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "short ribs",
+      "soup"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef short ribs",
+          "zh": "牛肋骨"
+        },
+        "amount": "900 g"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "2.5 L"
+      },
+      {
+        "name": {
+          "en": "Radish, chunks",
+          "zh": "白蘿蔔（切件）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion, halved",
+          "zh": "洋蔥（切半）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "6 cloves"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Glass noodles, optional",
+          "zh": "粉絲（可選）"
+        },
+        "amount": "100 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Blanch ribs",
+          "zh": "汆水牛肋骨"
+        },
+        "en": "Korean beef short-rib soup",
+        "zh": "韓式牛肋骨湯"
+      },
+      {
+        "title": {
+          "en": "Simmer broth",
+          "zh": "煲湯"
+        },
+        "en": "Korean beef short-rib soup",
+        "zh": "韓式牛肋骨湯"
+      },
+      {
+        "title": {
+          "en": "Add radish",
+          "zh": "加入蘿蔔"
+        },
+        "en": "Korean beef short-rib soup",
+        "zh": "韓式牛肋骨湯"
+      },
+      {
+        "title": {
+          "en": "Season and serve",
+          "zh": "調味上桌"
+        },
+        "en": "Korean beef short-rib soup",
+        "zh": "韓式牛肋骨湯"
+      }
+    ],
+    "notes": {
+      "en": "For a clearer broth, keep it at a bare simmer and skim regularly.",
+      "zh": "想湯底清澈，保持微滾並定時撇走浮沫。"
+    }
+  },
+  {
+    "id": "satay-beef-tenderstem",
+    "title": {
+      "en": "Satay beef with tenderstem broccoli",
+      "zh": "沙爹牛肉炒嫩莖西蘭花"
+    },
+    "cuisine": {
+      "en": "Hong Kong / Chinese",
+      "zh": "香港／中式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "satay",
+      "vegetables"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef, thinly sliced",
+          "zh": "牛肉（切薄片）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Tenderstem broccoli",
+          "zh": "嫩莖西蘭花"
+        },
+        "amount": "225 g"
+      },
+      {
+        "name": {
+          "en": "Satay sauce",
+          "zh": "沙茶醬"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Water or stock",
+          "zh": "水或高湯"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate beef",
+          "zh": "醃牛肉"
+        },
+        "en": "Satay beef with tenderstem broccoli",
+        "zh": "沙爹牛肉炒嫩莖西蘭花"
+      },
+      {
+        "title": {
+          "en": "Blanch broccoli",
+          "zh": "灼西蘭花"
+        },
+        "en": "Satay beef with tenderstem broccoli",
+        "zh": "沙爹牛肉炒嫩莖西蘭花"
+      },
+      {
+        "title": {
+          "en": "Mix sauce",
+          "zh": "調沙爹汁"
+        },
+        "en": "Satay beef with tenderstem broccoli",
+        "zh": "沙爹牛肉炒嫩莖西蘭花"
+      },
+      {
+        "title": {
+          "en": "Stir-fry",
+          "zh": "快炒"
+        },
+        "en": "Satay beef with tenderstem broccoli",
+        "zh": "沙爹牛肉炒嫩莖西蘭花"
+      }
+    ],
+    "notes": {
+      "en": "Cook beef quickly and avoid overcrowding the wok for a tender result.",
+      "zh": "牛肉要快炒，鑊內勿太擠，保持嫩滑。"
+    }
   }
 ]
