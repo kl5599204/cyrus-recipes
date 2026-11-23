@@ -5913,8 +5913,8 @@
   {
     "id": "tuna-mayo-kimchi-fried-rice",
     "title": {
-      "en": "Tuna-mayo kimchi fried rice",
-      "zh": "吞拿魚蛋黃醬泡菜炒飯"
+      "en": "Tuna-mayo fried rice (optional kimchi)",
+      "zh": "吞拿魚蛋黃醬炒飯（泡菜可選）"
     },
     "cuisine": {
       "en": "Korea",
@@ -5951,8 +5951,8 @@
       },
       {
         "name": {
-          "en": "Kimchi, chopped",
-          "zh": "泡菜（切碎）"
+          "en": "Kimchi, optional",
+          "zh": "泡菜（可選）"
         },
         "amount": "120 g"
       },
@@ -6026,8 +6026,8 @@
       }
     ],
     "notes": {
-      "en": "Use freshly cooked rice cooled quickly or refrigerated leftover rice; reheat until piping hot.",
-      "zh": "可用迅速放涼或冷藏的剩飯，翻熱至熱透。"
+      "en": "Omit kimchi for a plain tuna-mayo fried rice; add it for the Korean-style variation.",
+      "zh": "省略泡菜即可做原味吞拿魚蛋黃醬炒飯；加入泡菜便成韓式變化。"
     }
   },
   {
@@ -15676,6 +15676,319 @@
     "notes": {
       "en": "For the mushroom-leek version, follow the separate creamy mushroom, leek and potato soup recipe already in the collection.",
       "zh": "蘑菇韭蔥版本請參考收藏中已有的忌廉蘑菇韭蔥薯仔湯。"
+    }
+  },
+  {
+    "id": "satay-chicken-wings-glass-noodles",
+    "title": {
+      "en": "Hong Kong satay chicken wings & glass-noodle pot",
+      "zh": "港式沙嗲雞翼粉絲煲"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken wings",
+      "satay",
+      "glass noodles",
+      "one-pot"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken mid-wings",
+          "zh": "雞中翼"
+        },
+        "amount": "800 g"
+      },
+      {
+        "name": {
+          "en": "Glass noodles, soaked",
+          "zh": "粉絲（浸軟）"
+        },
+        "amount": "2 bundles"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切絲）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, chunks",
+          "zh": "甘筍（切件）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Broccoli, blanched",
+          "zh": "西蘭花（灼熟）"
+        },
+        "amount": "½ head"
+      },
+      {
+        "name": {
+          "en": "Garlic, crushed",
+          "zh": "蒜頭（拍扁）"
+        },
+        "amount": "6 cloves"
+      },
+      {
+        "name": {
+          "en": "Ginger, sliced",
+          "zh": "薑片"
+        },
+        "amount": "6"
+      },
+      {
+        "name": {
+          "en": "Satay sauce",
+          "zh": "沙嗲醬"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Peanut butter, optional",
+          "zh": "花生醬（可選）"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "450 ml"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate wings",
+          "zh": "醃雞翼"
+        },
+        "en": "Hong Kong satay chicken wings & glass-noodle pot",
+        "zh": "港式沙嗲雞翼粉絲煲"
+      },
+      {
+        "title": {
+          "en": "Brown wings",
+          "zh": "煎香雞翼"
+        },
+        "en": "Hong Kong satay chicken wings & glass-noodle pot",
+        "zh": "港式沙嗲雞翼粉絲煲"
+      },
+      {
+        "title": {
+          "en": "Fry aromatics and satay",
+          "zh": "炒香沙嗲"
+        },
+        "en": "Hong Kong satay chicken wings & glass-noodle pot",
+        "zh": "港式沙嗲雞翼粉絲煲"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "燜雞翼"
+        },
+        "en": "Hong Kong satay chicken wings & glass-noodle pot",
+        "zh": "港式沙嗲雞翼粉絲煲"
+      },
+      {
+        "title": {
+          "en": "Add noodles and greens",
+          "zh": "加粉絲蔬菜"
+        },
+        "en": "Hong Kong satay chicken wings & glass-noodle pot",
+        "zh": "港式沙嗲雞翼粉絲煲"
+      }
+    ],
+    "notes": {
+      "en": "A small amount of curry powder can deepen the satay flavour without making it taste like curry chicken.",
+      "zh": "少量咖喱粉可增添沙嗲層次，不會變成咖喱雞翼味。"
+    }
+  },
+  {
+    "id": "garlic-honey-wings-rice",
+    "title": {
+      "en": "Hong Kong garlic-honey chicken wings with rice",
+      "zh": "港式蒜蜜雞翼飯"
+    },
+    "cuisine": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 45,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken wings",
+      "honey",
+      "garlic",
+      "rice"
+    ],
+    "image": "https://images.unsplash.com/photo-1604908176997-125f25cc6f3d?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Chicken wings",
+          "zh": "雞翼"
+        },
+        "amount": "900 g"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟白飯"
+        },
+        "amount": "3 bowls"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Oyster sauce",
+          "zh": "蠔油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Shaoxing wine",
+          "zh": "紹興酒"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame seeds",
+          "zh": "芝麻"
+        },
+        "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown wings",
+          "zh": "煎雞翼"
+        },
+        "en": "Hong Kong garlic-honey chicken wings with rice",
+        "zh": "港式蒜蜜雞翼飯"
+      },
+      {
+        "title": {
+          "en": "Braise",
+          "zh": "燜熟"
+        },
+        "en": "Hong Kong garlic-honey chicken wings with rice",
+        "zh": "港式蒜蜜雞翼飯"
+      },
+      {
+        "title": {
+          "en": "Glaze",
+          "zh": "煮蒜蜜汁"
+        },
+        "en": "Hong Kong garlic-honey chicken wings with rice",
+        "zh": "港式蒜蜜雞翼飯"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上飯"
+        },
+        "en": "Hong Kong garlic-honey chicken wings with rice",
+        "zh": "港式蒜蜜雞翼飯"
+      }
+    ],
+    "notes": {
+      "en": "This keeps the garlic-honey wing and rice version from the history as a distinct finish from the satay vermicelli pot.",
+      "zh": "此款保留歷史中的蒜蜜雞翼飯版本，與沙嗲粉絲煲分開呈現。"
     }
   }
 ]
