@@ -13481,5 +13481,1797 @@
       "en": "This captures the spring-onion sauce pasta candidate as a quick standalone recipe.",
       "zh": "此食譜整理候選清單中的蔥油意粉，作為快捷獨立菜式。"
     }
+  },
+  {
+    "id": "creamy-steak-pasta",
+    "title": {
+      "en": "Creamy steak pasta",
+      "zh": "忌廉牛扒意粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "steak",
+      "pasta",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Sirloin steak, sliced",
+          "zh": "西冷牛扒（切片）"
+        },
+        "amount": "350 g"
+      },
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard",
+          "zh": "第戎芥末"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Creamy steak pasta",
+        "zh": "忌廉牛扒意粉"
+      },
+      {
+        "title": {
+          "en": "Sear steak",
+          "zh": "煎牛扒"
+        },
+        "en": "Creamy steak pasta",
+        "zh": "忌廉牛扒意粉"
+      },
+      {
+        "title": {
+          "en": "Cook mushrooms",
+          "zh": "炒蘑菇"
+        },
+        "en": "Creamy steak pasta",
+        "zh": "忌廉牛扒意粉"
+      },
+      {
+        "title": {
+          "en": "Combine",
+          "zh": "合併"
+        },
+        "en": "Creamy steak pasta",
+        "zh": "忌廉牛扒意粉"
+      }
+    ],
+    "notes": {
+      "en": "Rest steak before slicing to keep it juicy.",
+      "zh": "牛扒切片前先靜置，保留肉汁。"
+    }
+  },
+  {
+    "id": "tomato-risotto",
+    "title": {
+      "en": "Tomato risotto",
+      "zh": "番茄意大利飯"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "risotto",
+      "tomato",
+      "vegetarian"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Arborio rice",
+          "zh": "意大利米"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "Chopped tomatoes",
+          "zh": "番茄碎"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Hot vegetable stock",
+          "zh": "熱蔬菜湯"
+        },
+        "amount": "850 ml"
+      },
+      {
+        "name": {
+          "en": "White wine, optional",
+          "zh": "白酒（可選）"
+        },
+        "amount": "80 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "35 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Basil",
+          "zh": "羅勒"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook aromatics",
+          "zh": "炒香"
+        },
+        "en": "Tomato risotto",
+        "zh": "番茄意大利飯"
+      },
+      {
+        "title": {
+          "en": "Toast rice",
+          "zh": "炒米"
+        },
+        "en": "Tomato risotto",
+        "zh": "番茄意大利飯"
+      },
+      {
+        "title": {
+          "en": "Cook risotto",
+          "zh": "煮意大利飯"
+        },
+        "en": "Tomato risotto",
+        "zh": "番茄意大利飯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Tomato risotto",
+        "zh": "番茄意大利飯"
+      }
+    ],
+    "notes": {
+      "en": "Add stock gradually and keep it hot for an even creamy texture.",
+      "zh": "高湯逐次加入並保持熱度，米飯口感更均勻滑順。"
+    }
+  },
+  {
+    "id": "chicken-risotto",
+    "title": {
+      "en": "Chicken risotto",
+      "zh": "雞肉意大利飯"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "risotto",
+      "chicken",
+      "parmesan"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Arborio rice",
+          "zh": "意大利米"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "Chicken thigh, diced",
+          "zh": "雞髀肉（切粒）"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Hot chicken stock",
+          "zh": "熱雞湯"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "White wine",
+          "zh": "白酒"
+        },
+        "amount": "80 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "½ tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown chicken",
+          "zh": "煎雞肉"
+        },
+        "en": "Chicken risotto",
+        "zh": "雞肉意大利飯"
+      },
+      {
+        "title": {
+          "en": "Toast rice",
+          "zh": "炒米"
+        },
+        "en": "Chicken risotto",
+        "zh": "雞肉意大利飯"
+      },
+      {
+        "title": {
+          "en": "Cook risotto",
+          "zh": "煮意大利飯"
+        },
+        "en": "Chicken risotto",
+        "zh": "雞肉意大利飯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Chicken risotto",
+        "zh": "雞肉意大利飯"
+      }
+    ],
+    "notes": {
+      "en": "The chicken version shares the same risotto method as the mushroom recipe, with seared chicken folded in.",
+      "zh": "雞肉版與蘑菇意大利飯共用基本煮法，另加入先煎香的雞肉。"
+    }
+  },
+  {
+    "id": "doenjang-risotto",
+    "title": {
+      "en": "Korean doenjang mushroom risotto",
+      "zh": "韓式大醬蘑菇意大利飯"
+    },
+    "cuisine": {
+      "en": "Korea / Italy",
+      "zh": "韓國／意大利"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "risotto",
+      "doenjang",
+      "mushroom"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Arborio rice",
+          "zh": "意大利米"
+        },
+        "amount": "270 g"
+      },
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Doenjang",
+          "zh": "韓式大醬"
+        },
+        "amount": "1½ tbsp"
+      },
+      {
+        "name": {
+          "en": "Hot chicken or vegetable stock",
+          "zh": "熱雞湯或蔬菜湯"
+        },
+        "amount": "850 ml"
+      },
+      {
+        "name": {
+          "en": "White wine",
+          "zh": "白酒"
+        },
+        "amount": "80 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "35 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "½ tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown mushrooms",
+          "zh": "煎蘑菇"
+        },
+        "en": "Korean doenjang mushroom risotto",
+        "zh": "韓式大醬蘑菇意大利飯"
+      },
+      {
+        "title": {
+          "en": "Toast rice",
+          "zh": "炒米"
+        },
+        "en": "Korean doenjang mushroom risotto",
+        "zh": "韓式大醬蘑菇意大利飯"
+      },
+      {
+        "title": {
+          "en": "Cook risotto",
+          "zh": "煮意大利飯"
+        },
+        "en": "Korean doenjang mushroom risotto",
+        "zh": "韓式大醬蘑菇意大利飯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Korean doenjang mushroom risotto",
+        "zh": "韓式大醬蘑菇意大利飯"
+      }
+    ],
+    "notes": {
+      "en": "Doenjang is salty, so reduce additional salt and Parmesan if needed.",
+      "zh": "大醬偏鹹，需要時減少額外鹽及芝士。"
+    }
+  },
+  {
+    "id": "sweet-potato-soup",
+    "title": {
+      "en": "Creamy sweet potato soup",
+      "zh": "忌廉番薯湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "sweet potato",
+      "soup",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Sweet potatoes, peeled and cubed",
+          "zh": "番薯（去皮切粒）"
+        },
+        "amount": "700 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Stock",
+          "zh": "高湯"
+        },
+        "amount": "800 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream or coconut milk",
+          "zh": "雙忌廉或椰奶"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Ground cumin, optional",
+          "zh": "孜然粉（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Sauté",
+          "zh": "炒香"
+        },
+        "en": "Creamy sweet potato soup",
+        "zh": "忌廉番薯湯"
+      },
+      {
+        "title": {
+          "en": "Simmer",
+          "zh": "煮番薯"
+        },
+        "en": "Creamy sweet potato soup",
+        "zh": "忌廉番薯湯"
+      },
+      {
+        "title": {
+          "en": "Blend",
+          "zh": "攪打"
+        },
+        "en": "Creamy sweet potato soup",
+        "zh": "忌廉番薯湯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Creamy sweet potato soup",
+        "zh": "忌廉番薯湯"
+      }
+    ],
+    "notes": {
+      "en": "Coconut milk gives a dairy-free variation; use stock rather than water for more depth.",
+      "zh": "椰奶可作無乳製品變化；使用高湯比清水更有層次。"
+    }
+  },
+  {
+    "id": "bacon-mash-cauliflower-mash",
+    "title": {
+      "en": "Bacon mash & cauliflower mash",
+      "zh": "煙肉薯蓉及椰菜花蓉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "potato",
+      "cauliflower",
+      "bacon",
+      "side"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Potatoes",
+          "zh": "薯仔"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Cauliflower florets",
+          "zh": "椰菜花"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Bacon, diced",
+          "zh": "煙肉（切粒）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream, optional",
+          "zh": "雙忌廉（可選）"
+        },
+        "amount": "50 ml"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook vegetables",
+          "zh": "煮蔬菜"
+        },
+        "en": "Bacon mash & cauliflower mash",
+        "zh": "煙肉薯蓉及椰菜花蓉"
+      },
+      {
+        "title": {
+          "en": "Crisp bacon",
+          "zh": "煎煙肉"
+        },
+        "en": "Bacon mash & cauliflower mash",
+        "zh": "煙肉薯蓉及椰菜花蓉"
+      },
+      {
+        "title": {
+          "en": "Mash",
+          "zh": "壓蓉"
+        },
+        "en": "Bacon mash & cauliflower mash",
+        "zh": "煙肉薯蓉及椰菜花蓉"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Bacon mash & cauliflower mash",
+        "zh": "煙肉薯蓉及椰菜花蓉"
+      }
+    ],
+    "notes": {
+      "en": "This groups two side-dish candidates while keeping the mash bases separate.",
+      "zh": "此卡整合兩款配菜候選，但薯蓉及椰菜花蓉保持分開做法。"
+    }
+  },
+  {
+    "id": "crispy-brussels-sprouts",
+    "title": {
+      "en": "Deep-fried crispy Brussels sprouts",
+      "zh": "酥炸椰菜仔"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "Brussels sprouts",
+      "fried",
+      "side"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Brussels sprouts, halved",
+          "zh": "椰菜仔（切半）"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "粟粉"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Neutral oil for frying",
+          "zh": "炸油"
+        },
+        "amount": "as needed"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Chilli flakes, optional",
+          "zh": "辣椒碎（可選）"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Lemon juice",
+          "zh": "檸檬汁"
+        },
+        "amount": "1 tsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare sprouts",
+          "zh": "處理椰菜仔"
+        },
+        "en": "Deep-fried crispy Brussels sprouts",
+        "zh": "酥炸椰菜仔"
+      },
+      {
+        "title": {
+          "en": "Coat",
+          "zh": "薄裹粉"
+        },
+        "en": "Deep-fried crispy Brussels sprouts",
+        "zh": "酥炸椰菜仔"
+      },
+      {
+        "title": {
+          "en": "Fry",
+          "zh": "油炸"
+        },
+        "en": "Deep-fried crispy Brussels sprouts",
+        "zh": "酥炸椰菜仔"
+      },
+      {
+        "title": {
+          "en": "Season",
+          "zh": "調味"
+        },
+        "en": "Deep-fried crispy Brussels sprouts",
+        "zh": "酥炸椰菜仔"
+      }
+    ],
+    "notes": {
+      "en": "Dry sprouts well before frying to reduce splatter and help them crisp.",
+      "zh": "油炸前將椰菜仔徹底抹乾，減少濺油並更易酥脆。"
+    }
+  },
+  {
+    "id": "hollandaise-sauce",
+    "title": {
+      "en": "Classic hollandaise sauce",
+      "zh": "荷蘭汁"
+    },
+    "cuisine": {
+      "en": "France",
+      "zh": "法國"
+    },
+    "type": {
+      "en": "Sauce",
+      "zh": "醬汁"
+    },
+    "baseServings": 3,
+    "minutes": 15,
+    "added": "2026-11-23",
+    "tags": [
+      "sauce",
+      "egg",
+      "butter"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Egg yolks",
+          "zh": "蛋黃"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Unsalted butter, melted",
+          "zh": "無鹽牛油（融化）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Lemon juice",
+          "zh": "檸檬汁"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Warm water",
+          "zh": "暖水"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Cayenne pepper, optional",
+          "zh": "辣椒粉（可選）"
+        },
+        "amount": "a pinch"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Set up bain-marie",
+          "zh": "準備隔水加熱"
+        },
+        "en": "Classic hollandaise sauce",
+        "zh": "荷蘭汁"
+      },
+      {
+        "title": {
+          "en": "Whisk yolks",
+          "zh": "打蛋黃"
+        },
+        "en": "Classic hollandaise sauce",
+        "zh": "荷蘭汁"
+      },
+      {
+        "title": {
+          "en": "Emulsify butter",
+          "zh": "乳化牛油"
+        },
+        "en": "Classic hollandaise sauce",
+        "zh": "荷蘭汁"
+      },
+      {
+        "title": {
+          "en": "Season and serve",
+          "zh": "調味上桌"
+        },
+        "en": "Classic hollandaise sauce",
+        "zh": "荷蘭汁"
+      }
+    ],
+    "notes": {
+      "en": "If the sauce becomes too thick, whisk in a teaspoon of warm water. Keep heat gentle to prevent scrambling.",
+      "zh": "醬汁太稠可拌入一茶匙暖水；火力要輕，避免蛋黃凝固成粒。"
+    }
+  },
+  {
+    "id": "parsley-oil",
+    "title": {
+      "en": "Fresh parsley oil",
+      "zh": "新鮮番荽油"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Sauce",
+      "zh": "醬汁"
+    },
+    "baseServings": 3,
+    "minutes": 10,
+    "added": "2026-11-23",
+    "tags": [
+      "parsley",
+      "oil",
+      "herb"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Flat-leaf parsley leaves",
+          "zh": "平葉番荽葉"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Lemon zest, optional",
+          "zh": "檸檬皮屑（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "a pinch"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Blanch parsley",
+          "zh": "灼番荽"
+        },
+        "en": "Fresh parsley oil",
+        "zh": "新鮮番荽油"
+      },
+      {
+        "title": {
+          "en": "Blend",
+          "zh": "攪油"
+        },
+        "en": "Fresh parsley oil",
+        "zh": "新鮮番荽油"
+      },
+      {
+        "title": {
+          "en": "Strain",
+          "zh": "過濾"
+        },
+        "en": "Fresh parsley oil",
+        "zh": "新鮮番荽油"
+      }
+    ],
+    "notes": {
+      "en": "Refrigerate and use within a few days; keep herbs and oil chilled.",
+      "zh": "冷藏保存並於數日內用完，香草油保持冷凍藏。"
+    }
+  },
+  {
+    "id": "mushroom-steak-sauce",
+    "title": {
+      "en": "Creamy mushroom steak sauce",
+      "zh": "忌廉蘑菇牛扒汁"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Sauce",
+      "zh": "醬汁"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "mushroom",
+      "steak",
+      "sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Mushrooms, sliced",
+          "zh": "蘑菇（切片）"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Dijon mustard",
+          "zh": "第戎芥末"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Worcestershire sauce",
+          "zh": "喼汁"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Parsley, optional",
+          "zh": "番荽（可選）"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Brown mushrooms",
+          "zh": "炒蘑菇"
+        },
+        "en": "Creamy mushroom steak sauce",
+        "zh": "忌廉蘑菇牛扒汁"
+      },
+      {
+        "title": {
+          "en": "Build sauce",
+          "zh": "煮醬汁"
+        },
+        "en": "Creamy mushroom steak sauce",
+        "zh": "忌廉蘑菇牛扒汁"
+      },
+      {
+        "title": {
+          "en": "Season",
+          "zh": "調味"
+        },
+        "en": "Creamy mushroom steak sauce",
+        "zh": "忌廉蘑菇牛扒汁"
+      }
+    ],
+    "notes": {
+      "en": "Add this sauce to steak or mash; it is the same flavour family as the mushroom topping in the steak dinner.",
+      "zh": "此醬汁可配牛扒或薯蓉，與牛扒蘑菇晚餐的風味相近。"
+    }
+  },
+  {
+    "id": "bbq-marinade-dipping-sauces",
+    "title": {
+      "en": "BBQ marinades & dipping sauces",
+      "zh": "燒烤醃料及蘸醬"
+    },
+    "cuisine": {
+      "en": "Global BBQ",
+      "zh": "世界燒烤"
+    },
+    "type": {
+      "en": "Sauce",
+      "zh": "醬汁"
+    },
+    "baseServings": 3,
+    "minutes": 15,
+    "added": "2026-11-23",
+    "tags": [
+      "barbecue",
+      "marinade",
+      "sauce"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Honey or brown sugar",
+          "zh": "蜜糖或黃糖"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Lemon juice or vinegar",
+          "zh": "檸檬汁或醋"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Olive or sesame oil",
+          "zh": "橄欖油或麻油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Paprika or chilli",
+          "zh": "紅椒粉或辣椒"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Greek yoghurt, optional dip",
+          "zh": "希臘乳酪（可作蘸醬）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Mint or coriander",
+          "zh": "薄荷或芫荽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Mayonnaise, optional dip",
+          "zh": "蛋黃醬（可作蘸醬）"
+        },
+        "amount": "3 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix marinade",
+          "zh": "調醃料"
+        },
+        "en": "BBQ marinades & dipping sauces",
+        "zh": "燒烤醃料及蘸醬"
+      },
+      {
+        "title": {
+          "en": "Make yoghurt dip",
+          "zh": "調乳酪醬"
+        },
+        "en": "BBQ marinades & dipping sauces",
+        "zh": "燒烤醃料及蘸醬"
+      },
+      {
+        "title": {
+          "en": "Make creamy dip",
+          "zh": "調蛋黃醬蘸醬"
+        },
+        "en": "BBQ marinades & dipping sauces",
+        "zh": "燒烤醃料及蘸醬"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "BBQ marinades & dipping sauces",
+        "zh": "燒烤醃料及蘸醬"
+      }
+    ],
+    "notes": {
+      "en": "Never serve marinade that has contacted raw meat unless it is boiled thoroughly first.",
+      "zh": "接觸過生肉的醃料不可直接作蘸醬，除非先徹底煮滾。"
+    }
+  },
+  {
+    "id": "bbq-scallops-stuffed-mushrooms",
+    "title": {
+      "en": "BBQ scallops & stuffed mushrooms",
+      "zh": "燒烤帶子及釀蘑菇"
+    },
+    "cuisine": {
+      "en": "Global BBQ",
+      "zh": "世界燒烤"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "scallops",
+      "mushroom",
+      "barbecue"
+    ],
+    "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Scallops, roe removed if preferred",
+          "zh": "帶子（可按喜好去裙邊）"
+        },
+        "amount": "9"
+      },
+      {
+        "name": {
+          "en": "Large mushrooms",
+          "zh": "大蘑菇"
+        },
+        "amount": "6"
+      },
+      {
+        "name": {
+          "en": "Breadcrumbs",
+          "zh": "麵包糠"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Butter, melted",
+          "zh": "融化牛油"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Parsley",
+          "zh": "番荽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Lemon",
+          "zh": "檸檬"
+        },
+        "amount": "to serve"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare mushrooms",
+          "zh": "準備蘑菇"
+        },
+        "en": "BBQ scallops & stuffed mushrooms",
+        "zh": "燒烤帶子及釀蘑菇"
+      },
+      {
+        "title": {
+          "en": "Stuff",
+          "zh": "釀蘑菇"
+        },
+        "en": "BBQ scallops & stuffed mushrooms",
+        "zh": "燒烤帶子及釀蘑菇"
+      },
+      {
+        "title": {
+          "en": "Grill",
+          "zh": "燒烤"
+        },
+        "en": "BBQ scallops & stuffed mushrooms",
+        "zh": "燒烤帶子及釀蘑菇"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "BBQ scallops & stuffed mushrooms",
+        "zh": "燒烤帶子及釀蘑菇"
+      }
+    ],
+    "notes": {
+      "en": "Keep scallops and mushrooms on separate skewers or grill zones because their cooking times differ.",
+      "zh": "帶子與蘑菇烹調時間不同，宜分開串或放在不同火力區。"
+    }
+  },
+  {
+    "id": "thai-bbq-fish",
+    "title": {
+      "en": "Thai-style grilled fish",
+      "zh": "泰式燒烤魚"
+    },
+    "cuisine": {
+      "en": "Thailand",
+      "zh": "泰國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "fish",
+      "barbecue",
+      "lime",
+      "herbs"
+    ],
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Whole sea bass or sea bream, cleaned",
+          "zh": "鱸魚或鯛魚（清理）"
+        },
+        "amount": "1 (about 700 g)"
+      },
+      {
+        "name": {
+          "en": "Lemongrass, bruised",
+          "zh": "香茅（拍裂）"
+        },
+        "amount": "2 stalks"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Coriander stems",
+          "zh": "芫荽莖"
+        },
+        "amount": "4"
+      },
+      {
+        "name": {
+          "en": "Fish sauce",
+          "zh": "魚露"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Lime juice",
+          "zh": "青檸汁"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Palm or brown sugar",
+          "zh": "椰糖或黃糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Oil",
+          "zh": "油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chilli",
+          "zh": "辣椒"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Make marinade",
+          "zh": "調醃料"
+        },
+        "en": "Thai-style grilled fish",
+        "zh": "泰式燒烤魚"
+      },
+      {
+        "title": {
+          "en": "Season fish",
+          "zh": "醃魚"
+        },
+        "en": "Thai-style grilled fish",
+        "zh": "泰式燒烤魚"
+      },
+      {
+        "title": {
+          "en": "Grill",
+          "zh": "燒烤"
+        },
+        "en": "Thai-style grilled fish",
+        "zh": "泰式燒烤魚"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Thai-style grilled fish",
+        "zh": "泰式燒烤魚"
+      }
+    ],
+    "notes": {
+      "en": "Cooking time depends on fish size and grill heat; verify the thickest part is cooked.",
+      "zh": "時間按魚大小及燒烤火力而變，需確認最厚位置熟透。"
+    }
+  },
+  {
+    "id": "mango-lassi",
+    "title": {
+      "en": "Mango lassi",
+      "zh": "芒果乳酪飲"
+    },
+    "cuisine": {
+      "en": "India",
+      "zh": "印度"
+    },
+    "type": {
+      "en": "Drink",
+      "zh": "飲品"
+    },
+    "baseServings": 3,
+    "minutes": 5,
+    "added": "2026-11-23",
+    "tags": [
+      "mango",
+      "yoghurt",
+      "drink"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Ripe mango flesh",
+          "zh": "熟芒果肉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Plain yoghurt",
+          "zh": "原味乳酪"
+        },
+        "amount": "250 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "Honey or sugar",
+          "zh": "蜜糖或糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Ground cardamom, optional",
+          "zh": "豆蔻粉（可選）"
+        },
+        "amount": "a pinch"
+      },
+      {
+        "name": {
+          "en": "Ice",
+          "zh": "冰塊"
+        },
+        "amount": "1 cup"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Blend",
+          "zh": "攪拌"
+        },
+        "en": "Mango lassi",
+        "zh": "芒果乳酪飲"
+      },
+      {
+        "title": {
+          "en": "Adjust",
+          "zh": "調整"
+        },
+        "en": "Mango lassi",
+        "zh": "芒果乳酪飲"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Mango lassi",
+        "zh": "芒果乳酪飲"
+      }
+    ],
+    "notes": {
+      "en": "Use sweet ripe mango and adjust sweetener after blending.",
+      "zh": "用熟甜芒果，攪拌後再調整甜度。"
+    }
+  },
+  {
+    "id": "snow-skin-mooncakes",
+    "title": {
+      "en": "Snow-skin mooncakes",
+      "zh": "冰皮月餅"
+    },
+    "cuisine": {
+      "en": "Hong Kong / Chinese",
+      "zh": "香港／中式"
+    },
+    "type": {
+      "en": "Dessert",
+      "zh": "甜品"
+    },
+    "baseServings": 3,
+    "minutes": 90,
+    "added": "2026-11-23",
+    "tags": [
+      "moon cake",
+      "dessert",
+      "no-bake"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Glutinous rice flour",
+          "zh": "糯米粉"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Rice flour",
+          "zh": "粘米粉"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Wheat starch",
+          "zh": "澄麵"
+        },
+        "amount": "30 g"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Neutral oil",
+          "zh": "中性油"
+        },
+        "amount": "25 ml"
+      },
+      {
+        "name": {
+          "en": "Cooked glutinous rice flour for dusting",
+          "zh": "熟糯米粉（防黏）"
+        },
+        "amount": "as needed"
+      },
+      {
+        "name": {
+          "en": "Prepared lotus-seed or red-bean paste",
+          "zh": "蓮蓉或豆沙餡"
+        },
+        "amount": "300 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Mix batter",
+          "zh": "調冰皮漿"
+        },
+        "en": "Snow-skin mooncakes",
+        "zh": "冰皮月餅"
+      },
+      {
+        "title": {
+          "en": "Steam",
+          "zh": "蒸熟"
+        },
+        "en": "Snow-skin mooncakes",
+        "zh": "冰皮月餅"
+      },
+      {
+        "title": {
+          "en": "Fill and shape",
+          "zh": "包餡壓模"
+        },
+        "en": "Snow-skin mooncakes",
+        "zh": "冰皮月餅"
+      },
+      {
+        "title": {
+          "en": "Chill",
+          "zh": "冷藏"
+        },
+        "en": "Snow-skin mooncakes",
+        "zh": "冰皮月餅"
+      }
+    ],
+    "notes": {
+      "en": "Use a clean mould and follow storage guidance for the chosen filling; homemade filled mooncakes are perishable.",
+      "zh": "模具保持清潔，並按餡料種類遵守保存指引；自製冰皮月餅屬易腐食品。"
+    }
   }
 ]
