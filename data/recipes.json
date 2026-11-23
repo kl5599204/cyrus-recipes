@@ -9250,5 +9250,1208 @@
       "en": "Cook beef quickly and avoid overcrowding the wok for a tender result.",
       "zh": "牛肉要快炒，鑊內勿太擠，保持嫩滑。"
     }
+  },
+  {
+    "id": "portuguese-pork-chop-baked-rice",
+    "title": {
+      "en": "Macanese-style pork chop baked rice",
+      "zh": "葡汁焗豬扒飯"
+    },
+    "cuisine": {
+      "en": "Macau / Hong Kong",
+      "zh": "澳門／香港"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 65,
+    "added": "2026-11-23",
+    "tags": [
+      "pork",
+      "rice",
+      "baked",
+      "cheese"
+    ],
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Thick pork chops",
+          "zh": "厚切豬扒"
+        },
+        "amount": "3 (about 600 g)"
+      },
+      {
+        "name": {
+          "en": "Cooked rice",
+          "zh": "熟飯"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Tomato, chopped",
+          "zh": "番茄（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Coconut milk",
+          "zh": "椰奶"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Curry powder",
+          "zh": "咖喱粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Turmeric",
+          "zh": "黃薑粉"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Pineapple juice",
+          "zh": "菠蘿汁"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Grated cheese",
+          "zh": "芝士碎"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Light soy sauce",
+          "zh": "生抽"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Marinate and sear chops",
+          "zh": "醃煎豬扒"
+        },
+        "en": "Macanese-style pork chop baked rice",
+        "zh": "葡汁焗豬扒飯"
+      },
+      {
+        "title": {
+          "en": "Prepare rice",
+          "zh": "準備飯底"
+        },
+        "en": "Macanese-style pork chop baked rice",
+        "zh": "葡汁焗豬扒飯"
+      },
+      {
+        "title": {
+          "en": "Make Portuguese-style sauce",
+          "zh": "煮葡汁"
+        },
+        "en": "Macanese-style pork chop baked rice",
+        "zh": "葡汁焗豬扒飯"
+      },
+      {
+        "title": {
+          "en": "Assemble and bake",
+          "zh": "組合焗製"
+        },
+        "en": "Macanese-style pork chop baked rice",
+        "zh": "葡汁焗豬扒飯"
+      }
+    ],
+    "notes": {
+      "en": "The original linked source did not expose all ingredient labels in the chat export; this is a consolidated home version based on the final sauce proportions recorded there.",
+      "zh": "原對話的連結匯入未顯示全部材料文字；此為按最後記錄醬汁比例整理的家常整合版。"
+    }
+  },
+  {
+    "id": "gnocchi-tomato-cream",
+    "title": {
+      "en": "Gnocchi in tomato cream sauce",
+      "zh": "番茄忌廉薯仔糰子"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 30,
+    "added": "2026-11-23",
+    "tags": [
+      "gnocchi",
+      "tomato",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Potato gnocchi",
+          "zh": "薯仔糰子"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Passata or chopped tomatoes",
+          "zh": "番茄蓉或番茄碎"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Basil",
+          "zh": "羅勒"
+        },
+        "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook sauce base",
+          "zh": "煮番茄醬"
+        },
+        "en": "Gnocchi in tomato cream sauce",
+        "zh": "番茄忌廉薯仔糰子"
+      },
+      {
+        "title": {
+          "en": "Cook gnocchi",
+          "zh": "煮薯仔糰子"
+        },
+        "en": "Gnocchi in tomato cream sauce",
+        "zh": "番茄忌廉薯仔糰子"
+      },
+      {
+        "title": {
+          "en": "Finish sauce",
+          "zh": "完成醬汁"
+        },
+        "en": "Gnocchi in tomato cream sauce",
+        "zh": "番茄忌廉薯仔糰子"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Gnocchi in tomato cream sauce",
+        "zh": "番茄忌廉薯仔糰子"
+      }
+    ],
+    "notes": {
+      "en": "Pan-fried gnocchi can be used instead of boiling for a crisp exterior.",
+      "zh": "薯仔糰子亦可不水煮，直接煎至外層金黃。"
+    }
+  },
+  {
+    "id": "rocket-garlic-pasta",
+    "title": {
+      "en": "Rocket & garlic olive-oil pasta",
+      "zh": "火箭菜蒜香橄欖油意粉"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-23",
+    "tags": [
+      "pasta",
+      "rocket",
+      "garlic",
+      "quick"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Spaghetti",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Rocket leaves",
+          "zh": "火箭菜"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, thinly sliced",
+          "zh": "蒜頭（切薄片）"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "4 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chilli flakes, optional",
+          "zh": "辣椒碎（可選）"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Lemon zest, optional",
+          "zh": "檸檬皮屑（可選）"
+        },
+        "amount": "½ lemon"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Rocket & garlic olive-oil pasta",
+        "zh": "火箭菜蒜香橄欖油意粉"
+      },
+      {
+        "title": {
+          "en": "Warm garlic oil",
+          "zh": "煮蒜油"
+        },
+        "en": "Rocket & garlic olive-oil pasta",
+        "zh": "火箭菜蒜香橄欖油意粉"
+      },
+      {
+        "title": {
+          "en": "Toss",
+          "zh": "拌麵"
+        },
+        "en": "Rocket & garlic olive-oil pasta",
+        "zh": "火箭菜蒜香橄欖油意粉"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Rocket & garlic olive-oil pasta",
+        "zh": "火箭菜蒜香橄欖油意粉"
+      }
+    ],
+    "notes": {
+      "en": "Add rocket at the end to preserve its fresh, peppery flavour.",
+      "zh": "火箭菜最後才加入，保留清新微辛香氣。"
+    }
+  },
+  {
+    "id": "creamy-bacon-pasta",
+    "title": {
+      "en": "Creamy bacon pasta",
+      "zh": "忌廉煙肉意粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "pasta",
+      "bacon",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Bacon, sliced",
+          "zh": "煙肉（切片）"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "200 ml"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "40 g"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Pasta water",
+          "zh": "意粉水"
+        },
+        "amount": "100 ml"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Creamy bacon pasta",
+        "zh": "忌廉煙肉意粉"
+      },
+      {
+        "title": {
+          "en": "Fry bacon",
+          "zh": "煎煙肉"
+        },
+        "en": "Creamy bacon pasta",
+        "zh": "忌廉煙肉意粉"
+      },
+      {
+        "title": {
+          "en": "Make sauce",
+          "zh": "煮忌廉汁"
+        },
+        "en": "Creamy bacon pasta",
+        "zh": "忌廉煙肉意粉"
+      },
+      {
+        "title": {
+          "en": "Combine",
+          "zh": "合併"
+        },
+        "en": "Creamy bacon pasta",
+        "zh": "忌廉煙肉意粉"
+      }
+    ],
+    "notes": {
+      "en": "This cream-based bacon pasta is kept separate from carbonara because it uses a cooked cream sauce rather than an egg emulsion.",
+      "zh": "此款煙肉忌廉意粉與卡邦尼分開保留，因為使用煮成的忌廉汁而非蛋液乳化醬。"
+    }
+  },
+  {
+    "id": "peri-peri-chicken-pasta",
+    "title": {
+      "en": "Peri-peri chicken pasta",
+      "zh": "葡式辣雞意粉"
+    },
+    "cuisine": {
+      "en": "Portuguese-inspired",
+      "zh": "葡式風味"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "chicken",
+      "pasta",
+      "peri-peri",
+      "spicy"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Chicken thigh, sliced",
+          "zh": "雞髀肉（切片）"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Peri-peri sauce",
+          "zh": "葡式辣醬"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Red pepper, sliced",
+          "zh": "紅椒（切條）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Onion, sliced",
+          "zh": "洋蔥（切片）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "120 ml"
+      },
+      {
+        "name": {
+          "en": "Chicken stock",
+          "zh": "雞湯"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Parmesan, optional",
+          "zh": "巴馬臣芝士（可選）"
+        },
+        "amount": "30 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Peri-peri chicken pasta",
+        "zh": "葡式辣雞意粉"
+      },
+      {
+        "title": {
+          "en": "Cook chicken",
+          "zh": "煎雞肉"
+        },
+        "en": "Peri-peri chicken pasta",
+        "zh": "葡式辣雞意粉"
+      },
+      {
+        "title": {
+          "en": "Make sauce",
+          "zh": "煮辣醬汁"
+        },
+        "en": "Peri-peri chicken pasta",
+        "zh": "葡式辣雞意粉"
+      },
+      {
+        "title": {
+          "en": "Combine",
+          "zh": "拌麵"
+        },
+        "en": "Peri-peri chicken pasta",
+        "zh": "葡式辣雞意粉"
+      }
+    ],
+    "notes": {
+      "en": "Adjust the peri-peri amount to the heat of your sauce brand.",
+      "zh": "辣醬辣度因品牌不同，份量按口味調整。"
+    }
+  },
+  {
+    "id": "crab-spinach-pasta",
+    "title": {
+      "en": "Crab & spinach pasta",
+      "zh": "蟹肉菠菜意粉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "crab",
+      "spinach",
+      "pasta",
+      "seafood"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Crab meat",
+          "zh": "蟹肉"
+        },
+        "amount": "200 g"
+      },
+      {
+        "name": {
+          "en": "Baby spinach",
+          "zh": "嫩菠菜"
+        },
+        "amount": "120 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, minced",
+          "zh": "蒜蓉"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Shallot, diced",
+          "zh": "乾蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Double cream",
+          "zh": "雙忌廉"
+        },
+        "amount": "150 ml"
+      },
+      {
+        "name": {
+          "en": "White wine, optional",
+          "zh": "白酒（可選）"
+        },
+        "amount": "60 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Lemon juice",
+          "zh": "檸檬汁"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "30 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook pasta",
+          "zh": "煮意粉"
+        },
+        "en": "Crab & spinach pasta",
+        "zh": "蟹肉菠菜意粉"
+      },
+      {
+        "title": {
+          "en": "Build sauce",
+          "zh": "煮醬汁"
+        },
+        "en": "Crab & spinach pasta",
+        "zh": "蟹肉菠菜意粉"
+      },
+      {
+        "title": {
+          "en": "Add seafood and spinach",
+          "zh": "加入蟹肉菠菜"
+        },
+        "en": "Crab & spinach pasta",
+        "zh": "蟹肉菠菜意粉"
+      },
+      {
+        "title": {
+          "en": "Toss",
+          "zh": "拌麵"
+        },
+        "en": "Crab & spinach pasta",
+        "zh": "蟹肉菠菜意粉"
+      }
+    ],
+    "notes": {
+      "en": "The history paired creamy crab pasta with roasted squash soup; this entry keeps the pasta as its own recipe.",
+      "zh": "歷史中蟹肉忌廉意粉曾配烤南瓜湯；此處將意粉整理成獨立食譜。"
+    }
+  },
+  {
+    "id": "shrimp-shell-broth-pasta",
+    "title": {
+      "en": "Shrimp-shell broth pasta",
+      "zh": "蝦殼高湯鮮蝦意粉"
+    },
+    "cuisine": {
+      "en": "Italy-inspired",
+      "zh": "意式風味"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "shrimp",
+      "pasta",
+      "seafood broth"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Pasta",
+          "zh": "意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Whole shrimp, shell-on",
+          "zh": "連殼大蝦"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "4 cloves"
+      },
+      {
+        "name": {
+          "en": "Shallot",
+          "zh": "乾蔥"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "White wine",
+          "zh": "白酒"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Chopped tomatoes",
+          "zh": "番茄碎"
+        },
+        "amount": "150 g"
+      },
+      {
+        "name": {
+          "en": "Water",
+          "zh": "水"
+        },
+        "amount": "700 ml"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Parsley",
+          "zh": "番荽"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chilli flakes, optional",
+          "zh": "辣椒碎（可選）"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Make shell broth",
+          "zh": "煮蝦殼湯"
+        },
+        "en": "Shrimp-shell broth pasta",
+        "zh": "蝦殼高湯鮮蝦意粉"
+      },
+      {
+        "title": {
+          "en": "Cook pasta and shrimp",
+          "zh": "煮意粉及蝦"
+        },
+        "en": "Shrimp-shell broth pasta",
+        "zh": "蝦殼高湯鮮蝦意粉"
+      },
+      {
+        "title": {
+          "en": "Build sauce",
+          "zh": "煮醬汁"
+        },
+        "en": "Shrimp-shell broth pasta",
+        "zh": "蝦殼高湯鮮蝦意粉"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Shrimp-shell broth pasta",
+        "zh": "蝦殼高湯鮮蝦意粉"
+      }
+    ],
+    "notes": {
+      "en": "The remaining shell broth can be frozen for another seafood dish.",
+      "zh": "剩餘蝦殼高湯可冷凍留待其他海鮮料理使用。"
+    }
+  },
+  {
+    "id": "sirloin-pepper-puree",
+    "title": {
+      "en": "Sirloin steak with pepper purée",
+      "zh": "西冷牛扒配黑椒蓉"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "steak",
+      "pepper",
+      "purée"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Sirloin steaks",
+          "zh": "西冷牛扒"
+        },
+        "amount": "3 (about 600 g)"
+      },
+      {
+        "name": {
+          "en": "Red bell peppers",
+          "zh": "紅椒"
+        },
+        "amount": "3"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Stock",
+          "zh": "高湯"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Black peppercorns, crushed",
+          "zh": "黑胡椒粒（壓碎）"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Cream, optional",
+          "zh": "忌廉（可選）"
+        },
+        "amount": "50 ml"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Roast peppers",
+          "zh": "烤紅椒"
+        },
+        "en": "Sirloin steak with pepper purée",
+        "zh": "西冷牛扒配黑椒蓉"
+      },
+      {
+        "title": {
+          "en": "Blend purée",
+          "zh": "攪紅椒蓉"
+        },
+        "en": "Sirloin steak with pepper purée",
+        "zh": "西冷牛扒配黑椒蓉"
+      },
+      {
+        "title": {
+          "en": "Cook steak",
+          "zh": "煎牛扒"
+        },
+        "en": "Sirloin steak with pepper purée",
+        "zh": "西冷牛扒配黑椒蓉"
+      },
+      {
+        "title": {
+          "en": "Pepper butter finish",
+          "zh": "黑椒牛油汁"
+        },
+        "en": "Sirloin steak with pepper purée",
+        "zh": "西冷牛扒配黑椒蓉"
+      }
+    ],
+    "notes": {
+      "en": "Whole pepper purée can be made ahead; steak doneness ranges are preferences, not food-safety targets.",
+      "zh": "紅椒蓉可預先製作；牛扒生熟度屬個人喜好範圍，不等同食安目標。"
+    }
+  },
+  {
+    "id": "duck-breast-pan-seared",
+    "title": {
+      "en": "Pan-seared duck breast",
+      "zh": "香煎鴨胸"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-23",
+    "tags": [
+      "duck",
+      "pan-seared",
+      "orange"
+    ],
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Duck breasts, skin-on",
+          "zh": "連皮鴨胸"
+        },
+        "amount": "3 (about 600 g)"
+      },
+      {
+        "name": {
+          "en": "Salt",
+          "zh": "鹽"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Black pepper",
+          "zh": "黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Orange juice",
+          "zh": "橙汁"
+        },
+        "amount": "120 ml"
+      },
+      {
+        "name": {
+          "en": "Orange zest",
+          "zh": "橙皮屑"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Red wine vinegar",
+          "zh": "紅酒醋"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "15 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Score and season",
+          "zh": "界皮調味"
+        },
+        "en": "Pan-seared duck breast",
+        "zh": "香煎鴨胸"
+      },
+      {
+        "title": {
+          "en": "Render skin",
+          "zh": "煎出鴨油"
+        },
+        "en": "Pan-seared duck breast",
+        "zh": "香煎鴨胸"
+      },
+      {
+        "title": {
+          "en": "Finish cooking",
+          "zh": "煎熟鴨胸"
+        },
+        "en": "Pan-seared duck breast",
+        "zh": "香煎鴨胸"
+      },
+      {
+        "title": {
+          "en": "Make orange sauce",
+          "zh": "煮橙汁"
+        },
+        "en": "Pan-seared duck breast",
+        "zh": "香煎鴨胸"
+      }
+    ],
+    "notes": {
+      "en": "For duck safety and doneness, follow current guidance and use a probe; carryover heat continues during resting.",
+      "zh": "鴨肉食安及熟度請參照最新指引並用探針量度；靜置期間中心仍會升溫。"
+    }
   }
 ]
