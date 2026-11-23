@@ -268,8 +268,8 @@
       "zh": "忌廉蘑菇煙頰肉雞飯"
     },
     "cuisine": {
-      "en": "French-inspired",
-      "zh": "法式風味"
+      "en": "France",
+      "zh": "法國"
     },
     "type": {
       "en": "Main",
@@ -424,8 +424,8 @@
       "zh": "蒜香芝士大蝦凱撒沙律"
     },
     "cuisine": {
-      "en": "Hong Kong café-style",
-      "zh": "港式西餐廳風"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Salad",
@@ -557,8 +557,8 @@
       "zh": "忌廉吞拿魚蘑菇意粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Pasta",
@@ -691,8 +691,8 @@
       "zh": "忌廉蘑菇韭蔥薯仔湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -818,8 +818,8 @@
       "zh": "四川麻醬湯擔擔麵"
     },
     "cuisine": {
-      "en": "Sichuan",
-      "zh": "四川"
+      "en": "China",
+      "zh": "中國"
     },
     "type": {
       "en": "Noodles",
@@ -1100,8 +1100,8 @@
       "zh": "多汁漢堡扒"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -1227,8 +1227,8 @@
       "zh": "忌廉蔬菜燴雞"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -1509,8 +1509,8 @@
       "zh": "羅勒牛油雞扒配薯蓉蘑菇"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -1630,7 +1630,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Dinner set",
@@ -2103,7 +2103,7 @@
       "zh": "葡汁雞翼飯"
     },
     "cuisine": {
-      "en": "Macanese",
+      "en": "Macau",
       "zh": "澳門"
     },
     "type": {
@@ -2244,8 +2244,8 @@
       "zh": "海南雞飯"
     },
     "cuisine": {
-      "en": "Singapore / Hainan",
-      "zh": "新加坡／海南"
+      "en": "Singapore",
+      "zh": "新加坡"
     },
     "type": {
       "en": "Main",
@@ -2799,8 +2799,8 @@
       "zh": "中式煙肉奶油津白"
     },
     "cuisine": {
-      "en": "Chinese",
-      "zh": "中式"
+      "en": "China",
+      "zh": "中國"
     },
     "type": {
       "en": "Vegetable side",
@@ -3134,8 +3134,8 @@
       "zh": "蜜糖黑椒牛扒蓋飯"
     },
     "cuisine": {
-      "en": "Hong Kong café-style",
-      "zh": "港式西餐廳風"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Main",
@@ -3838,8 +3838,8 @@
       "zh": "港式粟米肉粒飯"
     },
     "cuisine": {
-      "en": "Hong Kong café-style",
-      "zh": "港式茶餐廳"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Main",
@@ -3980,8 +3980,8 @@
       "zh": "脆皮糖醋肉"
     },
     "cuisine": {
-      "en": "Chinese",
-      "zh": "中式"
+      "en": "China",
+      "zh": "中國"
     },
     "type": {
       "en": "Main",
@@ -5178,8 +5178,8 @@
       "zh": "中式免治豬肉炒菜"
     },
     "cuisine": {
-      "en": "Chinese",
-      "zh": "中式"
+      "en": "China",
+      "zh": "中國"
     },
     "type": {
       "en": "Main",
@@ -6044,8 +6044,8 @@
       "zh": "車打芝士通心粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Side",
@@ -6356,8 +6356,8 @@
       "zh": "龍蝦濃湯鮮蝦意粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Pasta",
@@ -6662,8 +6662,8 @@
       "zh": "忌廉番茄湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -6796,8 +6796,8 @@
       "zh": "烤南瓜忌廉湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -6923,8 +6923,8 @@
       "zh": "香煎蝴蝶羊腿扒"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -7248,8 +7248,8 @@
       "zh": "忌廉西蘭花湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -7509,8 +7509,8 @@
       "zh": "牛肉雜菜羅宋湯"
     },
     "cuisine": {
-      "en": "Hong Kong café-style",
-      "zh": "港式茶餐廳風"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Soup",
@@ -7829,8 +7829,8 @@
       "zh": "牛扒忌廉蘑菇配薯蓉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -9124,8 +9124,8 @@
       "zh": "沙爹牛肉炒嫩莖西蘭花"
     },
     "cuisine": {
-      "en": "Hong Kong / Chinese",
-      "zh": "香港／中式"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Main",
@@ -9265,8 +9265,8 @@
       "zh": "葡汁焗豬扒飯"
     },
     "cuisine": {
-      "en": "Macau / Hong Kong",
-      "zh": "澳門／香港"
+      "en": "Macau",
+      "zh": "澳門"
     },
     "type": {
       "en": "Main",
@@ -9690,8 +9690,8 @@
       "zh": "忌廉煙肉意粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Pasta",
@@ -9810,8 +9810,8 @@
       "zh": "葡式辣雞意粉"
     },
     "cuisine": {
-      "en": "Portuguese-inspired",
-      "zh": "葡式風味"
+      "en": "Portugal",
+      "zh": "葡萄牙"
     },
     "type": {
       "en": "Pasta",
@@ -9945,8 +9945,8 @@
       "zh": "忌廉海鮮菠菜意粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Pasta",
@@ -10080,8 +10080,8 @@
       "zh": "蝦殼高湯鮮蝦意粉"
     },
     "cuisine": {
-      "en": "Italy-inspired",
-      "zh": "意式風味"
+      "en": "Italy",
+      "zh": "意大利"
     },
     "type": {
       "en": "Pasta",
@@ -10221,8 +10221,8 @@
       "zh": "西冷牛扒配黑椒蓉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10348,8 +10348,8 @@
       "zh": "香煎鴨胸"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10468,8 +10468,8 @@
       "zh": "迷迭香羊扒／羊架"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10581,8 +10581,8 @@
       "zh": "紅酒燴牛脷"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10722,8 +10722,8 @@
       "zh": "紅酒燉牛肉／牛尾"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10871,8 +10871,8 @@
       "zh": "慢烤豬肩肉／豬肋骨"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -10998,8 +10998,8 @@
       "zh": "香烤全雞／雞翼"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -11103,7 +11103,7 @@
       "zh": "壓力煲牛肉薯蓉批"
     },
     "cuisine": {
-      "en": "British",
+      "en": "United Kingdom",
       "zh": "英國"
     },
     "type": {
@@ -11246,7 +11246,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Main",
@@ -11366,8 +11366,8 @@
       "zh": "香煎三文魚配橙汁"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -11485,8 +11485,8 @@
       "zh": "忌廉三文魚菠菜千層麵"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -11627,8 +11627,8 @@
       "zh": "忌廉蘑菇雞湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -11762,8 +11762,8 @@
       "zh": "中式蔬菜粟米湯"
     },
     "cuisine": {
-      "en": "Chinese",
-      "zh": "中式"
+      "en": "China",
+      "zh": "中國"
     },
     "type": {
       "en": "Soup",
@@ -11896,7 +11896,7 @@
       "zh": "龍蝦濃湯"
     },
     "cuisine": {
-      "en": "French",
+      "en": "France",
       "zh": "法國"
     },
     "type": {
@@ -12195,7 +12195,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Pasta",
@@ -12321,8 +12321,8 @@
       "zh": "氣炸雞胸"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Main",
@@ -12554,8 +12554,8 @@
       "zh": "希臘風茄子牛肉飯"
     },
     "cuisine": {
-      "en": "Greek-inspired",
-      "zh": "希臘風味"
+      "en": "Greece",
+      "zh": "希臘"
     },
     "type": {
       "en": "Main",
@@ -12703,8 +12703,8 @@
       "zh": "蝦殼高湯蘆筍意大利飯"
     },
     "cuisine": {
-      "en": "Italy-inspired",
-      "zh": "意式風味"
+      "en": "Italy",
+      "zh": "意大利"
     },
     "type": {
       "en": "Main",
@@ -12837,8 +12837,8 @@
       "zh": "忌廉蟹籽醬蝦仁意粉"
     },
     "cuisine": {
-      "en": "Japanese-inspired",
-      "zh": "日式風味"
+      "en": "Japan",
+      "zh": "日本"
     },
     "type": {
       "en": "Pasta",
@@ -13129,7 +13129,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Main",
@@ -13256,7 +13256,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Side",
@@ -13377,7 +13377,7 @@
     },
     "cuisine": {
       "en": "Fusion",
-      "zh": "融合風味"
+      "zh": "融合菜式"
     },
     "type": {
       "en": "Pasta",
@@ -13496,8 +13496,8 @@
       "zh": "忌廉牛扒意粉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Pasta",
@@ -14032,8 +14032,8 @@
       "zh": "忌廉番薯湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
@@ -14152,8 +14152,8 @@
       "zh": "煙肉薯蓉及椰菜花蓉"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Side",
@@ -14266,8 +14266,8 @@
       "zh": "酥炸椰菜仔"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Side",
@@ -14478,8 +14478,8 @@
       "zh": "新鮮番荽油"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Sauce",
@@ -14562,8 +14562,8 @@
       "zh": "忌廉蘑菇牛扒汁"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Sauce",
@@ -14682,7 +14682,7 @@
     },
     "cuisine": {
       "en": "Global BBQ",
-      "zh": "世界燒烤"
+      "zh": "環球燒烤"
     },
     "type": {
       "en": "Sauce",
@@ -14809,7 +14809,7 @@
     },
     "cuisine": {
       "en": "Global BBQ",
-      "zh": "世界燒烤"
+      "zh": "環球燒烤"
     },
     "type": {
       "en": "Main",
@@ -15168,8 +15168,8 @@
       "zh": "冰皮月餅"
     },
     "cuisine": {
-      "en": "Hong Kong / Chinese",
-      "zh": "香港／中式"
+      "en": "Hong Kong",
+      "zh": "香港"
     },
     "type": {
       "en": "Dessert",
@@ -15565,8 +15565,8 @@
       "zh": "忌廉薯仔湯"
     },
     "cuisine": {
-      "en": "Western",
-      "zh": "西式"
+      "en": "United States",
+      "zh": "美國"
     },
     "type": {
       "en": "Soup",
