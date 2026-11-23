@@ -9934,8 +9934,8 @@
   {
     "id": "crab-spinach-pasta",
     "title": {
-      "en": "Crab & spinach pasta",
-      "zh": "蟹肉菠菜意粉"
+      "en": "Creamy seafood & spinach pasta",
+      "zh": "忌廉海鮮菠菜意粉"
     },
     "cuisine": {
       "en": "Western",
@@ -9965,10 +9965,10 @@
       },
       {
         "name": {
-          "en": "Crab meat",
-          "zh": "蟹肉"
+          "en": "Crab meat or peeled shrimp",
+          "zh": "蟹肉或蝦仁"
         },
-        "amount": "200 g"
+        "amount": "250 g"
       },
       {
         "name": {
@@ -10033,37 +10033,37 @@
           "en": "Cook pasta",
           "zh": "煮意粉"
         },
-        "en": "Crab & spinach pasta",
-        "zh": "蟹肉菠菜意粉"
+        "en": "Boil pasta until al dente; reserve 100 ml pasta water.",
+        "zh": "意粉煮至彈牙，留100毫升麵水。"
       },
       {
         "title": {
           "en": "Build sauce",
           "zh": "煮醬汁"
         },
-        "en": "Crab & spinach pasta",
-        "zh": "蟹肉菠菜意粉"
+        "en": "Melt butter and soften shallot and garlic. Add optional wine and reduce; stir in cream and warm gently.",
+        "zh": "融化牛油，炒軟乾蔥及蒜蓉。加入可選白酒煮至收乾，拌入忌廉輕輕加熱。"
       },
       {
         "title": {
-          "en": "Add seafood and spinach",
-          "zh": "加入蟹肉菠菜"
+          "en": "Cook seafood and spinach",
+          "zh": "煮海鮮菠菜"
         },
-        "en": "Crab & spinach pasta",
-        "zh": "蟹肉菠菜意粉"
+        "en": "If using shrimp, cook until just opaque. Fold crab or shrimp and spinach into the sauce until spinach wilts; season with lemon and pepper.",
+        "zh": "如用蝦仁，先煮至剛不透明。蟹肉或蝦仁及菠菜拌入醬汁至菠菜軟身，以檸檬汁及黑椒調味。"
       },
       {
         "title": {
           "en": "Toss",
           "zh": "拌麵"
         },
-        "en": "Crab & spinach pasta",
-        "zh": "蟹肉菠菜意粉"
+        "en": "Add pasta and Parmesan; loosen with pasta water and serve.",
+        "zh": "加入意粉及芝士，按需要加麵水調整後上桌。"
       }
     ],
     "notes": {
-      "en": "The history paired creamy crab pasta with roasted squash soup; this entry keeps the pasta as its own recipe.",
-      "zh": "歷史中蟹肉忌廉意粉曾配烤南瓜湯；此處將意粉整理成獨立食譜。"
+      "en": "Use crab for a delicate pasta or shrimp for the quick seafood variation; this combines the overlapping crab-spinach and quick spinach-seafood candidates.",
+      "zh": "可用蟹肉做清鮮版本，或用蝦仁做快捷海鮮版本；此處整合蟹肉菠菜及快手海鮮菠菜意粉候選。"
     }
   },
   {
@@ -15272,6 +15272,410 @@
     "notes": {
       "en": "Use a clean mould and follow storage guidance for the chosen filling; homemade filled mooncakes are perishable.",
       "zh": "模具保持清潔，並按餡料種類遵守保存指引；自製冰皮月餅屬易腐食品。"
+    }
+  },
+  {
+    "id": "hot-soba-udon-soup",
+    "title": {
+      "en": "Japanese hot soba or udon soup",
+      "zh": "日式熱蕎麥麵／烏冬湯"
+    },
+    "cuisine": {
+      "en": "Japan",
+      "zh": "日本"
+    },
+    "type": {
+      "en": "Soup / noodles",
+      "zh": "湯麵"
+    },
+    "baseServings": 3,
+    "minutes": 25,
+    "added": "2026-11-23",
+    "tags": [
+      "soba",
+      "udon",
+      "soup",
+      "tsuyu"
+    ],
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Soba or udon noodles",
+          "zh": "蕎麥麵或烏冬"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Dashi stock",
+          "zh": "鰹魚高湯"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "Soy sauce",
+          "zh": "日式醬油"
+        },
+        "amount": "3 tbsp"
+      },
+      {
+        "name": {
+          "en": "Mirin",
+          "zh": "味醂"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Sugar",
+          "zh": "糖"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Spring onion",
+          "zh": "蔥花"
+        },
+        "amount": "2"
+      },
+      {
+        "name": {
+          "en": "Aburaage or mushrooms, optional",
+          "zh": "油豆腐或冬菇（可選）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Eggs, optional",
+          "zh": "雞蛋（可選）"
+        },
+        "amount": "3"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Cook noodles",
+          "zh": "煮麵"
+        },
+        "en": "Japanese hot soba or udon soup",
+        "zh": "日式熱蕎麥麵／烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Season broth",
+          "zh": "調湯底"
+        },
+        "en": "Japanese hot soba or udon soup",
+        "zh": "日式熱蕎麥麵／烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Warm toppings",
+          "zh": "加熱配料"
+        },
+        "en": "Japanese hot soba or udon soup",
+        "zh": "日式熱蕎麥麵／烏冬湯"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上桌"
+        },
+        "en": "Japanese hot soba or udon soup",
+        "zh": "日式熱蕎麥麵／烏冬湯"
+      }
+    ],
+    "notes": {
+      "en": "This is a clear tsuyu-style broth; the separate miso chicken udon remains a richer variation.",
+      "zh": "此款為清湯麵汁版本；另有濃郁味噌雞肉烏冬作變化。"
+    }
+  },
+  {
+    "id": "bolognese-paccheri-reginette",
+    "title": {
+      "en": "Bolognese ragù with paccheri or reginette",
+      "zh": "波隆那肉醬配Paccheri或Reginette"
+    },
+    "cuisine": {
+      "en": "Italy",
+      "zh": "意大利"
+    },
+    "type": {
+      "en": "Pasta",
+      "zh": "意粉"
+    },
+    "baseServings": 3,
+    "minutes": 150,
+    "added": "2026-11-23",
+    "tags": [
+      "beef",
+      "ragù",
+      "pasta",
+      "tomato"
+    ],
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Beef mince",
+          "zh": "牛肉碎"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Carrot, diced",
+          "zh": "甘筍（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Celery, diced",
+          "zh": "西芹（切粒）"
+        },
+        "amount": "1 stalk"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Tomato paste",
+          "zh": "茄膏"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Chopped tomatoes",
+          "zh": "番茄碎"
+        },
+        "amount": "400 g"
+      },
+      {
+        "name": {
+          "en": "Beef stock",
+          "zh": "牛湯"
+        },
+        "amount": "250 ml"
+      },
+      {
+        "name": {
+          "en": "Red wine",
+          "zh": "紅酒"
+        },
+        "amount": "120 ml"
+      },
+      {
+        "name": {
+          "en": "Milk",
+          "zh": "牛奶"
+        },
+        "amount": "100 ml"
+      },
+      {
+        "name": {
+          "en": "Paccheri or reginette",
+          "zh": "Paccheri或Reginette意粉"
+        },
+        "amount": "300 g"
+      },
+      {
+        "name": {
+          "en": "Parmesan",
+          "zh": "巴馬臣芝士"
+        },
+        "amount": "50 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Build soffritto",
+          "zh": "炒蔬菜底"
+        },
+        "en": "Bolognese ragù with paccheri or reginette",
+        "zh": "波隆那肉醬配Paccheri或Reginette"
+      },
+      {
+        "title": {
+          "en": "Brown beef",
+          "zh": "炒牛肉"
+        },
+        "en": "Bolognese ragù with paccheri or reginette",
+        "zh": "波隆那肉醬配Paccheri或Reginette"
+      },
+      {
+        "title": {
+          "en": "Braise ragù",
+          "zh": "慢燉肉醬"
+        },
+        "en": "Bolognese ragù with paccheri or reginette",
+        "zh": "波隆那肉醬配Paccheri或Reginette"
+      },
+      {
+        "title": {
+          "en": "Cook and serve pasta",
+          "zh": "煮意粉上桌"
+        },
+        "en": "Bolognese ragù with paccheri or reginette",
+        "zh": "波隆那肉醬配Paccheri或Reginette"
+      }
+    ],
+    "notes": {
+      "en": "The same ragù can be used for the existing Bolognese lasagne; this card covers the paccheri and reginette pasta chats without duplicating the sauce recipe.",
+      "zh": "同一肉醬亦可用於既有波隆那千層麵；此卡整合Paccheri及Reginette意粉對話，不重複肉醬版本。"
+    }
+  },
+  {
+    "id": "creamy-potato-soup",
+    "title": {
+      "en": "Creamy potato soup",
+      "zh": "忌廉薯仔湯"
+    },
+    "cuisine": {
+      "en": "Western",
+      "zh": "西式"
+    },
+    "type": {
+      "en": "Soup",
+      "zh": "湯"
+    },
+    "baseServings": 3,
+    "minutes": 40,
+    "added": "2026-11-23",
+    "tags": [
+      "potato",
+      "soup",
+      "cream"
+    ],
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=82",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Potatoes, peeled and cubed",
+          "zh": "薯仔（去皮切粒）"
+        },
+        "amount": "700 g"
+      },
+      {
+        "name": {
+          "en": "Onion, diced",
+          "zh": "洋蔥（切粒）"
+        },
+        "amount": "1"
+      },
+      {
+        "name": {
+          "en": "Garlic",
+          "zh": "蒜頭"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Stock",
+          "zh": "高湯"
+        },
+        "amount": "900 ml"
+      },
+      {
+        "name": {
+          "en": "Double cream or milk",
+          "zh": "雙忌廉或牛奶"
+        },
+        "amount": "120 ml"
+      },
+      {
+        "name": {
+          "en": "Thyme",
+          "zh": "百里香"
+        },
+        "amount": "½ tsp"
+      },
+      {
+        "name": {
+          "en": "Salt and pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Chives, optional",
+          "zh": "細香蔥（可選）"
+        },
+        "amount": "to garnish"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Sauté",
+          "zh": "炒香"
+        },
+        "en": "Creamy potato soup",
+        "zh": "忌廉薯仔湯"
+      },
+      {
+        "title": {
+          "en": "Simmer",
+          "zh": "煮薯仔"
+        },
+        "en": "Creamy potato soup",
+        "zh": "忌廉薯仔湯"
+      },
+      {
+        "title": {
+          "en": "Blend",
+          "zh": "攪打"
+        },
+        "en": "Creamy potato soup",
+        "zh": "忌廉薯仔湯"
+      },
+      {
+        "title": {
+          "en": "Finish",
+          "zh": "完成"
+        },
+        "en": "Creamy potato soup",
+        "zh": "忌廉薯仔湯"
+      }
+    ],
+    "notes": {
+      "en": "For the mushroom-leek version, follow the separate creamy mushroom, leek and potato soup recipe already in the collection.",
+      "zh": "蘑菇韭蔥版本請參考收藏中已有的忌廉蘑菇韭蔥薯仔湯。"
     }
   }
 ]
