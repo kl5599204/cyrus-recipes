@@ -3712,7 +3712,7 @@
       "egg",
       "rice"
     ],
-    "image": "assets/photos/hong-kong.jpg",
+    "image": "assets/photos/tomato-beef-egg-rice.jpg",
     "ingredients": [
       {
         "name": {
@@ -3854,7 +3854,7 @@
       "rice",
       "café"
     ],
-    "image": "assets/photos/hong-kong.jpg",
+    "image": "assets/photos/corn-pork-rice.jpg",
     "ingredients": [
       {
         "name": {
@@ -3995,7 +3995,7 @@
       "crispy",
       "sweet and sour"
     ],
-    "image": "assets/photos/hong-kong.jpg",
+    "image": "assets/photos/sweet-sour-pork.jpg",
     "ingredients": [
       {
         "name": {
@@ -4164,7 +4164,7 @@
       "shrimp paste",
       "steamed"
     ],
-    "image": "assets/photos/seafood.jpg",
+    "image": "assets/photos/steamed-pork-shrimp-paste.jpg",
     "ingredients": [
       {
         "name": {
@@ -14387,7 +14387,7 @@
       "egg",
       "butter"
     ],
-    "image": "assets/photos/french.jpg",
+    "image": "assets/photos/hollandaise.jpg",
     "ingredients": [
       {
         "name": {
@@ -14493,7 +14493,7 @@
       "oil",
       "herb"
     ],
-    "image": "assets/photos/comfort-food.jpg",
+    "image": "assets/photos/parsley-oil.jpg",
     "ingredients": [
       {
         "name": {
@@ -14696,7 +14696,7 @@
       "marinade",
       "sauce"
     ],
-    "image": "assets/photos/comfort-food.jpg",
+    "image": "assets/photos/bbq-sauces.jpg",
     "ingredients": [
       {
         "name": {
@@ -15085,7 +15085,7 @@
       "yoghurt",
       "drink"
     ],
-    "image": "assets/photos/indian.jpg",
+    "image": "assets/photos/mango-lassi.jpg",
     "ingredients": [
       {
         "name": {
