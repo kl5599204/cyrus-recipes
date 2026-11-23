@@ -4228,6 +4228,13 @@
           "zh": "蔥花（可選）"
         },
         "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Tofu puffs, optional",
+          "zh": "豆腐卜（可選）"
+        },
+        "amount": "6"
       }
     ],
     "steps": [
@@ -4244,8 +4251,8 @@
           "en": "Arrange for steaming",
           "zh": "排碟"
         },
-        "en": "Spread pork in a shallow heatproof plate in an even layer, leaving space for steam to circulate.",
-        "zh": "豬肉平均鋪在淺身耐熱碟上，預留空間讓蒸氣流通。"
+        "en": "Spread pork in a shallow heatproof plate; arrange optional tofu puffs around it to absorb the juices.",
+        "zh": "豬肉平均鋪在淺身耐熱碟上；可選豆腐卜圍在旁邊吸收蒸汁。"
       },
       {
         "title": {
@@ -15800,6 +15807,27 @@
           "zh": "紹興酒"
         },
         "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "White pepper",
+          "zh": "白胡椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Cornflour",
+          "zh": "生粉"
+        },
+        "amount": "1 tsp"
+      },
+      {
+        "name": {
+          "en": "Sesame oil",
+          "zh": "麻油"
+        },
+        "amount": "1 tsp"
       }
     ],
     "steps": [
@@ -15808,8 +15836,8 @@
           "en": "Marinate wings",
           "zh": "醃雞翼"
         },
-        "en": "Hong Kong satay chicken wings & glass-noodle pot",
-        "zh": "港式沙嗲雞翼粉絲煲"
+        "en": "Mix wings with soy, oyster sauce, pepper, sugar, cornflour and sesame oil; rest 30 minutes.",
+        "zh": "雞翼加入生抽、蠔油、白胡椒、糖、生粉及麻油拌勻，醃30分鐘。"
       },
       {
         "title": {
@@ -15950,6 +15978,13 @@
           "zh": "蔥花"
         },
         "amount": "to garnish"
+      },
+      {
+        "name": {
+          "en": "Neutral oil",
+          "zh": "食用油"
+        },
+        "amount": "1 tsp"
       }
     ],
     "steps": [
