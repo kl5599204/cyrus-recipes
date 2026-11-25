@@ -14148,12 +14148,12 @@
   {
     "id": "bacon-mash-cauliflower-mash",
     "title": {
-      "en": "Bacon mash & cauliflower mash",
-      "zh": "煙肉薯蓉及椰菜花蓉"
+      "en": "Bacon mash & silky cauliflower purée",
+      "zh": "煙肉薯蓉及絲滑椰菜花蓉"
     },
     "cuisine": {
-      "en": "United States",
-      "zh": "美國"
+      "en": "United Kingdom",
+      "zh": "英國"
     },
     "type": {
       "en": "Side",
@@ -14166,55 +14166,78 @@
       "potato",
       "cauliflower",
       "bacon",
-      "side"
+      "side",
+      "purée",
+      "variation"
     ],
     "image": "assets/photos/comfort-food.jpg",
     "ingredients": [
       {
         "name": {
-          "en": "Potatoes",
-          "zh": "薯仔"
+          "en": "Potatoes, peeled and cut into chunks (for mash)",
+          "zh": "薯仔（去皮切件，做薯蓉）"
         },
         "amount": "600 g"
       },
       {
         "name": {
-          "en": "Cauliflower florets",
-          "zh": "椰菜花"
+          "en": "Cauliflower, cut into florets (for purée)",
+          "zh": "椰菜花（切小花，做蓉）"
         },
         "amount": "500 g"
       },
       {
         "name": {
-          "en": "Bacon, diced",
-          "zh": "煙肉（切粒）"
+          "en": "Bacon, diced (for potato mash)",
+          "zh": "煙肉（切粒，配薯蓉）"
         },
         "amount": "100 g"
       },
       {
         "name": {
-          "en": "Butter",
-          "zh": "牛油"
+          "en": "Butter (potato mash)",
+          "zh": "牛油（薯蓉）"
         },
         "amount": "40 g"
       },
       {
         "name": {
-          "en": "Milk",
-          "zh": "牛奶"
+          "en": "Butter (cauliflower purée)",
+          "zh": "牛油（椰菜花蓉）"
+        },
+        "amount": "25 g"
+      },
+      {
+        "name": {
+          "en": "Milk, warmed (potato mash)",
+          "zh": "牛奶（暖熱，薯蓉）"
         },
         "amount": "100 ml"
       },
       {
         "name": {
-          "en": "Double cream, optional",
-          "zh": "雙忌廉（可選）"
+          "en": "Milk, warmed (cauliflower purée)",
+          "zh": "牛奶（暖熱，椰菜花蓉）"
+        },
+        "amount": "50–100 ml"
+      },
+      {
+        "name": {
+          "en": "Soft cheese (cauliflower purée)",
+          "zh": "忌廉芝士（椰菜花蓉）"
+        },
+        "amount": "60 g"
+      },
+      {
+        "name": {
+          "en": "Double cream, optional (potato mash)",
+          "zh": "雙忌廉（可選，薯蓉）"
         },
         "amount": "50 ml"
       },
       {
         "name": {
-          "en": "Salt and pepper",
+          "en": "Salt and black pepper",
           "zh": "鹽及黑椒"
         },
         "amount": "to taste"
@@ -14223,40 +14246,56 @@
     "steps": [
       {
         "title": {
-          "en": "Cook vegetables",
-          "zh": "煮蔬菜"
+          "en": "Cook the potatoes",
+          "zh": "煮薯仔"
         },
-        "en": "Bacon mash & cauliflower mash",
-        "zh": "煙肉薯蓉及椰菜花蓉"
+        "en": "Boil the potato chunks in salted water for 15–20 minutes, until very tender. Drain well.",
+        "zh": "薯仔切件後放入鹽水煮15–20分鐘至軟身，瀝乾。"
       },
       {
         "title": {
-          "en": "Crisp bacon",
-          "zh": "煎煙肉"
+          "en": "Cook the cauliflower",
+          "zh": "煮椰菜花"
         },
-        "en": "Bacon mash & cauliflower mash",
-        "zh": "煙肉薯蓉及椰菜花蓉"
+        "en": "Boil cauliflower florets in salted water for 12–15 minutes until very soft. Drain thoroughly, then return to the hot pan for 1–2 minutes to evaporate excess moisture.",
+        "zh": "椰菜花小花以鹽水煮12–15分鐘至非常軟，徹底瀝乾，再放回熱鍋1–2分鐘蒸走多餘水分。"
       },
       {
         "title": {
-          "en": "Mash",
-          "zh": "壓蓉"
+          "en": "Crisp the bacon (for mash)",
+          "zh": "煎香煙肉（薯蓉用）"
         },
-        "en": "Bacon mash & cauliflower mash",
-        "zh": "煙肉薯蓉及椰菜花蓉"
+        "en": "Fry diced bacon in a pan until golden and crisp. Drain; reserve a little bacon fat if desired.",
+        "zh": "煙肉切粒煎至金黃香脆，瀝油；可留少量煙肉油。"
       },
       {
         "title": {
-          "en": "Serve",
-          "zh": "上桌"
+          "en": "Make the potato mash",
+          "zh": "製作煙肉薯蓉"
         },
-        "en": "Bacon mash & cauliflower mash",
-        "zh": "煙肉薯蓉及椰菜花蓉"
+        "en": "Mash potatoes with 40 g butter and warmed milk. Add optional cream, season, then fold in the crispy bacon.",
+        "zh": "薯仔壓蓉，加入40克牛油及暖牛奶；可加雙忌廉，調味後拌入香脆煙肉。"
+      },
+      {
+        "title": {
+          "en": "Blend the cauliflower purée",
+          "zh": "製作椰菜花蓉"
+        },
+        "en": "Blend the drained cauliflower with 25 g butter and 60 g soft cheese until smooth. Add warmed milk gradually to reach a silky consistency. Season with salt and pepper.",
+        "zh": "椰菜花加入25克牛油及60克忌廉芝士打至順滑，逐少加入暖牛奶調至絲滑質感，最後調味。"
+      },
+      {
+        "title": {
+          "en": "Serve as separate sides",
+          "zh": "分開上碟"
+        },
+        "en": "Serve the potato mash and cauliflower purée separately; the cauliflower purée works especially well under fish.",
+        "zh": "薯蓉及椰菜花蓉分開上碟；椰菜花蓉尤其適合配白魚。"
       }
     ],
     "notes": {
-      "en": "This groups two side-dish candidates while keeping the mash bases separate.",
-      "zh": "此卡整合兩款配菜候選，但薯蓉及椰菜花蓉保持分開做法。"
+      "en": "Merged and refined the existing mash/cauliflower side entry. The potato mash and cauliflower purée remain separate variations; use only the cauliflower purée for the basa dinner.",
+      "zh": "整合及改善原有薯蓉／椰菜花蓉配菜食譜，兩款仍是獨立做法；今晚配Basa可只做椰菜花蓉。"
     }
   },
   {
@@ -16258,5 +16297,345 @@
         }
       }
     ]
+  },
+  {
+    "id": "basa-bacon-lemon-butter",
+    "title": {
+      "en": "Pan-seared basa with crispy bacon & lemon butter",
+      "zh": "香煎Basa魚柳配香脆煙肉檸檬牛油"
+    },
+    "cuisine": {
+      "en": "United Kingdom",
+      "zh": "英國"
+    },
+    "type": {
+      "en": "Main",
+      "zh": "主菜"
+    },
+    "baseServings": 3,
+    "minutes": 20,
+    "added": "2026-11-25",
+    "tags": [
+      "basa",
+      "fish",
+      "bacon",
+      "lemon",
+      "main"
+    ],
+    "image": "assets/photos/seafood.jpg",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Basa fillets, patted dry",
+          "zh": "Basa魚柳（抹乾）"
+        },
+        "amount": "500 g"
+      },
+      {
+        "name": {
+          "en": "Smoked bacon, cut into lardons",
+          "zh": "煙燻煙肉（切粒）"
+        },
+        "amount": "100 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "20 g"
+      },
+      {
+        "name": {
+          "en": "Garlic, finely minced",
+          "zh": "蒜頭（切蓉）"
+        },
+        "amount": "2 cloves"
+      },
+      {
+        "name": {
+          "en": "Thyme, leaves picked",
+          "zh": "百里香（摘葉）"
+        },
+        "amount": "1–2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Lemon, zest and juice",
+          "zh": "檸檬（刨皮及榨汁）"
+        },
+        "amount": "½"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Crisp the bacon",
+          "zh": "煎香煙肉"
+        },
+        "en": "Start the bacon in a cold pan over medium heat. Fry slowly until the fat renders and the bacon is crisp and golden. Remove and drain; leave about 1 tbsp bacon fat in the pan.",
+        "zh": "煙肉冷鍋下，以中火慢煎至出油、金黃香脆。取出瀝油，鍋中留約1湯匙煙肉油。"
+      },
+      {
+        "title": {
+          "en": "Season the fish",
+          "zh": "調味魚柳"
+        },
+        "en": "Pat the basa very dry and season lightly with salt and black pepper.",
+        "zh": "魚柳抹至乾爽，輕輕以鹽及黑椒調味。"
+      },
+      {
+        "title": {
+          "en": "Pan-sear",
+          "zh": "煎魚"
+        },
+        "en": "Heat the bacon fat with olive oil over medium-high heat. Add the fish and cook for about 3–4 minutes on the first side, carefully flip, then cook another 2–3 minutes depending on thickness.",
+        "zh": "煙肉油加入橄欖油，以中大火加熱。魚柳下鍋，第一面煎約3–4分鐘，小心翻面再煎2–3分鐘，視厚度調整。"
+      },
+      {
+        "title": {
+          "en": "Butter-baste and finish",
+          "zh": "牛油香煎及完成"
+        },
+        "en": "Lower the heat. Add butter, garlic and thyme; spoon the fragrant butter over the fish for the final minute. Finish with lemon zest and a squeeze of lemon juice. The fish should be opaque and flake easily.",
+        "zh": "轉細火，加入牛油、蒜蓉及百里香，最後1分鐘用香草牛油淋魚。加入檸檬皮及少量檸檬汁，魚肉應呈不透明並容易剝開。"
+      },
+      {
+        "title": {
+          "en": "Serve",
+          "zh": "上碟"
+        },
+        "en": "Scatter crispy bacon over the fish. Serve with cauliflower purée, crispy potatoes, roasted carrots and a small amount of hollandaise.",
+        "zh": "魚柳上撒香脆煙肉，配椰菜花蓉、脆薯仔、烤甘筍及少量荷蘭汁。"
+      }
+    ],
+    "notes": {
+      "en": "For a 3-person dinner using 500 g basa. Basa is delicate—avoid overcooking. Target 63°C internal temperature if using a thermometer.",
+      "zh": "此食譜按3人份、500克Basa魚柳設計。魚肉較嫩，避免過熟；如有溫度計，中心約63°C。"
+    }
+  },
+  {
+    "id": "crispy-rosemary-garlic-potatoes",
+    "title": {
+      "en": "Crispy rosemary & garlic roast potatoes",
+      "zh": "迷迭香蒜香脆焗薯仔"
+    },
+    "cuisine": {
+      "en": "United Kingdom",
+      "zh": "英國"
+    },
+    "type": {
+      "en": "Side",
+      "zh": "配菜"
+    },
+    "baseServings": 3,
+    "minutes": 50,
+    "added": "2026-11-25",
+    "tags": [
+      "potato",
+      "roast",
+      "crispy",
+      "rosemary",
+      "garlic",
+      "side"
+    ],
+    "image": "assets/photos/comfort-food.jpg",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Potatoes, peeled if desired and cut into 3–4 cm chunks",
+          "zh": "薯仔（可去皮，切3–4厘米件）"
+        },
+        "amount": "600 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "2 tbsp"
+      },
+      {
+        "name": {
+          "en": "Garlic cloves, lightly crushed",
+          "zh": "蒜頭（輕拍裂）"
+        },
+        "amount": "3 cloves"
+      },
+      {
+        "name": {
+          "en": "Rosemary, leaves picked",
+          "zh": "迷迭香（摘葉）"
+        },
+        "amount": "1–2 sprigs"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      },
+      {
+        "name": {
+          "en": "Butter, optional to finish",
+          "zh": "牛油（可選，最後加入）"
+        },
+        "amount": "15 g"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Parboil",
+          "zh": "先煮薯仔"
+        },
+        "en": "Heat the oven to 200°C fan / 220°C conventional. Boil potatoes in salted water for 8–10 minutes, until the edges begin to soften. Drain thoroughly.",
+        "zh": "焗爐預熱至200°C熱風／220°C普通模式。薯仔放入鹽水煮8–10分鐘至邊緣稍軟，瀝乾。"
+      },
+      {
+        "title": {
+          "en": "Rough up the edges",
+          "zh": "弄粗薯仔表面"
+        },
+        "en": "Shake the drained potatoes in the pan to roughen their surfaces. Let steam-dry for a few minutes.",
+        "zh": "瀝乾後搖晃鍋子令薯仔表面粗糙，放幾分鐘蒸乾。"
+      },
+      {
+        "title": {
+          "en": "Roast",
+          "zh": "焗至金黃"
+        },
+        "en": "Toss with olive oil, salt and pepper. Spread in one layer on a tray and roast for 35–45 minutes, turning halfway.",
+        "zh": "加入橄欖油、鹽及黑椒拌勻，單層鋪在焗盤，焗35–45分鐘，中途翻面。"
+      },
+      {
+        "title": {
+          "en": "Add aromatics",
+          "zh": "加入香草蒜頭"
+        },
+        "en": "Add crushed garlic and rosemary for the final 15–20 minutes so they become fragrant without burning. Toss with optional butter before serving.",
+        "zh": "最後15–20分鐘加入拍裂蒜頭及迷迭香，避免過早燒焦。上碟前可拌入牛油。"
+      }
+    ],
+    "notes": {
+      "en": "Parboiling and roughening the potato surface are the keys to a crisp exterior and fluffy centre. Avoid overcrowding the tray.",
+      "zh": "先煮及弄粗表面是外脆內鬆的關鍵；焗盤不要擠得太密。"
+    }
+  },
+  {
+    "id": "honey-thyme-roasted-carrots",
+    "title": {
+      "en": "Honey & thyme roasted carrots",
+      "zh": "蜜糖百里香烤甘筍"
+    },
+    "cuisine": {
+      "en": "United Kingdom",
+      "zh": "英國"
+    },
+    "type": {
+      "en": "Vegetable side",
+      "zh": "蔬菜配菜"
+    },
+    "baseServings": 3,
+    "minutes": 35,
+    "added": "2026-11-25",
+    "tags": [
+      "carrot",
+      "roast",
+      "honey",
+      "thyme",
+      "vegetable",
+      "side"
+    ],
+    "image": "assets/photos/comfort-food.jpg",
+    "ingredients": [
+      {
+        "name": {
+          "en": "Carrots, peeled and cut into even batons",
+          "zh": "甘筍（去皮，切均勻條）"
+        },
+        "amount": "300–350 g"
+      },
+      {
+        "name": {
+          "en": "Olive oil",
+          "zh": "橄欖油"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Butter",
+          "zh": "牛油"
+        },
+        "amount": "15 g"
+      },
+      {
+        "name": {
+          "en": "Honey",
+          "zh": "蜜糖"
+        },
+        "amount": "1 tbsp"
+      },
+      {
+        "name": {
+          "en": "Thyme, leaves picked",
+          "zh": "百里香（摘葉）"
+        },
+        "amount": "1 sprig"
+      },
+      {
+        "name": {
+          "en": "Salt and black pepper",
+          "zh": "鹽及黑椒"
+        },
+        "amount": "to taste"
+      }
+    ],
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare and season",
+          "zh": "備料及調味"
+        },
+        "en": "Heat oven to 200°C fan / 220°C conventional. Peel carrots and cut into evenly sized batons. Toss with olive oil, salt, pepper and thyme.",
+        "zh": "焗爐預熱至200°C熱風／220°C普通模式。甘筍去皮切均勻條，與橄欖油、鹽、黑椒及百里香拌勻。"
+      },
+      {
+        "title": {
+          "en": "Roast",
+          "zh": "烤甘筍"
+        },
+        "en": "Spread on a tray without overcrowding. Roast for 25–35 minutes, turning halfway, until tender and lightly caramelised.",
+        "zh": "甘筍單層鋪在焗盤，不要擠得太密。焗25–35分鐘，中途翻面至軟身及微焦糖化。"
+      },
+      {
+        "title": {
+          "en": "Honey-butter glaze",
+          "zh": "蜜糖牛油"
+        },
+        "en": "During the final 10 minutes, toss with honey and butter, then return to the oven until glossy and lightly browned.",
+        "zh": "最後10分鐘加入蜜糖及牛油拌勻，再放回焗爐焗至光亮及微焦。"
+      }
+    ],
+    "notes": {
+      "en": "The honey is added near the end to prevent it from burning. Works well alongside fish, mash and buttery sauces.",
+      "zh": "蜜糖最後才加入，避免燒焦；適合配魚、薯蓉及牛油醬汁。"
+    }
   }
 ]
